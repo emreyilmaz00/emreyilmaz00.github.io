@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD. Candidate</a>. Georgia Institute of Technology, Atlan
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kivanc.jpg
   address: >
     <p>North Ave.</p>
     <p>Georgia Institute of Technology</p>
