@@ -1,15 +1,15 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: services
+permalink: /services/
 description: A growing collection of your cool projects.
 nav: true
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
+<!-- pages/services.md -->
+<div class="services">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
