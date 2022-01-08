@@ -1,7 +1,7 @@
 ---
 layout: page
 title: services
-permalink: /projects/
+permalink: /services/
 description: A growing collection of your cool projects.
 nav: true
 display_categories: [work, fun]
