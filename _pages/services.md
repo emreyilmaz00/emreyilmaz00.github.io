@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 <!-- pages/services.md -->
-<div class="projects">
+<div class="services">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
@@ -28,7 +28,7 @@ horizontal: false
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include services.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
