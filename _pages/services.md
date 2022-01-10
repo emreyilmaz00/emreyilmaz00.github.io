@@ -2,7 +2,7 @@
 layout: page
 title: services
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Cool services!.
 nav: true
 display_categories: [work]
 horizontal: false
