@@ -21,7 +21,7 @@
             <h3 class="card-title text-lowercase">{{ service.title }}</h3>
             <p class="card-text">{{ service.description }}</p>
             <div class="row ml-1 mr-1 p-0">
-              {%- if project.github -%}
+              {%- if service.github -%}
               <div class="github-icon">
                 <div class="icon" data-toggle="tooltip" title="Code Repository">
                   <a href="{{ service.github }}"><i class="fab fa-github gh-icon"></i></a>
