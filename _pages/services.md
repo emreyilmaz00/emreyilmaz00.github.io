@@ -49,7 +49,7 @@ horizontal: false
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include services.html %}
+      {% include projects.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
