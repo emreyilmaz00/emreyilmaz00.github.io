@@ -4,7 +4,7 @@ title: services
 permalink: /services/
 description: Cool services!.
 nav: true
-display_categories: [work]
+display_categories: [work, fun]
 horizontal: false
 ---
 
