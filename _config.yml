@@ -206,8 +206,9 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Yilmaz
   first_name: [Emre]
+  last_name: Yilmaz
+  
 
   style: apa
   locale: en
