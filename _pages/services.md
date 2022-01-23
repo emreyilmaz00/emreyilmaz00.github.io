@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 <!-- pages/services.md -->
-<div class="services">
+<div class="projects">
 {%- if site.enable_service_categories and page.display_categories %}
   <!-- Display categorized services -->
   {%- for category in page.display_categories %}
