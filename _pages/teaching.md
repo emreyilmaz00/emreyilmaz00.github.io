@@ -1,34 +1,34 @@
 ---
 layout: page
-title: services
-permalink: /services/
+title: teaching
+permalink: /teaching/
 description: Cool services!.
 nav: true
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/services.md -->
+<!-- pages/teaching.md -->
 <div class="projects">
-{%- if site.enable_service_categories and page.display_categories %}
+{%- if site.enable_teaching_categories and page.display_categories %}
   <!-- Display categorized services -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_services = site.services | where: "category", category -%}
-  {%- assign sorted_services = categorized_services | sort: "importance" %}
+  {%- assign categorized_services = site.teaching | where: "category", category -%}
+  {%- assign sorted_teaching = categorized_teaching | sort: "importance" %}
   <!-- Generate cards for each service -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for service in sorted_services -%}
-      {% include services_horizontal.html %}
+    {%- for teaching in sorted_teaching -%}
+      {% include teaching_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for service in sorted_services -%}
-      {% include services.html %}
+    {%- for teaching in sorted_teaching -%}
+      {% include teaching.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -36,20 +36,20 @@ horizontal: false
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_services = site.services | sort: "importance" -%}
+  {%- assign sorted_teaching = site.teaching | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for service in sorted_services -%}
-      {% include services_horizontal.html %}
+    {%- for teaching in sorted_teaching -%}
+      {% include teaching_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for service in sorted_services -%}
-      {% include services.html %}
+    {%- for teaching in sorted_teaching -%}
+      {% include teaching.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
