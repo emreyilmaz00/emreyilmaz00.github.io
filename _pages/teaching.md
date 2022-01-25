@@ -14,7 +14,7 @@ horizontal: false
   <!-- Display categorized services -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_services = site.teaching | where: "category", category -%}
+  {%- assign categorized_teaching = site.teaching | where: "category", category -%}
   {%- assign sorted_teaching = categorized_teaching | sort: "importance" %}
   <!-- Generate cards for each service -->
   {% if page.horizontal -%}
