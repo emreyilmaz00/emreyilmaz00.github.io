@@ -1,7 +1,7 @@
 ---
 layout: page
 title: services 1
-description: a project that can be edited fine with a background image
+description: Reviewer
 img: assets/img/12.jpg
 importance: 1
 category: work
