@@ -110,7 +110,7 @@ collections:
     permalink: /projects/:path/
   services:
     output: true
-    permalink: /services/:path/
+    permalink: /teaching/:path/
     
 news_limit: 3
 
