@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 6
-description: a project with no image
+description: UAV Design, Autonomy, and Propulsion System Optimization <!---a project with no image--->
 img:
 importance: 4
 category: fun
