@@ -1,6 +1,6 @@
 ---
 layout: page
-title: service 6
+title: teaching 6
 description: a service with no image
 img:
 importance: 4
