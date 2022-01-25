@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 4
-description: another without an image
+description: Safety and Reliability Analysis of Aerospace Vehicle Subsystems <!---another without an image--->
 img:
 importance: 3
 category: fun
