@@ -1,6 +1,6 @@
 ---
 layout: page
-title: services 2
+title: teaching 2
 description: updated: a project with a background image
 img: assets/img/3.jpg
 importance: 2
