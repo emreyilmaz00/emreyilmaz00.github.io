@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching 1
+title: Teach 1
 description: Reviewer
 img: assets/img/12.jpg
 importance: 1
