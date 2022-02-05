@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: eVTOL Control Allocation, Path Planning, and Flight Dynamics
 description: eVTOL Path Planning and Control <!---a project with a background image--->
 img: assets/img/12.jpg
 importance: 1
