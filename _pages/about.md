@@ -18,3 +18,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 e^{i pi} + 1 = 0
+
+ 
+ <a href="https://scholar.google.com/citations?hl=en&user=1Ie3QuMAAAAJ">Google Scholar</a>  
+
+<!--LinkedIn Research Gate Resume
+
+
+
+>
+
