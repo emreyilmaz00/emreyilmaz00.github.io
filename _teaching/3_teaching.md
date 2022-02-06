@@ -1,16 +1,20 @@
 ---
 layout: page
-title: Aircraft Design 
-description: a project that redirects to another website
+title: Teaching Assistant
+description: Aeronautical Engineering Design, Introduction to Aircraft Performance, Control Engineering Design I 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: teaching assistant
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+
+
+  Introduction to Aircraft Performance [\href{http://ae.metu.edu.tr/~ae172/17/AE172Spring2017SyllabusKutay.pdf}{AE 172}] (Fall'12,Fall'13) 
+
+  Aeronautical Engineering Design [\href{http://www.ae.metu.edu.tr/under/courses/ae451.html}{AE 451}] (Spring'11,Spring'12)   
+
+  Control Engineering Design [\href{http://www.ae.metu.edu.tr/under/courses/ae384.html}{AE 384}]
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
