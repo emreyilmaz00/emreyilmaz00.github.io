@@ -2,7 +2,7 @@
 layout: page
 title: Quadrotor Attitude Controller Design
 description: Non-linear, Adaptive, and Robust Control Applications to Attitude Control Design of a Quadrotor <!---a project with a background image--->
-img: assets/img/quad2.jpg
+img: assets/img/quad4.jpg
 importance: 3
 category: ODTU/METU
 ---
