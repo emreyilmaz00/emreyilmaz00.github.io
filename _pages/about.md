@@ -21,50 +21,46 @@ I conduct research about control, flight dynamic modeling, performance, and traj
 
 
 My research interests include:
-
-    1) eVTOL Aircraft Research: 
-        i)  Control Allocation and Trajectory Optimization 
-       ii)  Flight Dynamic Modeling and Optimization
-      iii)  The Implications of Over-Actuation on Flight Control, 
-            Performance, and Design
-       iv)  Contingency Planning 
-      
-    2) Physics Informed Machine Learning
-       --Applications with Deep ConvNets and CGANs 
+   - eVTOL Aircraft Research: 
+       -  Control Allocation and Trajectory Optimization 
+       -  Flight Dynamic Modeling and Optimization
+       -  The Implications of Over-Actuation on Flight Control, Performance, and Design
+       -  Contingency Planning
+   - Physics Informed Machine Learning
+       - Applications with Deep ConvNets and CGANs 
        
-    3) UAM Research
-        i)  Multi Agent Path Planning Optimization 
-       ii)  Optimal Control and MDAO frameworks
-      iii)  Deep Reinforcement Learning Approaches 
-       iv)  Landing Operations Research  
+   - UAM Research
+       -  Multi Agent Path Planning Optimization 
+       -  Optimal Control and MDAO frameworks
+       -  Deep Reinforcement Learning Approaches 
+       -  Landing Operations Research  
        
-    4) Automatic Flight Control Systems
-        i) Non-linear, Adaptive, and Robust Control Applications
-       ii) Robotic Flight 
+   - Automatic Flight Control Systems
+       - Non-linear, Adaptive, and Robust Control Applications
+       - Robotic Flight 
     
-    5) Multidisciplinary Design Analysis and Optimization
+   - Multidisciplinary Design Analysis and Optimization
 
 
 
-<p> Education </p>
+### Education
 
-    Ph.D.(ongoing), Aerospace Engineering, Georgia Institute of Technology, 2020 (expected)
+   - **Ph.D.**, Aerospace Engineering, Georgia Institute of Technology, 2020 (expected)
+      - Dissertation Title:  
+      - Advisor: Brian German 
 
-    MS, Aerospace Engineering, ODTU/METU, 2014
+   - **M.Sc.**, Aerospace Engineering, ODTU/METU, 2014
+      - Dissertation Title:
+      - Advisor: 
 
-    BS, Aerospace Engineering, ODTU/METU, 2011
+   - **B.Sc.**, Aerospace Engineering, ODTU/METU, 2011
 
-<p> Experience </p>
-
-    Graduate Research Assistant, Georgia Institute of Technology, January 2016 – Present
-
-    Graduate Teaching Assistant, Georgia Institute of Technology, August 2014 – December 2015
-
-    Graduate Research and Teaching Assistant, ODTU/METU, Turkey, October 2011 – July 2014
-
-    Intern, ODTU/METU, Summer 2010
-
-    Intern, Turkish Aerospace Inc., Summer 2009
+### Experience
+   - Graduate Research Assistant, Georgia Institute of Technology, January 2016 – Present     
+   - Graduate Teaching Assistant, Georgia Institute of Technology, August 2014 – December 2015
+   - Graduate Research and Teaching Assistant, ODTU/METU, Turkey, October 2011 – July 2014
+   - Intern, ODTU/METU, Summer 2010
+   - Intern, Turkish Aerospace Inc., Summer 2009
 
 
 
