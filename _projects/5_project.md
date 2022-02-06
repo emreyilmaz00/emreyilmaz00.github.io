@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Urban Air Mobility Landing Operations Research
-description: i) Landing Approach Surfaces Design and Performance Analysis in terms of Energy, Power, and Time. ii) Constraint analysis considering inflow modeling, VRS, acceleration limits, dead man's curve, speed limits, obstacles, and FAA regulations. iii) Landing Simulations under Turbulence Using Retrofit Tilt-Wing Model and Landing Accuracy Analysis via Circular Error Probables. <!---another without an image--->
+title: UAM Landing Operations Research
+description: Landing Approach Surfaces Performance and Constraint Analysis and Landing Accuracy Analysis  <!---another without an image--->
 img: /assets/img/dbf01.jpg
 importance: 3
 category: Ph.D. (Georgia Tech)
