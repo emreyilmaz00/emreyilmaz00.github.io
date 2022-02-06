@@ -2,7 +2,7 @@
 layout: page
 title: Aeronautical Engineering Design
 description:
-img: assets/img/7.jpg
+img: /assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 2
 category: Master of Science (ODTU/METU)
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: service
+    title: teaching
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
