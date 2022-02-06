@@ -1,17 +1,18 @@
 ---
 layout: page
-title: teaching 5
-description: a project with a background image
+title: Control and Simulation Lab
+description: Lead Coordinator 
 img: assets/img/1.jpg
 importance: 3
 category: teaching assistant
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Lead Coordinator in METU Aerospace Engineering Control and Simulation Laboratory:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Participated as the leading coordinator in the establishment of the lab equipped with mechanisms for control engineering, organized the control and simulation lab hardware, software and experiments, and prepared the lecture materials. 
+
+  
+\textbf{Supporting Lab Assistant:} Flight Dynamics [\href{https://ocw.metu.edu.tr/pluginfile.php/24002/mod_resource/content/1/Syll_2017.pdf}{AE 372}], and Aerospace Engineering Laboratory [\href{https://catalog.metu.edu.tr/course.php?prog=572&course_code=5720410}{AE 410}].
 
     ---
     layout: page
