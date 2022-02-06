@@ -1,7 +1,7 @@
 ---
 layout: page
-title: eVTOL Control Allocation and Path Planning 
-description: Control Allocation Optimization, Path Planning, and Flight Dynamic Modeling of Over-Actuated eVTOL Aircraft <!---a project with a background image--->
+title: eVTOL Control Allocation, Flight Dynamics, and Path Planning 
+description: Control Allocation Optimization, Hybrid-Automata Based Path Planning, Contingency Planning, and Flight Dynamic Modeling of Over-Actuated eVTOL Aircraft <!---a project with a background image--->
 img: assets/img/12.jpg
 importance: 1
 category: Ph.D. (Georgia Tech)
@@ -12,9 +12,7 @@ category: Ph.D. (Georgia Tech)
 
 <!---Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:--->
+Make your photos 1/3, 2/3, or full width. To give your project a background in the portfolio page, just add the img tag to the front matter like so:--->
 
     ---
     layout: page
@@ -35,6 +33,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
+ 
     Hybrid Automaton-Based Path Planning, Control Allocation Optimization, Over-Actuated eVTOL Aircraft Flight Dynamic and Performance Modeling, Distributed Propulsion Concepts, Transition/Tilting Considerations, and Multi-Disciplinary Analysis and Optimization Frameworks 
     
 <!---Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.--->
