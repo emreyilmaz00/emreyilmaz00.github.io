@@ -2,7 +2,7 @@
 layout: page
 title: RC-UAV Design Projects
 description: UAV Design, Autonomy, and Propulsion System Optimization <!---a project with no image--->
-img: /assets/img/acc.jpg
+img: /assets/img/acc0.jpg
 importance: 4
 category: ODTU/METU
 ---
