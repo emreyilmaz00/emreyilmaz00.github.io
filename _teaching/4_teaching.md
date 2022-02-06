@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Introduction to Aircraft Performance
-description: another without an image
-img:
+description:
+img: /assets/img/12.jpg
 importance: 3
 category: Master of Science (ODTU/METU)
 ---
