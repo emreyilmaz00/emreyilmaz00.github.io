@@ -4,7 +4,7 @@ title: Reliability of Aerospace Vehicle Subsystems
 description: Safety and Reliability Analysis of Aerospace Vehicle Subsystems by Propagating Statistical Moments of Failure Probabilities in Fault Trees <!---another without an image--->
 img:
 importance: 3
-category: fun
+category: GaTech
 ---
 
 Every project has a beautiful feature showcase page.
