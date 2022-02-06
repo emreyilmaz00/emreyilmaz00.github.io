@@ -1,15 +1,15 @@
 ---
 layout: page
-title: UAM Landing Operations Research
-description: Landing Approach Surfaces Performance and Constraint Analysis and Landing Accuracy Analysis  <!---another without an image--->
+title: Other Projects
+description:    <!---another without an image--->
 img: /assets/img/dbf1.jpg
 importance: 3
 category: Ph.D. (Georgia Tech)
 ---
  
-i) Landing Approach Surfaces Design and Performance Analysis in terms of Energy, Power, and Time. 
-ii) Constraint analysis considering inflow modeling, VRS, acceleration limits, dead man's curve, speed limits, obstacles, and FAA regulations. 
-iii) Landing Simulations under Turbulence Using Retrofit Tilt-Wing Model and Landing Accuracy Analysis via Circular Error Probables.
+i) Modeling Engineering Decision Environment:Model-free learningmethods, Q-Learning, and GP-regression
+
+ii) Incorporating Semi-Parametric GP Regression into DDP
 
     ---
     layout: page
