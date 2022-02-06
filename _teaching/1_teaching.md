@@ -4,7 +4,7 @@ title: Teach 1
 description: Reviewer
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: lab work
 ---
 
 Dummy extra initial text.
