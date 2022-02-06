@@ -13,35 +13,15 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gilded3.png" title="A New Research Direction for MDO" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Deep features and patterns in data sets obtained from runs or experiments can be detected using deep networks.
-</div>
-
-
-<!---
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
---->
-
-<div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/hlmotiv.png" title="High Level Motivations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    High Level Motivations
+   Deep Learning as a direction for MDAO and High Level Motivations of Deep Learning 
 </div>
+
+
 
 
 **A Convolutional Neural Network Approach for Training Predictors for Airfoil Performance**
@@ -85,7 +65,20 @@ Say you wanted to write a little bit about your project before you posted the re
 You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
 
 
+<!---
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
+--->
 
 <!---
 <div class="row justify-content-sm-center">
