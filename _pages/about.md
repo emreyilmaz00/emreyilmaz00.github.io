@@ -22,11 +22,17 @@ I conduct research about control, optimization, and flight dynamic modeling prob
 
 My research interests include:
 
-    Control Allocation and Path Planning of eVTOL A/C
-    Flight Dynamic Modeling of eVTOL Aircraft
+    eVTOL Aircraft Research: 
+        i)  Control Allocation and Path Planning of eVTOL A/C
+       ii)  Flight Dynamic Modeling of eVTOL Aircraft
+      iii)  Control Design and Performance of Over-actuated eVTOL Concepts
+    
     Physics Informed Machine Learning
+    
     UAM Air Traffic Optimization
+    
     Automatic Flight Control Systems
+    
     Multidisciplinary Design Analysis and Optimization
 
 
