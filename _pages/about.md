@@ -45,15 +45,15 @@ My research interests include:
 
 ### Education
 
-   - **Ph.D.**, Aerospace Engineering, Georgia Institute of Technology, 2020 (expected)
+   - **Ph.D.**, Aerospace Engineering, _Georgia Institute of Technology_, 2020 (expected)
       - Dissertation Title:  
       - Advisor: Brian German 
 
-   - **M.Sc.**, Aerospace Engineering, ODTU/METU, 2014
+   - **M.Sc.**, Aerospace Engineering, _ODTU/METU_, 2014
       - Dissertation Title:
       - Advisor: 
 
-   - **B.Sc.**, Aerospace Engineering, ODTU/METU, 2011
+   - **B.Sc.**, Aerospace Engineering, _ODTU/METU_, 2011
 
 ### Experience
    - Graduate Research Assistant, Georgia Institute of Technology, January 2016 – Present     
