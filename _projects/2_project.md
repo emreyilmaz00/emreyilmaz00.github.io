@@ -7,7 +7,7 @@ importance: 2
 category: Ph.D. (Georgia Tech)
 ---
 
-In an NSF workshop in 2012, Sobieski stated that "_MDO needs to break out of its gilded cage, and find ways to help conceive new designs, not just search the design space defined by the user._"} [Simpson _et al._] Inspired by this vision, we proposed using deep learning methods as a new possible direction to overcome fundamental limitations of MDO parametrization. <!---  --->
+In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of its gilded cage, and find ways to help conceive new designs, not just search the design space defined by the user._"} [**Simpson** _et al._] Inspired by this vision, we proposed using deep learning methods as a new possible direction to overcome fundamental limitations of MDO parametrization.  
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -76,7 +76,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Airfoil Shape Generation by GAN with Epochs
 </div>
 
 
@@ -99,15 +99,13 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
---->
-
+ 
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
-
-<!---
+ 
 {% raw %}
 ```html
 <div class="row justify-content-sm-center">
