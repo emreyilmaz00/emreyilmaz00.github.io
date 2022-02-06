@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: The list of projects I was involved in during my Ph.D studies at Georgia Tech, M.S and B.S years at ODTU/METU, and summer internships.
+description: Projects that I was involved in during my Ph.D. studies at Georgia Tech, M.S and B.S years at ODTU/METU, and summer internships.
 nav: true
 display_categories: [Ph.D. (Georgia Tech),Master of Science (ODTU/METU),Bachelor of Science (ODTU/METU),Internship]
 horizontal: false
