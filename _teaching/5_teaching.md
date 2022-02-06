@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Control and Simulation Lab
+title: Control and Simulation Lab, ODTU/METU
 description: Lead Coordinator 
 img: assets/img/1.jpg
 importance: 3
-category: teaching assistant
+category:lab work
 ---
 
 Lead Coordinator in METU Aerospace Engineering Control and Simulation Laboratory:
