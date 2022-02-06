@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Reliability of Aerospace Vehicle Subsystems
-description: Safety and Reliability Analysis of Aerospace Vehicle Subsystems by Propagating Statistical Moments of Failure Probabilities in Fault Trees <!---another without an image--->
+description: Safety and Reliability Analysis of Aerospace Vehicle Subsystems, Fault Tree Analysis, The Propagation of Statistical Moments of Failure Probabilities in Fault Trees, Resource Allocation, Augmented Lagrangian Approach <!---another without an image--->
 img:
 importance: 3
-category: GaTech
+category: Ph.D. (Georgia Tech)
 ---
 
 Every project has a beautiful feature showcase page.
