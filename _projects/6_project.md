@@ -4,7 +4,7 @@ title: RC-UAV Design Projects
 description: UAV Design, Autonomy, and Propulsion System Optimization <!---a project with no image--->
 img: /assets/img/dbf1.jpg
 importance: 4
-category: ODTU/METU
+category: Bachelor of Science (ODTU/METU)
 ---
 
 Every project has a beautiful feature showcase page.
