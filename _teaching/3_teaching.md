@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Teaching Assistant at ODTU/METU
+title: Teaching Assistantship
 description: Aeronautical Engineering Design, Introduction to Aircraft Performance, Control Engineering Design I 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category:teaching assistant
+category: Master of Science (ODTU/METU)
 ---
-
-
 
   Introduction to Aircraft Performance [\href{http://ae.metu.edu.tr/~ae172/17/AE172Spring2017SyllabusKutay.pdf}{AE 172}] (Fall'12,Fall'13) 
 
