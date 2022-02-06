@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Teaching Assistantship
-description: Aeronautical Engineering Design, Introduction to Aircraft Performance, Control Engineering Design I 
+title: Aeronautical Engineering Design
+description:
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 2
 category: Master of Science (ODTU/METU)
 ---
 
