@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Dynamics  
-description: updated: a project with a background image
-img: assets/img/3.jpg
+description:  a project with a background image
+img: /assets/img/3.jpg
 importance: 2
 category: Ph.D. (Georgia Tech)
 ---
@@ -15,7 +15,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: services
+    title: teaching
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
