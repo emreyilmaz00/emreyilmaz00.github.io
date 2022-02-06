@@ -4,7 +4,7 @@ title: Introduction to Aircraft Performance
 description: another without an image
 img:
 importance: 3
-category: 
+category: Master of Science (ODTU/METU)
 ---
 
 Every service has a beautiful feature showcase page.
