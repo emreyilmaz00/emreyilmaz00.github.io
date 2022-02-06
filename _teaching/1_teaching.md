@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Control Systems Design Lab 
+title: Control Systems Design Lab
 description:  
 img: assets/img/12.jpg
 importance: 1
-category:lab work
+category: Ph.D. (Georgia Tech)
 ---
 
 Dummy extra initial text.
