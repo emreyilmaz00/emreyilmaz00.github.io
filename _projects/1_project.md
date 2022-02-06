@@ -1,10 +1,10 @@
 ---
 layout: page
 title: eVTOL Control Allocation and Path Planning 
-description: eVTOL Control Allocation, Path Planning, and Flight Dynamic Models <!---a project with a background image--->
+description: Control Allocation Optimization, Path Planning, and Flight Dynamic Modeling of Over-Actuated eVTOL Aircraft <!---a project with a background image--->
 img: assets/img/12.jpg
 importance: 1
-category: GaTech
+category: Ph.D. (Georgia Tech)
 ---
 
     Hybrid Automaton-Based Path Planning, Control Allocation Optimization, Over-Actuated eVTOL Aircraft Flight Dynamic and Performance Modeling, Distributed Propulsion Concepts, Transition/Tilting Considerations, and Multi-Disciplinary Analysis and Optimization Frameworks 
