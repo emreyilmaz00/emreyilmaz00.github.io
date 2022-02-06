@@ -28,34 +28,24 @@ My research interests include:
       iii)  The Implications of Over-Actuation on Flight Control, 
             Performance, and Design
        iv)  Contingency Planning 
-       
-       
+      
     Physics Informed Machine Learning
-       --The Application of Deep Learning Techniques (ConvNets and CGANs) to Airfoil Performance Prediction and Inverse Design
-    
-    UAM Air Traffic Optimization
-    
+       --Applications with Deep ConvNets and CGANs 
+       
+    UAM Research
+        i)  Multi Agent Path Planning Optimization 
+       ii)  Optimal Control and MDAO frameworks
+      iii)  Deep Reinforcement Learning Approaches 
+       iv)  Landing Operations Research  
+       
     Automatic Flight Control Systems
+        i) Non-linear, Adaptive, and Robust Control Applications
+       ii) Robotic Flight 
     
     Multidisciplinary Design Analysis and Optimization
 
 
-<!---I study the implications of new technologies such as electric propulsion and autonomy on the design of aircraft and on aviation markets. 
 
-    Operations research and market studies for urban air mobility (UAM), on-demand mobility (ODM), and new modes of regional aviation
-
-    Flight performance and sizing of electric aircraft
-
-    Aerodynamics, performance, and design of distributed electric propulsion configurations
-
-    Wind tunnel and flight tests of subscale CTOL, STOL, and VTOL aircraft
-
-
-Brian German is the National Institute of Aerospace (NIA) Langley Associate Professor in the School of Aerospace Engineering at Georgia Tech. His research involves aircraft electric propulsion, autonomous flight, and the emerging aviation markets that these technologies enable. 
-
-He specializes in configuration design of electric aircraft, aerodynamics of distributed propulsion, battery and hybrid electric propulsion modeling, operations research problems for innovative scheduled and on-demand air services, and aircraft operational economics modeling. His work focuses primarily on new types of electric regional aircraft and eVTOL aircraft for urban air mobility. 
-
-Prof. German is a founding member and former Chair (2014-2016) of the AIAA Transformational Flight Program Committee, which was chartered to explore the opportunities of emerging aircraft electric propulsion and autonomy technologies, and he is a member of the AIAA Aircraft Electric Propulsion and Power Working Group. Prof. German is a former Fulbright student scholar and NDSEG Graduate Research Fellow, and he received the NSF CAREER award in 2012. He is an Associate Fellow of AIAA Education. --->
 
 <p> Education </p>
 
@@ -77,8 +67,21 @@ Prof. German is a founding member and former Chair (2014-2016) of the AIAA Trans
 
     Intern, Turkish Aerospace Inc., Summer 2009
 
- 
- 
+
+
+<!---I study the implications of new technologies such as electric propulsion and autonomy on the design of aircraft and on aviation markets. 
+
+    Operations research and market studies for urban air mobility (UAM), on-demand mobility (ODM), and new modes of regional aviation
+    Flight performance and sizing of electric aircraft
+    Aerodynamics, performance, and design of distributed electric propulsion configurations
+    Wind tunnel and flight tests of subscale CTOL, STOL, and VTOL aircraft
+
+Brian German is the National Institute of Aerospace (NIA) Langley Associate Professor in the School of Aerospace Engineering at Georgia Tech. His research involves aircraft electric propulsion, autonomous flight, and the emerging aviation markets that these technologies enable. 
+
+He specializes in configuration design of electric aircraft, aerodynamics of distributed propulsion, battery and hybrid electric propulsion modeling, operations research problems for innovative scheduled and on-demand air services, and aircraft operational economics modeling. His work focuses primarily on new types of electric regional aircraft and eVTOL aircraft for urban air mobility. 
+
+Prof. German is a founding member and former Chair (2014-2016) of the AIAA Transformational Flight Program Committee, which was chartered to explore the opportunities of emerging aircraft electric propulsion and autonomy technologies, and he is a member of the AIAA Aircraft Electric Propulsion and Power Working Group. Prof. German is a former Fulbright student scholar and NDSEG Graduate Research Fellow, and he received the NSF CAREER award in 2012. He is an Associate Fellow of AIAA Education. --->
+
 <!---I am a Graduate Research Assistant Postdoctoral Fellow working in the School of Cybersecurity and Privacy at Georgia Tech under the supervision of Prof. Wenke Lee. Before joining Georgia Tech, I worked in Center for Cyber Security at New York University Abu Dhabi as a Research Engineer for two years. I currently hold a Ph.D. degree in Computer Science from Georgia Tech, an M.Sc. degree in Computer Engineering and two B.Sc. degrees in both Computer Engineering and Electrical & Electronics Engineering from TOBB University, Turkey. My research interests span a broad range of topics including deep learning, applied cryptography, security/privacy and forensics.
 
 e^{i pi} + 1 = 0 --->
