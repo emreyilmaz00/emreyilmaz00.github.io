@@ -19,20 +19,13 @@ social: true  # includes social icons at the bottom of the page
 
 I conduct research about control, flight dynamic modeling, performance, and trajectory optimization of emerging electric vertical take-off and landing (eVTOL) aircraft concepts. I also explore multi agent path planning optimization in the context of urban air mobility (UAM) and the application of emerging deep learning techniques to aerospace engineering problems. 
 
-
 My research interests include:
 
    - eVTOL Aircraft Research: Control Allocation, Trajectory Optimization, Contingency Planning, and Flight Dynamic Modeling and Performance 
-    
-   - Physics Informed Machine Learning
-       
-   - UAM Air Traffic Optimization, Multi Agent Path Planning via Optimal Control, MDAO frameworks, and Deep Reinforcement Learning  
-       
-   - Automatic Flight Control Systems, Non-linear, Adaptive, and Robust Control Applications, Robotic Flight 
-    
+   - Physics Informed Machine Learning       
+   - UAM/AAM Air Traffic Optimization, Multi Agent Path Planning via Optimal Control, MDAO frameworks, and Deep Reinforcement Learning Methods        
+   - Automatic Flight Control Systems, Non-linear Control Applications, Robotic Flight     
    - Multidisciplinary Design Analysis and Optimization
-
-
 
 ### Education
 
@@ -47,11 +40,11 @@ My research interests include:
    - **B.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2011
 
 ### Experience
-   - Graduate Research Assistant, Georgia Institute of Technology, January 2016 – Present     
-   - Graduate Teaching Assistant, Georgia Institute of Technology, August 2014 – December 2015
-   - Graduate Research and Teaching Assistant, ODTU/METU, Turkey, October 2011 – July 2014
-   - Intern, ODTU/METU, Summer 2010
-   - Intern, Turkish Aerospace Inc., Summer 2009
+   - Graduate Research Assistant, _Georgia Institute of Technology_, Jan'2016 – Present     
+   - Graduate Teaching Assistant, _Georgia Institute of Technology_, Aug'2014 – Dec'2015
+   - Graduate Research and Teaching Assistant, _Middle East Technical University_, Oct'2011 – July'2014
+   - Intern, _Middle East Technical University_, Summer 2010
+   - Intern, _Turkish Aerospace Inc._, Summer 2009
 
 
 
