@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Dynamics
+title: Dynamics (Georgia Tech)
 description: updated: a project with a background image
 img: assets/img/3.jpg
 importance: 2
-category: lab work
+category:teaching assistant
 ---
 
 !!! Every project has a beautiful feature showcase page.
