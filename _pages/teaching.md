@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Cool services!.
 nav: true
-display_categories: [work, fun]
+display_categories: [lab work, teaching assistant]
 horizontal: false
 ---
 
