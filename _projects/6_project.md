@@ -2,7 +2,7 @@
 layout: page
 title: RC-UAV Design Projects
 description: UAV Design, Autonomy, and Propulsion System Optimization <!---a project with no image--->
-img:
+img: /assets/img/acc.jpg
 importance: 4
 category: ODTU/METU
 ---
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/acc.jpg
     ---
 
 <div class="row">
