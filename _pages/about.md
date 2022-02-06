@@ -17,27 +17,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I conduct research about control, flight dynamic modeling, performance, and trajectory optimization of emerging electric vertical take-off and landing (eVTOL) aircraft concepts. I also explore multi agent path planning optimization in the context of urban air mobility (UAM) and the application of emerging algorithms in deep learning to aerospace engineering problems. 
+I conduct research about control, flight dynamic modeling, performance, and trajectory optimization of emerging electric vertical take-off and landing (eVTOL) aircraft concepts. I also explore multi agent path planning optimization in the context of urban air mobility (UAM) and the application of emerging deep learning techniques to aerospace engineering problems. 
 
 
 My research interests include:
-   - eVTOL Aircraft Research: 
-       -  Control Allocation and Trajectory Optimization 
-       -  Flight Dynamic Modeling and Optimization
-       -  The Implications of Over-Actuation on Flight Control, Performance, and Design
-       -  Contingency Planning
+
+   - eVTOL Aircraft Research: Control Allocation, Trajectory Optimization, Contingency Planning, and Flight Dynamic Modeling and Performance 
+    
    - Physics Informed Machine Learning
-       - Applications with Deep ConvNets and CGANs 
        
-   - UAM Research
-       -  Multi Agent Path Planning Optimization 
-       -  Optimal Control and MDAO frameworks
-       -  Deep Reinforcement Learning Approaches 
-       -  Landing Operations Research  
+   - UAM Air Traffic Optimization, Multi Agent Path Planning via Optimal Control, MDAO frameworks, and Deep Reinforcement Learning  
        
-   - Automatic Flight Control Systems
-       - Non-linear, Adaptive, and Robust Control Applications
-       - Robotic Flight 
+   - Automatic Flight Control Systems, Non-linear, Adaptive, and Robust Control Applications, Robotic Flight 
     
    - Multidisciplinary Design Analysis and Optimization
 
@@ -46,14 +37,14 @@ My research interests include:
 ### Education
 
    - **Ph.D.**, Aerospace Engineering, _Georgia Institute of Technology_, 2020 (expected)
-      - Dissertation Title:  
-      - Advisor: Brian German 
+      - Dissertation Title: ``_Hybrid Automaton Based Contingency Planning forOver-Actuated Tandem Tilt-Wing eVTOL Aircraft_''
+      - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
-   - **M.Sc.**, Aerospace Engineering, _ODTU/METU_, 2014
-      - Dissertation Title:
-      - Advisor: 
+   - **M.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2014
+      - Dissertation Title: ``_Adaptive Robust Attitude Controller Design for a Quadrotor Platform_''
+      - Advisor: <a href="http://www.ae.metu.edu.tr/people/staff/kutay.html">Ali T. Kutay</a>  
 
-   - **B.Sc.**, Aerospace Engineering, _ODTU/METU_, 2011
+   - **B.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2011
 
 ### Experience
    - Graduate Research Assistant, Georgia Institute of Technology, January 2016 – Present     
