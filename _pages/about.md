@@ -67,7 +67,7 @@ Prof. German is a founding member and former Chair (2014-2016) of the AIAA Trans
 
     Graduate Teaching Assistant, Georgia Institute of Technology, August 2014 – December 2015
 
-    Graduate Research and Teaching Assistant, Georgia Institute of Technology, October 2011 – July 2014
+    Graduate Research and Teaching Assistant, ODTU/METU, Turkey, October 2011 – July 2014
 
     Intern, ODTU/METU, Summer 2010
 
