@@ -4,7 +4,7 @@ title: service 4
 description: another without an image
 img:
 importance: 3
-category: fun
+category: teaching assistant
 ---
 
 Every service has a beautiful feature showcase page.
