@@ -6,12 +6,12 @@ description:
 nav: true
 ---
 
-Reviewing: AIAA Journal
+<b> Reviewing:</b> AIAA Journal
 
 
 Volunteering and Leadership:
  
-<p> Conference Session Co-Chair </p>, AIAA Aviation Forum, 2020.
+<b>Conference Session Co-Chair </b>: AIAA Aviation Forum, 2020.
 <p> President </p>, Turkish Student Organization at Georgia Institute of Technology, 2018-2021, Atlanta, GA.
 <p> Organization Team </p>, UAM Expo, Georgia Institute of Technology, 2019, Atlanta, GA.
 <p> Culture Chair </p>, Turkish Student Organization at Georgia Institute of Technology, 2017-2018, Atlanta, GA.
