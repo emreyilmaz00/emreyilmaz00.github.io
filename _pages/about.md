@@ -17,11 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I conduct research about control, optimization, and flight dynamic modeling problems about emerging concepts in aviation industry such as electric vertical take-off and landing (eVTOL) aircraft and urban air mobility (UAM) as well as the application of emerging algorithms in deep learning to aerospace engineering problems. My research interests include:
 
-
-My research interests include:
-
-    Control Allocation Optimization, Flight Dynamic Modeling, and Path Planning of Over-Actuated eVTOL Aircraft
+    Control Allocation and Path Planning of eVTOL A/C
+    Flight Dynamic Modeling of eVTOL Aircraft
     Physics Informed Machine Learning
     UAM Air Traffic Optimization
     Automatic Flight Control Systems
