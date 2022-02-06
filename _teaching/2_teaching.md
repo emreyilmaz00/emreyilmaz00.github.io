@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching 2
+title: Dynamics
 description: updated: a project with a background image
 img: assets/img/3.jpg
 importance: 2
