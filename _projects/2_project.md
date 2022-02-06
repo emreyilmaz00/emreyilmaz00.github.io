@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: Physics Aware Machine Learning <!---a project with a background image--->
+title: Physics Informed Machine Learning
+description: Deep Learning Applications to Airfoil Performance Prediction and Airfoil Inverse Design Problems <!---a project with a background image--->
 img: assets/img/3.jpg
 importance: 2
-category: GaTech
+category: Ph.D. (Georgia Tech)
 ---
 
 Every project has a beautiful feature showcase page.
