@@ -22,9 +22,8 @@ e^{i pi} + 1 = 0
  
  
 
-<!---LinkedIn Research Gate Resume
+<!---LinkedIn Research Gate Resume --->
 
 <a href="https://scholar.google.com/citations?hl=en&user=1Ie3QuMAAAAJ">Google Scholar</a>  
 
----!>
 
