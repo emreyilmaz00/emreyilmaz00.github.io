@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Teaching and Lab Experiences
 nav: true
-display_categories: [lab work,teaching assistant]
+display_categories: [Ph.D. (Georgia Tech),Master of Science (ODTU/METU)]
 horizontal: false
 ---
 
