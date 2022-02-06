@@ -3,7 +3,7 @@ layout: page
 title: Control and Simulation Lab, ODTU/METU
 description: Lead Coordinator 
 img: assets/img/1.jpg
-importance: 3
+importance: 1
 category: Master of Science (ODTU/METU)
 ---
 
