@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
+title: UAM Air Traffic Optimization
 description: Multi Agent Path Planning for UAM Air Traffic Optimization <!---a project that redirects to another website--->
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: GaTech
 ---
 
 Every project has a beautiful feature showcase page.
