@@ -7,12 +7,10 @@ nav: true
 ---
 
 <b> Reviewing </b> 
-
 AIAA Journal
 
 
 <b> Volunteering and Leadership </b>
- 
 <i> Conference Session Co-Chair </i>, AIAA Aviation Forum, 2020. </br>
 <i> President </i>, Turkish Student Organization at Georgia Institute of Technology, 2018-2021, Atlanta, GA. </br>
 <i> Organization Team </i>, UAM Expo, Georgia Institute of Technology, 2019, Atlanta, GA. </br>
@@ -20,7 +18,6 @@ AIAA Journal
 
 
 <b> Funding Proposal Experience </b> 
-
 <i> ARPA-E </i>: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
 
 
