@@ -1,7 +1,7 @@
 ---
 layout: page
-title: eVTOL Control Allocation, Flight Dynamics, and Path Planning 
-description: Control Allocation Optimization, Hybrid-Automata Based Path Planning, Contingency Planning, and Flight Dynamic Modeling of Over-Actuated eVTOL Aircraft <!---a project with a background image--->
+title: eVTOL CA, Flight Dynamics, and Path Planning 
+description: Control Allocation (CA) Optimization, Hybrid-Automata Based Path Planning, Contingency Planning, and Flight Dynamic Modeling of Over-Actuated eVTOL Aircraft <!---a project with a background image--->
 img: assets/img/12.jpg
 importance: 1
 category: Ph.D. (Georgia Tech)
