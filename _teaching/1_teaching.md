@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teach 1
-description: Reviewer
+title: Control Systems Design Lab 
+description:  
 img: assets/img/12.jpg
 importance: 1
 category: lab work
