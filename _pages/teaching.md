@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: teaching
 permalink: /teaching/
 description: Teaching and Lab Experiences
 nav: true
