@@ -7,6 +7,19 @@ importance: 2
 category: Ph.D. (Georgia Tech)
 ---
 
+In an NSF workshop in 2012, Sobieski stated that "_MDO needs to break out of its gilded cage, and find ways to help conceive new designs, not just search the design space defined by the user._"} [Simpson _et al._] Inspired by this vision, we proposed using deep learning methods as a new possible direction to overcome fundamental limitations of MDO parametrization. <!---  --->
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/pdf/gilded3.pdf" title="A New Research Direction for MDO" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Deep features and patterns in data sets obtained from runs or experiments can be detected using deep networks.
+</div>
+
+
+<!---
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -19,28 +32,37 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+--->
+
+**A Convolutional Neural Network Approach for Training Predictors for Airfoil Performance**
+
+
+
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/image_at_epoch_0025.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/image_at_epoch_0800.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/image_at_epoch_1600.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/pdf/hlmotiv.pdf" title="High Level Motivations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    High Level Motivations
 </div>
 
 You can also put regular text between your rows of images.
@@ -48,6 +70,16 @@ Say you wanted to write a little bit about your project before you posted the re
 You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/pdf/whycnn.pdf" title="Why to use Convolutional Neural Networks" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    ...
+</div>
+
+<!---
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -59,6 +91,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
+--->
 
 
 The code is simple.
@@ -66,6 +99,7 @@ Just wrap your images with `<div class="col-sm">` and place them inside `<div cl
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
 
+<!---
 {% raw %}
 ```html
 <div class="row justify-content-sm-center">
@@ -78,3 +112,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+--->
