@@ -13,10 +13,10 @@ AIAA Journal
 
 <b> Volunteering and Leadership </b>
  
-<i> Conference Session Co-Chair </i>, AIAA Aviation Forum, 2020.
-<i> President </i>, Turkish Student Organization at Georgia Institute of Technology, 2018-2021, Atlanta, GA.
-<i> Organization Team </i>, UAM Expo, Georgia Institute of Technology, 2019, Atlanta, GA.
-<i> Culture Chair </i>, Turkish Student Organization at Georgia Institute of Technology, 2017-2018, Atlanta, GA.
+<i> Conference Session Co-Chair </i>, AIAA Aviation Forum, 2020. &#10
+<i> President </i>, Turkish Student Organization at Georgia Institute of Technology, 2018-2021, Atlanta, GA. &#10
+<i> Organization Team </i>, UAM Expo, Georgia Institute of Technology, 2019, Atlanta, GA. &#10
+<i> Culture Chair </i>, Turkish Student Organization at Georgia Institute of Technology, 2017-2018, Atlanta, GA. 
 
 
 <b> Funding Proposal Experience </b> 
