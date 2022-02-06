@@ -22,28 +22,27 @@ I conduct research about control, flight dynamic modeling, performance, and traj
 
 My research interests include:
 
-    eVTOL Aircraft Research: 
+    1) eVTOL Aircraft Research: 
         i)  Control Allocation and Trajectory Optimization 
        ii)  Flight Dynamic Modeling and Optimization
       iii)  The Implications of Over-Actuation on Flight Control, 
             Performance, and Design
        iv)  Contingency Planning 
       
-    Physics Informed Machine Learning
+    2) Physics Informed Machine Learning
        --Applications with Deep ConvNets and CGANs 
        
-    UAM Research
+    3) UAM Research
         i)  Multi Agent Path Planning Optimization 
        ii)  Optimal Control and MDAO frameworks
       iii)  Deep Reinforcement Learning Approaches 
        iv)  Landing Operations Research  
        
-    Automatic Flight Control Systems
+    4) Automatic Flight Control Systems
         i) Non-linear, Adaptive, and Robust Control Applications
        ii) Robotic Flight 
     
-    Multidisciplinary Design Analysis and Optimization
-
+    5) Multidisciplinary Design Analysis and Optimization
 
 
 
