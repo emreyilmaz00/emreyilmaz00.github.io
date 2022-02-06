@@ -1,8 +1,8 @@
 ---
 layout: page
-title: teaching 6
-description: a service with no image
-img: assets/img/12.jpg
+title: Control Engineering Design I 
+description: Control Engineering Design I 
+img: /assets/img/12.jpg
 importance: 4
 category: Master of Science (ODTU/METU)
 ---
