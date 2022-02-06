@@ -17,14 +17,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I conduct research about control, flight dynamic modeling, performance, and trajectory optimization of emerging electric vertical take-off and landing (eVTOL) aircraft concepts. I also explore multi agent path planning optimization in the context of urban air mobility (UAM) and the application of emerging deep learning techniques to aerospace engineering problems. 
+I conduct research on eVTOL (electric vertical take-off and landing) aircraft, urban air mobility (UAM), autonomous flight, and physics-informed machine learning. 
 
 My research interests include:
 
    - eVTOL Aircraft Research: Control Allocation, Trajectory Optimization, Contingency Planning, Flight Dynamics, Modeling, and Performance 
    - Physics Informed Machine Learning       
    - UAM/AAM Air Traffic Optimization, Multi Agent Path Planning via Optimal Control, MDAO frameworks, and Deep Reinforcement Learning Methods        
-   - Automatic Flight Control Systems, Non-linear Control Applications, Robotic Flight     
+   - Autonomy in Flight, Automatic Flight Control Systems, Non-linear Control    
    - Multidisciplinary Design Analysis and Optimization
 
 ### Education
