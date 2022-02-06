@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Teaching Assistant
+title: Teaching Assistant at ODTU/METU
 description: Aeronautical Engineering Design, Introduction to Aircraft Performance, Control Engineering Design I 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: teaching assistant
+category:teaching assistant
 ---
 
 
