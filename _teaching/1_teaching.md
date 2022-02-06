@@ -4,7 +4,7 @@ title: Control Systems Design Lab
 description:  
 img: assets/img/12.jpg
 importance: 1
-category: lab work
+category:lab work
 ---
 
 Dummy extra initial text.
