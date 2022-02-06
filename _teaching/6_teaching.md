@@ -4,7 +4,7 @@ title: teaching 6
 description: a service with no image
 img:
 importance: 4
-category: fun
+category: teaching assistant
 ---
 service-6: Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
