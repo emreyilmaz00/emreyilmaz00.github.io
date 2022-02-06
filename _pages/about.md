@@ -29,7 +29,7 @@ My research interests include:
 
 ### Education
 
-   - **Ph.D.**, Aerospace Engineering, _Georgia Institute of Technology_, 2020 (expected)
+   - **Ph.D.**, Aerospace Engineering, _Georgia Institute of Technology_, 2022 (expected)
       - Dissertation Title: ``_Hybrid Automaton Based Contingency Planning forOver-Actuated Tandem Tilt-Wing eVTOL Aircraft_''
       - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
