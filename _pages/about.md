@@ -68,6 +68,8 @@ My research interests include:
 
 
 
+
+
 <!---I study the implications of new technologies such as electric propulsion and autonomy on the design of aircraft and on aviation markets. 
 
     Operations research and market studies for urban air mobility (UAM), on-demand mobility (ODM), and new modes of regional aviation
