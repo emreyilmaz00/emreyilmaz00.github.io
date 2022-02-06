@@ -1,8 +1,8 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
-description: Cool services!.
+description: Teaching and Lab Experiences
 nav: true
 display_categories: [lab work,teaching assistant]
 horizontal: false
