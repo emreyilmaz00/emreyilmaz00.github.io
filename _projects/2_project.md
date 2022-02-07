@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physics Informed Machine Learning
+title: Physics Informed ML
 description: Deep Learning Applications to Airfoil Performance Prediction and Airfoil Inverse Design Problems <!---a project with a background image--->
 img: assets/img/3.jpg
 importance: 2
