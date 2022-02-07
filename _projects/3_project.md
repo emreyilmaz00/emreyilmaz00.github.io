@@ -10,12 +10,19 @@ category: Ph.D. (Georgia Tech)
 
 **Advanced Air Mobility/UAM Air Traffic Optimization**: Multi-Agent Path Planning Optimization, Dynamic Obstacle Avoidance, Model Predictive Control, Constraint Aggregation, Deep Reinforcement Learning, and Optimal Control via Pseudospectral Methods 
 
-    ---
+
+UAM air traffic optimization using model predictive control and constraint aggregation. Solved dynamic obstacle avoidance problems. Used libraries: OpenMDAO, Dymos, SNOPT, IPOPT, SLSQP, Gurobi etc.
+    \item ATM Path Planning in context of AAM using a Deep RL technique (\href{https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules}{MuZero Algorithm})
+    \item Investigation of Air Traffic Metrics, Creating Optimal Highway Corridors Using Multi-Commodity Flow and MILP
+    \item Contributed to \href{https://olasanni1.github.io/ETOL/index.html}{Extensible Trajectory Optimization Library (ETOL)} for Dymos integration
+    \item Published two AIAA conference papers: \href{https://arc.aiaa.org/doi/10.2514/6.2021-2377}{[AIAA'21a]}, \href{https://arc.aiaa.org/doi/10.2514/6.2021-2376}{[AIAA'21b]}. Submitted a journal paper to \href{https://arc.aiaa.org/journal/jat}{[AIAA JAT]}.
+
+    <!---
     layout: page
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -63,6 +70,7 @@ Just wrap your images with `<div class="col-sm">` and place them inside `<div cl
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
 
+<!---
 {% raw %}
 ```html
 <div class="row justify-content-sm-center">
@@ -74,4 +82,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} --->
