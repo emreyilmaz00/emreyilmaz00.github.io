@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wind Tunnel Experiments with a Quadrotor Platform
+title: Wind Tunnel Experiments with Quadrotor
 description: Quadrotor 
 img: /assets/img/quad4.jpg
 importance: 3
