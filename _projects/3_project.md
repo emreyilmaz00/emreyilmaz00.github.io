@@ -47,9 +47,13 @@ UAM air traffic optimization using model predictive control and constraint aggre
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Deep Reinforcement Learning Approach to Air Traffic Optimization Using the MuZero Algorithm   
+
+Inspired by the success of DeepMind’s algorithm, MuZero, in mastering games without any knowledge about the rules and the environment 
+Motivation: Use MuZero for advanced air mobility research by casting the dynamic obstacle avoidance problem as a game
+Goal: Determine optimal policies for agents in dynamic air traffic environment based on state-action pairs and reward-based optimization of MuZero’s networks for learning the value, the policy, and the reward
+Sequential Path Planning Optimization Approach at Each Time Step  
+
 
 
 <div class="row justify-content-sm-center">
@@ -64,11 +68,19 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
+Model Predictive Control Approach to Urban Air Traffic Optimization via Constraint Aggregation 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Goal: Solve high-capacity urban air traffic optimization problems using model predictive control approach (receding horizon) with constraint aggregation  
+
+Optimization Paradigms: 
+  i ) Centralized optimizer at each time step 
+ ii )  Sequential optimizer at each time step
+Iii )  Sequential optimizer for the entire flight trajectory
+
+Interior-Point Optimizer Library is used to solve the non-linear constrained optimization problems regarding MPC formulation. To achieve this, a large-scale linear system is repeatedly solved via a sparse symmetric indefinite linear solver.
+
+Multi-agent optimal trajectories based on origin-destination pairs in high-capacity air traffic environment
+ 
 
 <!---
 {% raw %}
@@ -83,3 +95,20 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %} --->
+
+
+**Highways in the Sky for Urban Air Mobility Operations Summary**
+
+Leaded by Kotwicz Herniczek.
+
+Formulate corridor design problem as a minimum cost multi-commodity flow problem
+
+Goal: generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size
+
+Solved using Gurobi LP and MILP solvers
+
+Limits the structural design of corridors
+
+Current work focuses on allowing corridors with cardinal directions (N, S, W, E, climb, and descent)
+
+ 
