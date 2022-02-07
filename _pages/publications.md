@@ -8,7 +8,7 @@ nav: true
 ---
 <!-- _pages/publications.md -->
 
-<div class="publications">
+<!-- <div class="publications">
 {% for type in site.scholar.type_order %}
   {%- capture citecount -%}
   {%- bibliography_count --query @{{type}} -%}
@@ -17,5 +17,12 @@ nav: true
     <h2 id="{{type}}">{{ site.scholar.type_names[type] }}</h2>
     {% bibliography --query @{{type}} --group_by year --group_order descending %}
   {% endif %}
+{% endfor %}
+</div> -->
+
+<div class="publications">
+{% for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 </div>
