@@ -1,13 +1,13 @@
 ---
 layout: page
-title: eVTOL CA, Flight Dynamics, and Path Planning 
-description: Control Allocation (CA) Optimization, Hybrid-Automata Based Path Planning, Contingency Planning, and Flight Dynamic Modeling of Over-Actuated eVTOL Aircraft <!---a project with a background image--->
+title: eVTOL Aircraft Research 
+description: Control Allocation Optimization, Hybrid-Automata Based Path Planning, Contingency Planning, and Flight Dynamic Modeling of Over-Actuated eVTOL Aircraft  
 img: assets/img/12.jpg
 importance: 1
 category: Ph.D. (Georgia Tech)
 ---
 
-    Hybrid Automaton-Based Path Planning, Control Allocation Optimization, Over-Actuated eVTOL Aircraft Flight Dynamic and Performance Modeling, Distributed Propulsion Concepts, Transition/Tilting Considerations, and Multi-Disciplinary Analysis and Optimization Frameworks 
+Hybrid Automaton-Based Path Planning, Control Allocation Optimization, Over-Actuated eVTOL Aircraft Flight Dynamic and Performance Modeling, Distributed Propulsion Concepts, Transition/Tilting Considerations, and Multi-Disciplinary Analysis and Optimization Frameworks 
 
 
 <!---Every project has a beautiful feature showcase page.
@@ -36,7 +36,7 @@ Make your photos 1/3, 2/3, or full width. To give your project a background in t
  
     Hybrid Automaton-Based Path Planning, Control Allocation Optimization, Over-Actuated eVTOL Aircraft Flight Dynamic and Performance Modeling, Distributed Propulsion Concepts, Transition/Tilting Considerations, and Multi-Disciplinary Analysis and Optimization Frameworks 
     
-<!---Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.--->
+ 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -70,7 +70,7 @@ Just wrap your images with `<div class="col-sm">` and place them inside `<div cl
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
 
-{% raw %}
+<!--- {% raw %}
 ```html
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -81,4 +81,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} --->
