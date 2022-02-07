@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UAM Air Traffic Optimization
-description: Multi Agent Path Planning, Model Predictive Control, Constraint Aggregation, Deep Reinforcement Learning, MuZero Algorithm, Pseudospectral Methods 
+description: Multi Agent Path Planning, MPC, Constraint Aggregation, Deep RL, MuZero Algorithm, Pseudospectral Methods 
 img: assets/img/7.jpg  
 importance: 3
 category: Ph.D. (Georgia Tech)
