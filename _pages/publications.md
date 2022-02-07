@@ -6,19 +6,7 @@ description: <!---publications by categories in reversed chronological order. ge
 years: [2022, 2021, 2020, 2019, 2018, 2017, 2014, 2013]
 nav: true
 ---
-<!-- _pages/publications.md -->
 
-<!-- <div class="publications">
-{% for type in site.scholar.type_order %}
-  {%- capture citecount -%}
-  {%- bibliography_count --query @{{type}} -%}
-  {%- endcapture -%}
-  {% if citecount != "0"  %}
-    <h2 id="{{type}}">{{ site.scholar.type_names[type] }}</h2>
-    {% bibliography --query @{{type}} --group_by year --group_order descending %}
-  {% endif %}
-{% endfor %}
-</div> -->
 
 <!-- <div class="publications"> -->
 {% for y in page.years %}
