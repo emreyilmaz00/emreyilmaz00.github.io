@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UAM Air Traffic Optimization
-description: Multi Agent Path Planning for UAM Air Traffic Optimization, Model Predictive Control, Constraint Aggregation, Deep Reinforcement Learning, MuZero Algorithm, Pseudospectral Methods <!---a project that redirects to another website--->
+description: Multi Agent Path Planning, Model Predictive Control, Constraint Aggregation, Deep Reinforcement Learning, MuZero Algorithm, Pseudospectral Methods 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
