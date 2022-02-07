@@ -6,12 +6,12 @@ img: /assets/img/quad4.jpg
 importance: 3
 category: Master of Science (ODTU/METU)
 ---
+Adaptive, Non-linear, and Robust Control Techniques, Attitude Controller Design, Experimentation on a Quadrotor, and Wind Tunnel Experiments with a Quadrotor Platform
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Investigation of adaptive, non-linear and robust control techniques
+     Design and simulation of attitude controllers using non-linear dynamic inversion, model reference adaptive control, robustness modifications, and integral backstepping. Experimentation with a quadrotor platform.
+    Published two conference papers: \href{https://arc.aiaa.org/doi/10.2514/6.2014-2671}{[AIAA'14]}, \href{https://aiac.ae.metu.edu.tr/}{[AIAC'13]}.
 
     ---
     layout: page
