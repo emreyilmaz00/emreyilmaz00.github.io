@@ -9,12 +9,17 @@ category: Ph.D. (Georgia Tech)
 
 Reliability of Aerospace Systems: Fault Tree Analysis, Uncertainty Propagation, Resource Allocation, and Reliability Optimization    
 
-    ---
+Safety analysis of aerospace vehicle subsystems by propagating statistical moments in fault trees. 
+      Resource allocation to reduce top event failure probability via propagating uncertainty in fault trees and optimization via Augmented Lagrangian technique
+      Sensitivity analysis of nominal and fault tolerant flight operations when subject to failure or uncertainty
+     Submitted a journal paper to \href{https://www.journals.elsevier.com/reliability-engineering-and-system-safety}{[Elsevier RESS]}.
+
+   <!---
     layout: page
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
