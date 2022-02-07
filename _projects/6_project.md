@@ -7,7 +7,7 @@ importance: 3
 category: Ph.D. (Georgia Tech)
 ---
  
-i) Modeling Engineering Decision Environment:Model-free learningmethods, Q-Learning, and GP-regression
+i) Modeling Engineering Decision Environment:  Model-Free Learning Methods, Q-Learning, and Gaussian Process (GP) Regression  
 
 ii) Incorporating Semi-Parametric GP Regression into DDP
 
