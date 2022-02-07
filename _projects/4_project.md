@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reliability of Aerospace Vehicle Systems
-description: Fault Tree Analysis, The Propagation of Statistical Moments in Fault Trees, Resource Allocation, Augmented Lagrangian <!---another without an image--->
+description: Fault Tree Analysis, The Propagation of Statistical Moments, Resource Allocation, Augmented Lagrangian  
 img: /assets/img/dbf1.jpg
 importance: 3
 category: Ph.D. (Georgia Tech)
