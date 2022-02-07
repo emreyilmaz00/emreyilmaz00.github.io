@@ -1,7 +1,7 @@
 ---
 layout: page
 title: eVTOL Aircraft Research 
-description: Control Allocation Optimization, Hybrid-Automata Based Path Planning, Contingency Planning, and Flight Dynamic Modeling of Over-Actuated eVTOL Aircraft  
+description: Control Allocation, Hybrid-Automata Based Path Planning, Contingency Planning, and Flight Dynamic Modeling  
 img: assets/img/12.jpg
 importance: 1
 category: Ph.D. (Georgia Tech)
