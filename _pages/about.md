@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I conduct research on eVTOL (electric vertical take-off and landing) aircraft, urban air mobility (UAM), autonomous flight, and physics-informed machine learning. 
+I conduct research on eVTOL (electric vertical take-off and landing) aircraft, UAM (urban air mobility), autonomous flight, and physics-informed machine learning. 
 
 My research interests include:
 
