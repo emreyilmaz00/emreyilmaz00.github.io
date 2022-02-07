@@ -23,6 +23,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
 
 
 **A Convolutional Neural Network Approach for Training Predictors for Airfoil Performance**
+
   --Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a>.
  
 <div class="row">
