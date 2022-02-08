@@ -103,11 +103,11 @@ pagination:
 # -----------------------------------------------------------------------------
 
 collections:
-  # news:
-  #  defaults:
-  #    layout: post
-  #  output: true
-  #  permalink: /news/:path/
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -115,7 +115,7 @@ collections:
   #  output: true
   #  permalink: /teaching/:path/
     
-news_limit: 3
+news_limit: 2
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
