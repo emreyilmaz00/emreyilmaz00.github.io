@@ -115,7 +115,7 @@ collections:
   #  output: true
   #  permalink: /teaching/:path/
     
-news_limit: 2
+news_limit: 1
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
