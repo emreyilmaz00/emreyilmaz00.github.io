@@ -2,7 +2,7 @@
 layout: page
 title: UAM Air Traffic Optimization
 description: Multi Agent Path Planning, MPC, Constraint Aggregation, Deep RL, MuZero Algorithm, Pseudospectral Methods 
-img: assets/img/7.jpg  
+img: assets/img/traj3.jpg  
 importance: 3
 category: Ph.D. (Georgia Tech)
 ---
@@ -22,7 +22,7 @@ An interior-point optimizer library is used to solve the non-linear constrained 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/traj0.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/traj4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -64,13 +64,12 @@ In this project leaded by Kotwicz Herniczek, we formulate corridor design proble
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/traj3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/traj5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div> 
 </div>
 <div class="caption">
      
 </div>
-
 
      
  **Optimal Control Approach to Air Traffic Optimization Using SQP Solvers and Pseudospectral Methods**  
@@ -79,6 +78,9 @@ In this project leaded by Kotwicz Herniczek, we formulate corridor design proble
  
  - Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
 
+  
+  
+  
   
 <!---
 {% raw %}
