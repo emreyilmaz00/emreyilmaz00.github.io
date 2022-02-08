@@ -2,7 +2,7 @@
 layout: page
 title: Reliability of Aerospace Vehicle Systems
 description: Fault Tree Analysis, The Propagation of Statistical Moments, Resource Allocation, Augmented Lagrangian  
-img: /assets/img/fta1.jpg
+img: /assets/img/fta_main.jpg
 importance: 3
 category: Ph.D. (Georgia Tech)
 ---
@@ -24,15 +24,7 @@ To improve the reliability of aerospace systems considering the uncertainty prop
 </div>
 
 
-<div class="row">
-    <div class="col-sm-2 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/fta1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Fault Tree Analysis Using the Propagation of Statistical Moments
-</div>
-
+ 
  
 
  
