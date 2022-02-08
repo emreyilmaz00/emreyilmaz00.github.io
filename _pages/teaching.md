@@ -6,23 +6,37 @@ description:
 nav: true
 ---
 
-**Reviewing** <br/>
-AIAA Journal
+**Teaching Assistant (Georgia Tech) [Fall 2014 - Fall 2015]** <br/>
+ Held discussion to assist students, conducted experiments related to control engineering topics and aerospace systems, and graded the lab reports. 
+ 
+Courses: Control System Design Lab <a href="https://sankar.gatech.edu/UG.Courses/AE4525.pdf">[AE 4525]</a> (Fall'14 and Spring'15) and Dynamics <a href="https://ae.gatech.edu/sites/default/files/images/syll-ae2220.pdf">[AE 2220]</a> (Fall'15).  
 
-**Volunteering and Leadership** <br/>
+**Teaching Assistant (ODTU/METU) [Fall 2011 - Spring 2014]** <br/>
+ -Held discussion to assist students, provided feedback on course material, graded homework assignments, conducted control engineering demos and wind tunnel tests. Held MATLAB sessions. 
+ -Composed various experiments ranging from aircraft performance to control and organized lab schedules. 
+ -Participated as the leading coordinator in the establishment of the Control and Simulation Laboratory equipped with mechanisms for control engineering lab demos, organized the lab hardware and software, and prepared the experiments and lecture materials. 
+
+Courses: Introduction to Aircraft Performance <a href="http://ae.metu.edu.tr/~ae172/17/AE172Spring2017SyllabusKutay.pdf">[AE 172]</a> (Fall'12,Fall'13), Aeronautical Engineering Design <a href="http://www.ae.metu.edu.tr/under/courses/ae451.html" >[AE 451]</a> (Spring'11,Spring'12), and  Control Engineering Design <a href="http://www.ae.metu.edu.tr/under/courses/ae384.html" >[AE 384]</a>
+
+Supporting Lab Assistant: Flight Dynamics <a href="https://ocw.metu.edu.tr/pluginfile.php/24002/mod_resource/content/1/Syll_2017.pdf"[AE 372]</a>, and Aerospace Engineering Laboratory <a href="https://catalog.metu.edu.tr/course.php?prog=572&course_code=5720410" > [AE 410] </a>.  
+
+ 
+<!---
+**Funding Proposal Experience** <br/>
+ -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
+
+ 
  -Conference Session Co-Chair, _AIAA Aviation Forum_, 2020. <br/>
  -President, _Turkish Student Organization at Georgia Institute of Technology_, 2018-2021, Atlanta, GA. <br/>
  -Organization Team, UAM Expo, _Georgia Institute of Technology_, 2019, Atlanta, GA. <br/>
  -Culture Chair, _Turkish Student Organization at Georgia Institute of Technology_, 2017-2018, Atlanta, GA. 
 
+ 
+  
+  \item \textbf{
+\end{itemize}
 
-**Funding Proposal Experience** <br/>
- -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
 
-
-
-
-<!---
 Materials for courses you taught. Replace this text with your description.
 
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
