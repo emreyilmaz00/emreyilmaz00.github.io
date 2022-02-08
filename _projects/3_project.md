@@ -44,11 +44,11 @@ An interior-point optimizer library is used to solve the non-linear constrained 
   
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/traj4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/muzero0.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Dynamic Obstacle Avoidance Achieved by Path Planning Networks Trained Using the MuZero Algorithm  
 </div>
 
 
