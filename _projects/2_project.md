@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Physics Informed ML
-description: Deep Learning Applications to Airfoil Performance Prediction and Airfoil Inverse Design Problems, Deep ConvNets, CGANs
+description: Deep Learning Applications to Airfoil Performance Prediction and Airfoil Inverse Design Problems, Deep Convolutional Neural Networks, Conditional GANs
 img: assets/img/whycnn.png
 importance: 2
 category: Ph.D. (Georgia Tech)
