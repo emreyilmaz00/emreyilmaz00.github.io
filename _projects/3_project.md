@@ -2,7 +2,7 @@
 layout: page
 title: UAM Air Traffic Optimization
 description: Multi Agent Path Planning, MPC, Constraint Aggregation, Deep RL, MuZero Algorithm, Pseudospectral Methods 
-img: assets/img/traj3.jpg  
+img: assets/img/traj3.png  
 importance: 3
 category: Ph.D. (Georgia Tech)
 ---
@@ -33,9 +33,8 @@ An interior-point optimizer library is used to solve the non-linear constrained 
 
   Inspired by the success of DeepMind’s deep reinforcement learning algorithm, <a> href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"> MuZero<\a>, in mastering games without any knowledge about the rules and the environment, we investigated the feasibility of using MuZero for advanced air mobility research by casting the dynamic obstacle avoidance problem as a game. Our goal is to determine optimal policies for agents in dynamic air traffic environment based on state-action pairs and reward-based optimization of MuZero’s networks that learn the value, the policy, and the reward. For this purpose, the sequential path planning optimization is implemented at each time step.   
  
-  - Presented a conference paper in <a> href="https://arc.aiaa.org/doi/10.2514/6.2021-2377">AIAA AVIATION'21</a>.
+  - Presented a conference paper in <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2377">AIAA AVIATION'21</a>.
  
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -81,18 +80,4 @@ In this project leaded by Kotwicz Herniczek, we formulate corridor design proble
   
   
   
-  
-<!---
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %} --->
-
+   
