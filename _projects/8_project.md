@@ -2,7 +2,7 @@
 layout: page
 title: Wind Tunnel Experiments with Quadrotor
 description: Quadrotor 
-img: /assets/img/quad4.jpg
+img: /assets/img/quad0.jpg
 importance: 3
 category: Master of Science (ODTU/METU)
 ---
@@ -15,7 +15,7 @@ category: Master of Science (ODTU/METU)
         {% include figure.html path="assets/img/quad1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/quad2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/quad0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/quad3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -24,14 +24,5 @@ category: Master of Science (ODTU/METU)
 <div class="caption">
     ..
 </div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/quad0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-     .
-</div>
-
+ 
   
