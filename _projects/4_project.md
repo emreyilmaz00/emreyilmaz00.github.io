@@ -7,48 +7,39 @@ importance: 3
 category: Ph.D. (Georgia Tech)
 ---
 
-Reliability of Aerospace Systems: Fault Tree Analysis, Uncertainty Propagation, Resource Allocation, and Reliability Optimization    
+To improve the reliability of aerospace systems considering the uncertainty propagation, a fault tree analysis based formulation is structured. Safety analysis of aerospace vehicle subsystems were performed by propagating statistical moments in fault trees. A resource allocation optimization problem is formulated to improve the top level event. The optimization problem is solved using augmented Lagrangian approach.
 
-Safety analysis of aerospace vehicle subsystems by propagating statistical moments in fault trees. 
-      Resource allocation to reduce top event failure probability via propagating uncertainty in fault trees and optimization via Augmented Lagrangian technique
-      Sensitivity analysis of nominal and fault tolerant flight operations when subject to failure or uncertainty
-     Submitted a journal paper to \href{https://www.journals.elsevier.com/reliability-engineering-and-system-safety}{[Elsevier RESS]}.
+ -Submitted a journal paper to \href{https://www.journals.elsevier.com/reliability-engineering-and-system-safety}{[Elsevier RESS]}.
 
-   <!---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    --->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fta1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fta2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fta3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+ ..
 </div>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fta1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Fault Tree Analysis Using the Propagation of Statistical Moments
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+ 
 
-
+<!---
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -60,14 +51,14 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
+--->
 
-
-The code is simple.
+<!---The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Here's the code for the last row of images above:--->
 
-{% raw %}
+<!--- {% raw %}
 ```html
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -79,3 +70,12 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+--->
+
+
+   <!---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    --->
