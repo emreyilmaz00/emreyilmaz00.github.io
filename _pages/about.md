@@ -8,7 +8,7 @@ profile:
   align: right
   image: ey.jpg
   address: >
-    <p>School of Aerospace Engineering</p>
+    <p>Aerospace Engineering</p>
     <p>Georgia Institute of Technology</p>
     <p>Atlanta, GA 30332</p>
 
