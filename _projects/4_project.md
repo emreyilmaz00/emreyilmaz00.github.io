@@ -9,7 +9,7 @@ category: Ph.D. (Georgia Tech)
 
 To improve the reliability of aerospace systems considering the uncertainty propagation, a fault tree analysis based formulation is structured. Safety analysis of aerospace vehicle subsystems were performed by propagating statistical moments in fault trees. A resource allocation optimization problem is formulated to improve the top level event. The optimization problem is solved using augmented Lagrangian approach.
 
- -Submitted a journal paper to \href{https://www.journals.elsevier.com/reliability-engineering-and-system-safety}{[Elsevier RESS]}.
+ -Submitted a journal paper to <a> href="https://www.journals.elsevier.com/reliability-engineering-and-system-safety" [Elsevier RESS]</a>
 
 
 <div class="row">
