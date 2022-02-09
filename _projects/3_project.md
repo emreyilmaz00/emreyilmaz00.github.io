@@ -5,11 +5,11 @@ description: Multi Agent Path Planning, MPC, Constraint Aggregation, Deep RL, Mu
 img: assets/img/traj2.png  
 importance: 3
 category: Ph.D. (Georgia Tech)
-driveId: 1EC8BnjJMon-vqy-UhLKk9sf_oukZzEbP/preview
+driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
 ---
 
 
-https://drive.google.com/file/d/1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/view?usp=sharing
+<!-- https://drive.google.com/file/d/1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/view?usp=sharing -->
 
 
 {% include googleDrivePlayer.html id=page.driveId %}
