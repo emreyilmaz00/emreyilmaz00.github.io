@@ -2,7 +2,7 @@
 layout: page
 title: Reliability of Aerospace Vehicle Systems
 description: Fault Tree Analysis, The Propagation of Statistical Moments, Resource Allocation, Augmented Lagrangian  
-img: /assets/img/fta_main.jpg
+img: /assets/img/fta_main.png
 importance: 3
 category: Ph.D. (Georgia Tech)
 ---
