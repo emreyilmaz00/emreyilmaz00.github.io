@@ -13,7 +13,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gilded3.png" title="A New Research Direction for MDO" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-2 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/hlmotiv.png" title="High Level Motivations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
