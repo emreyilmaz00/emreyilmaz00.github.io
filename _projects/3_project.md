@@ -7,6 +7,8 @@ importance: 3
 category: Ph.D. (Georgia Tech)
 ---
 
+https://drive.google.com/file/d/1Gt56asSeCcsF9O_8LYxnEGVnIyasBRcq/view?usp=sharing
+
 AAM (Advanced Air Mobility) and UAM (Urban Air Mobility) air traffic optimization research activites included multi-agent path planning, dynamic obstacle avoidance, and several optimization paradigms such as centralized and sequential optimization. <!---Problems are formulated using different approaches such as model predictive control (MPC) approach, deep reinforcement learning techniques, and optimal control via pseudospectral methods. Constraint aggregation is also investigated and utilized for this purpose. --->
 
 **UAM Air Traffic Optimization Using model predictive control and constraint aggregation.**
