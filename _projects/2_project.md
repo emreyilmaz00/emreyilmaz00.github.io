@@ -24,7 +24,8 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
 
 **A Convolutional Neural Network Approach for Training Predictors for Airfoil Performance**
 
- In this work, we trained medium-fidelity predictors for airfoil performance prediction via deep convolutional neural networks. The framework is implemented using Tensorflow.
+ - Medium-fidelity predictors are trained for airfoil performance prediction using deep convolutional neural networks. The framework is implemented in Tensorflow. 
+ - Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a>.
   
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -32,19 +33,16 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
     </div>
 </div>
 <div class="caption">
-    ...
+    
 </div>
 
- --Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a>.
-
+ 
 
 **A Deep Learning Approach to an Airfoil Inverse Desing Problem**
 
-We attempted to solve airfoil inverse problem using a framework constructed with deep convolutional neural networks.
-
-  --Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2018-3420">AIAA Aviation'18</a>.
+ - Airfoil inverse problem is reformulated and solved using a framework constructed with deep convolutional neural networks.
+ - Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2018-3420">AIAA Aviation'18</a>.
    
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/inv0.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -54,15 +52,14 @@ We attempted to solve airfoil inverse problem using a framework constructed with
     </div>
 </div>
 <div class="caption">
-    .
+    
 </div>
 
 
 **Conditional Generative Adversarial Network Framework for Airfoil Inverse Design**
 
-We used the game theoretic framework provided by training conditional generative adversarial networks (CGAN) to generate airfoil shapes given desired airfoil performance criteria. 
-
-  --Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a>.
+ - A game theoretic framework is considered by training conditional generative adversarial networks (CGAN) to generate airfoil shapes given the desired airfoil performance criteria. 
+ - Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a>.
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
