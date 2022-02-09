@@ -10,8 +10,8 @@ category: Bachelor of Science (ODTU/METU)
 
 **Propulsion System Optimization for an Electric Powered Hand Launched UAV [Summer 2010]** 
  
- -Propulsion system optimization for  an electric powered hand-launched UAV  
- -Performance calculations using battery, propeller, and brushless motor models
+ - Propulsion system optimization for  an electric powered hand-launched UAV  
+ - Performance calculations using battery, propeller, and brushless motor models
 
 
 **Internship at Turkish Aerospace [Summer 2009]** 
