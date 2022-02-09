@@ -5,9 +5,12 @@ description: Multi Agent Path Planning, MPC, Constraint Aggregation, Deep RL, Mu
 img: assets/img/traj2.png  
 importance: 3
 category: Ph.D. (Georgia Tech)
+driveId: 1EC8BnjJMon-vqy-UhLKk9sf_oukZzEbP/preview
 ---
 
 https://drive.google.com/file/d/1Gt56asSeCcsF9O_8LYxnEGVnIyasBRcq/view?usp=sharing
+
+{% include googleDrivePlayer.html id=page.driveId %}
 
 AAM (Advanced Air Mobility) and UAM (Urban Air Mobility) air traffic optimization research activites included multi-agent path planning, dynamic obstacle avoidance, and several optimization paradigms such as centralized and sequential optimization. <!---Problems are formulated using different approaches such as model predictive control (MPC) approach, deep reinforcement learning techniques, and optimal control via pseudospectral methods. Constraint aggregation is also investigated and utilized for this purpose. --->
 
