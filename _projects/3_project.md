@@ -18,7 +18,6 @@ We solve high-capacity urban air traffic optimization problems using model predi
 
 An interior-point optimizer library is used to solve the non-linear constrained optimization problems formulated using MPC approach. To achieve this, a large-scale linear system is repeatedly solved via a sparse symmetric indefinite linear solver. The used libraries include DoMPC, CasADi, IPOPT, and sparse linear solvers. A journal paper is in preparation.
 
-  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/mpc1.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -31,7 +30,7 @@ An interior-point optimizer library is used to solve the non-linear constrained 
     </div>
 </div>
 <div class="caption">
-    Optimal Paths at Varius Time Steps (Symmetrical Initialziation, MPC)  
+    Optimal Paths at Various Time Steps (Symmetrical Initialziation, Centralized MPC Framework)  
 </div> 
  
  
