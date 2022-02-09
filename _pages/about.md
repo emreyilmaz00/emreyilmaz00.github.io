@@ -47,7 +47,7 @@ My research interests include:
    - Intern, _Turkish Aerospace Inc._, Summer 2009
 
 ### CV
-     
+  <a href="assets/pdf/EY_CV.pdf" >[Link]</a>
 
 
 
