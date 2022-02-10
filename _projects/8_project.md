@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wind Tunnel Experiments with Quadrotor
-description: Quadrotor 
+description:  
 img: /assets/img/quad0.jpg
 importance: 3
 category: Master of Science (ODTU/METU)
