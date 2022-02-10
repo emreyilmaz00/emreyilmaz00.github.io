@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RC-UAV Design Projects
-description: UAV Design, Autonomy, and Propulsion System Optimization  
+description: RC-UAV Design, Building, and Flight Tests, Aerodynamic, Flight Dynamic and Propulsion System Optimization  
 img: /assets/img/dbf1.jpg
 importance: 1
 category: Bachelor of Science (ODTU/METU)
