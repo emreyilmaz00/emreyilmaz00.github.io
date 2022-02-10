@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Wind Tunnel Experiments with Quadrotor
-description:  
+description: Data Measurement System Design and Tests 
 img: /assets/img/quad0.jpg
 importance: 3
 category: Master of Science (ODTU/METU)
 ---
+
+**Wind Tunnel Data Measurement System Design and Tests**    
    
    Wind tunnel experiments were performed to measure force and moments exerted on a quadrotor platform for different flight scenarios. I participated in the design of measurement system using data acquisition and 6-DOF load cell unit with its substructures and in the integration of the system into the wind tunnel
  
