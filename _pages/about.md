@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 My research focuses on eVTOL (electric vertical take-off and landing) aircraft, UAM (urban air mobility) concepts, autonomy in flight, and physics-informed machine learning. 
 
-My research interests include:
+### Research Interests
 
    - eVTOL Aircraft Research: Control Allocation, Trajectory Optimization, Contingency Planning, Flight Dynamics, Modeling, and Performance 
    - Physics Informed Machine Learning       
