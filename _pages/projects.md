@@ -8,6 +8,8 @@ display_categories: [Ph.D. (Georgia Tech),Master of Science (ODTU/METU),Bachelor
 horizontal: false
 ---
 
+Click on the project photos to get more information!
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
