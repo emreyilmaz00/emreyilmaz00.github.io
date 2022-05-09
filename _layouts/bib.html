@@ -151,7 +151,7 @@
     <!-- Hidden bibtex block -->
     {% if entry.bibtex_show %}
     <div class="bibtex hidden">
-      {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
+      {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
     </div>
     {% endif %}
   </div>
