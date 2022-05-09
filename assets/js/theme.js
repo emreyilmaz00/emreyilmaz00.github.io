@@ -12,7 +12,7 @@ let toggleTheme = (theme) => {
 let setTheme = (theme) =>  {
   transTheme();
   setHighlight(theme);
-  
+
   if (theme) {
     document.documentElement.setAttribute("data-theme", theme);
   }
@@ -20,7 +20,7 @@ let setTheme = (theme) =>  {
     document.documentElement.removeAttribute("data-theme");
   }
   localStorage.setItem("theme", theme);
-  
+
   // Updates the background of medium-zoom overlay.
   if (typeof medium_zoom !== 'undefined') {
     medium_zoom.update({
