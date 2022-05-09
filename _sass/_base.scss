@@ -85,6 +85,7 @@ blockquote {
 }
 
 // Citation
+
 .citation, .citation-number {
   color: var(--global-theme-color);
 }
@@ -564,7 +565,7 @@ html.transition *:after {
   .post-tags{
     color: var(--global-text-color-light);
     font-size: 0.875rem;
-    padding-top: 0.25rem; 
+    padding-top: 0.25rem;
     padding-bottom: 1rem;
     a {
       color: var(--global-text-color-light);

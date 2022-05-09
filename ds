@@ -1,0 +1,537 @@
+[1mdiff --cc README.md[m
+[1mindex 48b8e5b,d947c6a..0000000[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@@ -306,7 -306,7 +306,11 @@@[m [mIf the entry matches one of the combina[m
+  <details><summary>(click to expand) <strong>Buttons (through custom bibtex keywords):</strong></summary>[m
+  [m
+  There are several custom bibtex keywords that you can use to affect how the entries are displayed on the webpage:[m
+[32m++<<<<<<< HEAD[m
+[32m +[m
+[32m++=======[m
+[32m+    [m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+  - `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the _data folder and adding entries that match.[m
+  - `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text[m
+  - `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)[m
+[36m@@@ -319,11 -319,11 +323,19 @@@[m
+  - `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)[m
+  - `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)[m
+  - `website`: Adds a "Website" button redirecting to the specified link[m
+[32m++<<<<<<< HEAD[m
+[32m +[m
+[32m +You can implement your own buttons by editing the bib.html file.[m
+[32m +[m
+[32m +</details>   [m
+[32m +[m
+[32m++=======[m
+[32m+    [m
+[32m+ You can implement your own buttons by editing the bib.html file.[m
+[32m+    [m
+[32m+ </details>[m
+[32m+    [m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+  ### Collections[m
+  [m
+  This Jekyll theme implements `collections` to let you break up your work into categories.[m
+[36m@@@ -335,7 -335,7 +347,11 @@@[m [mItems from the `projects` collection ar[m
+  [m
+  You can easily create your own collections, apps, short stories, courses, or whatever your creative work is.[m
+  To do this, edit the collections in the `_config.yml` file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.[m
+[32m++<<<<<<< HEAD[m
+[32m +[m
+[32m++=======[m
+[32m+    [m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+  ### Layouts[m
+  [m
+  **al-folio** comes with stylish layouts for pages and blog posts.[m
+[1mdiff --cc _config.yml[m
+[1mindex bb0562c,ceab6f8..0000000[m
+[1m--- a/_config.yml[m
+[1m+++ b/_config.yml[m
+[36m@@@ -13,15 -12,14 +13,22 @@@[m [mdescription: > # the ">" symbol means t[m
+  footer_text: >[m
+    Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.[m
+    Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.[m
+[31m -  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.[m
+[31m -keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty[m
+[32m +[m
+[32m +# Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.[m
+[32m +keywords: # add your own keywords or leave empty[m
+  [m
+  lang: en # the language of your site (for example: en, fr, cn, ru, etc.)[m
+[32m++<<<<<<< HEAD[m
+[32m +icon: hover.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)[m
+[32m +[m
+[32m +url: emreyilmaz00.github.io # the base hostname & protocol for your site[m
+[32m +baseurl: # the subpath of your site, e.g. /blog/[m
+[32m++=======[m
+[32m+ icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)[m
+[32m+ [m
+[32m+ url: https://alshedivat.github.io # the base hostname & protocol for your site[m
+[32m+ baseurl: /al-folio # the subpath of your site, e.g. /blog/[m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+  last_updated: false # set to true if you want to display last updated in the footer[m
+  impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR[m
+  [m
+[36m@@@ -239,20 -235,10 +246,24 @@@[m [mscholar[m
+    details_layout: bibtex.html[m
+    details_link: Details[m
+  [m
+[32m +  sort_by: year, month[m
+[32m +  order: descending, descending[m
+[32m +  type_order: [unpublished, article, inbook, conference, incollections, inproceedings, proceedings, book, misc, techreport][m
+[32m +  type_names: {[m
+[32m +    unpublished: Pre-Prints / In Preparation, [m
+[32m +    article: Journal Articles, [m
+[32m +    inproceedings: Conference Proceedings, [m
+[32m +    techreport: Technical Report[m
+[32m +  }[m
+[32m +[m
+[32m++<<<<<<< HEAD[m
+    query: "@*"[m
+[31m -[m
+[32m++=======[m
+[32m+ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output[m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+  [m
+[32m +filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output[m
+[32m + [m
+  # -----------------------------------------------------------------------------[m
+  # Responsive WebP Images[m
+  # -----------------------------------------------------------------------------[m
+[1mdiff --cc _includes/head.html[m
+[1mindex 9c07e40,1661581..0000000[m
+[1m--- a/_includes/head.html[m
+[1m+++ b/_includes/head.html[m
+[36m@@@ -21,7 -21,7 +21,11 @@@[m
+      {% endif %}[m
+      <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">[m
+      <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">[m
+[32m++<<<<<<< HEAD[m
+[32m +[m
+[32m++=======[m
+[32m+     [m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+      <!-- Dark Mode -->[m
+      {% if site.enable_darkmode %}[m
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/{{ site.highlight_theme_dark | append: '.css' }}" media="none" id="highlight_theme_dark" />[m
+[1mdiff --cc _includes/projects.html[m
+[1mindex dc6470f,503146e..0000000[m
+[1m--- a/_includes/projects.html[m
+[1m+++ b/_includes/projects.html[m
+[36m@@@ -28,9 -28,9 +28,17 @@@[m
+                </span>[m
+                {%- endif %}[m
+              </div>[m
+[32m++<<<<<<< HEAD[m
+[32m +              {%- endif %}[m
+[32m++=======[m
+[32m+             {%- endif %}[m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+            </div>[m
+          </div>[m
+        </div>[m
+      </a>[m
+[31m -</div>[m
+[32m++<<<<<<< HEAD[m
+[32m +</div>[m
+[32m++=======[m
+[32m++</div>[m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+[1mdiff --cc _layouts/bib.html[m
+[1mindex 81ef595,c57bff3..0000000[m
+[1m--- a/_layouts/bib.html[m
+[1m+++ b/_layouts/bib.html[m
+[36m@@@ -1,158 -1,160 +1,248 @@@[m
+  ---[m
+  ---[m
+[31m -<!-- _layouts/bib.html -->[m
+[31m -      <div class="row">[m
+[31m -        <div class="col-sm-2 abbr">[m
+[31m -        {%- if entry.abbr -%}[m
+[31m -          {%- if site.data.venues[entry.abbr] -%}[m
+[31m -          <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>[m
+[31m -          {%- else -%}[m
+[31m -          <abbr class="badge">{{entry.abbr}}</abbr>[m
+[31m -          {%- endif -%}[m
+[31m -        {%- endif -%}[m
+[31m -        </div>[m
+  [m
+[31m -        <!-- Entry bib key -->[m
+[31m -        <div id="{{entry.key}}" class="col-sm-8">[m
+[31m -        {% if entry.type == "thesis" -%}[m
+[31m -          {{reference}}[m
+[31m -        {%- else %}[m
+[31m -          <!-- Title -->[m
+[31m -          <div class="title">{{entry.title}}</div>[m
+[31m -          <!-- Author -->[m
+[31m -          <div class="author">[m
+[31m -          {%- for author in entry.author_array -%}[m
+[31m -            {%- assign author_is_self = false -%}[m
+[31m -            {%- if author.last == site.scholar.last_name%}[m
+[31m -              {%- if site.scholar.first_name contains author.first -%}[m
+[31m -                {%- assign author_is_self = true -%}[m
+[31m -              {%- endif -%}[m
+[31m -            {%- endif -%}[m
+[31m -            {%- assign coauthor_url = nil -%}[m
+[31m -            {%- if site.data.coauthors[author.last] -%}[m
+[31m -              {%- for coauthor in site.data.coauthors[author.last] -%}[m
+[31m -                {%- if coauthor.firstname contains author.first -%}[m
+[31m -                  {%- assign coauthor_url = coauthor.url -%}[m
+[31m -                  {%- break -%}[m
+[31m -                {%- endif -%}[m
+[31m -              {%- endfor -%}[m
+[31m -            {%- endif -%}[m
+[31m -            [m
+[31m -            {%- if forloop.length == 1 -%}[m
+[31m -              {%- if author_is_self %}[m
+[31m -                <em>{{author.last}}, {{author.first}}</em>[m
+[31m -              {%- else -%}[m
+[31m -                {{author.last}}, {{author.first}}[m
+[31m -              {%- endif -%}[m
+[31m -            {%- else -%}[m
+[31m -              {%- unless forloop.last -%}[m
+[31m -                {% if author_is_self %}[m
+[31m -                  <em>{{author.last}}, {{author.first}}</em>,&nbsp;[m
+[31m -                {%- else -%}[m
+[31m -                  {% if coauthor_url -%}[m
+[31m -                    <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>,&nbsp;[m
+[31m -                  {%- else -%}[m
+[31m -                    {{author.last}}, {{author.first}},&nbsp;[m
+[31m -                  {%- endif -%}[m
+[31m -                {%- endif -%}[m
+[31m -              {%- else -%}[m
+[31m -                {% if author_is_self -%}[m
+[31m -                  and <em>{{author.last}}, {{author.first}}</em>[m
+[31m -                {% else -%}[m
+[31m -                  {%- if coauthor_url -%}[m
+[31m -                    and <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>[m
+[31m -                  {% else -%}[m
+[31m -                    and {{author.last}}, {{author.first}}[m
+[31m -                  {%- endif -%}[m
+[31m -                {%- endif -%}[m
+[31m -              {%- endunless -%}[m
+[31m -            {%- endif -%}[m
+[31m -          {%- endfor %}[m
+[31m -          </div>[m
+[32m +<div class="row">[m
+[32m +  <div class="col-sm-2 abbr">[m
+[32m +  {% if entry.abbr %}[m
+[32m +    {% if site.data.venues[entry.abbr] %}[m
+[32m +    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>[m
+[32m +    {% else %}[m
+[32m +    <abbr class="badge">{{entry.abbr}}</abbr>[m
+[32m +    {% endif %}[m
+[32m +  {% endif %}[m
+[32m +  {% if entry.abbr1 %}[m
+[32m +    {% if site.data.venues[entry.abbr1] %}[m
+[32m +    <abbr class="badge"><a href="{{site.data.venues[entry.abbr1].url}}" target="_blank">{{entry.abbr1}}</a></abbr>[m
+[32m +    {% else %}[m
+[32m +    <abbr class="badge">{{entry.abbr1}}</abbr>[m
+[32m +    {% endif %}[m
+[32m +  {% endif %}[m
+[32m +  </div>[m
+  [m
+[32m++<<<<<<< HEAD[m
+[32m +  <div id="{{entry.key}}" class="col-sm-8">[m
+[32m +    {% if entry.type == "thesis" %}[m
+[32m +      {{reference}}[m
+[32m +    {% else %}[m
+[32m +      <div class="title">{{entry.title}}</div>[m
+[32m +      <div class="author">[m
+[32m +        {% for author in entry.author_array %}[m
+[32m +          {% assign author_is_self = false %}[m
+[32m +          {% if author.last == site.scholar.last_name%}[m
+[32m +            {% if site.scholar.first_name contains author.first%}[m
+[32m +              {% assign author_is_self = true %}[m
+[32m +            {% endif %}[m
+[32m +          {% endif %}[m
+[32m +          {% assign coauthor_url = nil %}[m
+[32m +          {% if site.data.coauthors[author.last] %}[m
+[32m +            {% for coauthor in site.data.coauthors[author.last] %}[m
+[32m +              {% if coauthor.firstname contains author.first %}[m
+[32m +                {% assign coauthor_url = coauthor.url %}[m
+[32m +                {% break %}[m
+[32m +              {% endif %}[m
+[32m +            {% endfor %}[m
+[32m +          {% endif %}[m
+[32m +          [m
+[32m +          {% if forloop.length == 1 %}[m
+[32m +            {% if author_is_self %}[m
+[32m +              <em>{{author.last}}, {{author.first}}</em>[m
+[32m +            {% else %}[m
+[32m +              {{author.last}}, {{author.first}}[m
+[32m +            {% endif %}[m
+[32m +          {% else %}[m
+[32m +            {% unless forloop.last %}[m
+[32m +              {% if author_is_self %}[m
+[32m +                <em>{{author.last}}, {{author.first}}</em>,[m
+[32m +              {% else %}[m
+[32m +                {% if coauthor_url %}[m
+[32m +                  <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>,[m
+[32m +                {% else %}[m
+[32m +                  {{author.last}}, {{author.first}},[m
+[32m +                {% endif %}[m
+[32m +              {% endif %}[m
+[32m +            {% else %}[m
+[32m +              {% if author_is_self %}[m
+[32m +                and <em>{{author.last}}, {{author.first}}</em>[m
+[32m +              {% else %}[m
+[32m +                {% if coauthor_url %}[m
+[32m +                  and <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>[m
+[32m +                {% else %}[m
+[32m +                  and {{author.last}}, {{author.first}}[m
+[32m +                {% endif %}[m
+[32m +              {% endif %}[m
+[32m +            {% endunless %}[m
+[32m +          {% endif %}[m
+[32m +        {% endfor %}[m
+[32m +      </div>[m
+[32m +[m
+[32m +      <div class="periodical">[m
+[32m +      {% if entry.type == "article" %}[m
+[32m +        <em>{{entry.journal}}</em>,[m
+[32m +      {% elsif entry.type == "inproceedings" %}[m
+[32m +        <em>In {{entry.booktitle}}</em>,[m
+[32m +      {% endif %}[m
+[32m +      {% if entry.year %}[m
+[32m +        {{entry.year}}[m
+[32m +      {% endif %}[m
+[32m++=======[m
+[32m+           <!-- Journal/Book title and date -->[m
+[32m+           {% if entry.type == "article" -%}[m
+[32m+             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}[m
+[32m+           {%- elsif entry.type == "inproceedings" -%}[m
+[32m+             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}[m
+[32m+           {%- else -%}[m
+[32m+             {%- capture entrytype -%}{%- endcapture -%}[m
+[32m+           {%- endif -%}[m
+[32m+           {%- if entry.month -%}[m
+[32m+             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}[m
+[32m+           {%- endif -%}[m
+[32m+           {%- if entry.year -%}[m
+[32m+             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}[m
+[32m+           {%- endif -%}[m
+[32m+           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}[m
+[32m+           <div class="periodical">[m
+[32m+             {{ periodical | strip }}[m
+[32m+           </div>[m
+[32m+         {%- endif %}[m
+[32m+         [m
+[32m+           <!-- Links/Buttons -->[m
+[32m+           <div class="links">[m
+[32m+           {%- if entry.abstract %}[m
+[32m+             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.arxiv %}[m
+[32m+             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.bibtex_show %}[m
+[32m+             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.html %}[m
+[32m+             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.pdf %}[m
+[32m+             {% if entry.pdf contains '://' -%}[m
+[32m+             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>[m
+[32m+             {%- else -%}[m
+[32m+             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>[m
+[32m+             {%- endif %}[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.supp %}[m
+[32m+             {% if entry.supp contains '://' -%}[m
+[32m+             <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>[m
+[32m+             {%- else -%}[m
+[32m+             <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>[m
+[32m+             {%- endif %}[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.blog %}[m
+[32m+             <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.code %}[m
+[32m+             <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.poster %}[m
+[32m+             {% if entry.poster contains '://' -%}[m
+[32m+             <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>[m
+[32m+             {%- else -%}[m
+[32m+             <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>[m
+[32m+             {%- endif %}[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.slides %}[m
+[32m+             {% if entry.slides contains '://' -%}[m
+[32m+             <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>[m
+[32m+             {%- else -%}[m
+[32m+             <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>[m
+[32m+             {%- endif %}[m
+[32m+           {%- endif %}[m
+[32m+           {%- if entry.website %}[m
+[32m+             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>[m
+[32m+           {%- endif %}[m
+[32m+           </div>[m
+[32m+ [m
+[32m+           {% if entry.abstract -%}[m
+[32m+           <!-- Hidden abstract block -->[m
+[32m+           <div class="abstract hidden">[m
+[32m+             <p>{{ entry.abstract }}</p>[m
+[32m+           </div>[m
+[32m+           {%- endif -%}[m
+[32m+ [m
+[32m+           {% if entry.bibtex_show -%}[m
+[32m+           <!-- Hidden bibtex block -->[m
+[32m+           <div class="bibtex hidden">[m
+[32m+             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}[m
+[32m+           </div>[m
+[32m+           {%- endif %}[m
+[32m+         </div>[m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+        </div>[m
+[32m +    {% endif %}[m
+[32m +[m
+[32m +    <div class="links">[m
+[32m +    {% if entry.abstract %}[m
+[32m +      <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.arxiv %}[m
+[32m +      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.bibtex_show %}[m
+[32m +        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.doi %}[m
+[32m +      <a href="{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank">DOI</a>[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.html %}[m
+[32m +      <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.pdf %}[m
+[32m +      {% if entry.pdf contains '://' %}[m
+[32m +      <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>[m
+[32m +      {% else %}[m
+[32m +      <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>[m
+[32m +      {% endif %}[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.supp %}[m
+[32m +      {% if entry.supp contains '://' %}[m
+[32m +      <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Supp</a>[m
+[32m +      {% else %}[m
+[32m +      <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Supp</a>[m
+[32m +      {% endif %}[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.blog %}[m
+[32m +      <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Blog</a>[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.code %}[m
+[32m +      <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.poster %}[m
+[32m +      {% if entry.poster contains '://' %}[m
+[32m +      <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>[m
+[32m +      {% else %}[m
+[32m +      <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>[m
+[32m +      {% endif %}[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.slides %}[m
+[32m +      {% if entry.slides contains '://' %}[m
+[32m +      <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>[m
+[32m +      {% else %}[m
+[32m +      <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>[m
+[32m +      {% endif %}[m
+[32m +    {% endif %}[m
+[32m +    {% if entry.website %}[m
+[32m +      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>[m
+[32m +    {% endif %}[m
+[32m +    </div>[m
+[32m +[m
+[32m +    <!-- Hidden abstract block -->[m
+[32m +    {% if entry.abstract %}[m
+[32m +    <div class="abstract hidden">[m
+[32m +      <p>{{ entry.abstract }}</p>[m
+[32m +    </div>[m
+[32m +    {% endif %}[m
+[32m +[m
+[32m +    <!-- Hidden bibtex block -->[m
+[32m +    {% if entry.bibtex_show %}[m
+[32m +    <div class="bibtex hidden">[m
+[32m +      {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}[m
+[32m +    </div>[m
+[32m +    {% endif %}[m
+[32m +  </div>[m
+[32m +</div>[m
+[1mdiff --cc _sass/_base.scss[m
+[1mindex a780b5e,d215212..0000000[m
+[1m--- a/_sass/_base.scss[m
+[1m+++ b/_sass/_base.scss[m
+[36m@@@ -564,7 -565,7 +565,11 @@@[m [mhtml.transition *:after [m
+    .post-tags{[m
+      color: var(--global-text-color-light);[m
+      font-size: 0.875rem;[m
+[32m++<<<<<<< HEAD[m
+[32m +    padding-top: 0.25rem; [m
+[32m++=======[m
+[32m+     padding-top: 0.25rem;[m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+      padding-bottom: 1rem;[m
+      a {[m
+        color: var(--global-text-color-light);[m
+[1mdiff --cc _sass/_themes.scss[m
+[1mindex 64d8aa6,118bca7..0000000[m
+[1m--- a/_sass/_themes.scss[m
+[1m+++ b/_sass/_themes.scss[m
+[36m@@@ -15,7 -15,7 +15,11 @@@[m
+    --global-distill-app-color: #{$grey-color};[m
+    --global-divider-color: rgba(0,0,0,.1);[m
+    --global-card-bg-color: #{$white-color};[m
+[32m++<<<<<<< HEAD[m
+[32m + [m
+[32m++=======[m
+[32m+ [m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+    .fa-sun {[m
+      display : none;[m
+    }[m
+[1mdiff --cc assets/js/theme.js[m
+[1mindex a97de57,169ea21..0000000[m
+[1m--- a/assets/js/theme.js[m
+[1m+++ b/assets/js/theme.js[m
+[36m@@@ -12,7 -12,7 +12,11 @@@[m [mlet toggleTheme = (theme) => [m
+  let setTheme = (theme) =>  {[m
+    transTheme();[m
+    setHighlight(theme);[m
+[32m++<<<<<<< HEAD[m
+[32m +  [m
+[32m++=======[m
+[32m+ [m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+    if (theme) {[m
+      document.documentElement.setAttribute("data-theme", theme);[m
+    }[m
+[1mdiff --cc blog/index.html[m
+[1mindex 6c4715f,082e2e3..0000000[m
+[1m--- a/blog/index.html[m
+[1m+++ b/blog/index.html[m
+[36m@@@ -49,12 -49,12 +49,21 @@@[m [mpagination[m
+          {% endif %}[m
+        </h3>[m
+        <p>{{ post.description }}</p>[m
+[32m++<<<<<<< HEAD[m
+[32m +      <p class="post-meta"> [m
+[32m +        {{read_time}} min read &nbsp; &middot; &nbsp;[m
+[32m +        {{ post.date | date: '%B %-d, %Y' }}[m
+[32m +        {%- if post.external_source %}[m
+[32m +        &nbsp; &middot; &nbsp; {{ post.external_source }}[m
+[32m +        {%- endif %}    [m
+[32m++=======[m
+[32m+       <p class="post-meta">[m
+[32m+         {{ read_time }} min read &nbsp; &middot; &nbsp;[m
+[32m+         {{ post.date | date: '%B %-d, %Y' }}[m
+[32m+         {%- if post.external_source %}[m
+[32m+         &nbsp; &middot; &nbsp; {{ post.external_source }}[m
+[32m+         {%- endif %}[m
+[32m++>>>>>>> c4e170a545daa8d75a16735e5f8987729383b736[m
+        </p>[m
+        <p class="post-tags">[m
+          <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">[m
