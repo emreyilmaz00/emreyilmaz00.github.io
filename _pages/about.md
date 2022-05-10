@@ -35,14 +35,14 @@ My research focuses on eVTOL (electric vertical take-off and landing) aircraft, 
 
    - **M.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2014
       - Dissertation Title: ``_Adaptive Robust Attitude Controller Design for a Quadrotor Platform_''
-      - Advisor: <a href="http://www.ae.metu.edu.tr/people/staff/kutay.html">Ali T. Kutay</a>  
+      - Advisor: <a href="https://avesis.metu.edu.tr/kutay">Ali T. Kutay</a>  
 
    - **B.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2011
 
 ### Experience
-   - Graduate Research Assistant, _Georgia Institute of Technology_, Jan'2016 – Present     
-   - Graduate Teaching Assistant, _Georgia Institute of Technology_, Aug'2014 – Dec'2015
-   - Graduate Research and Teaching Assistant, _Middle East Technical University_, Oct'2011 – July'2014
+   - Graduate Research Assistant, _Georgia Institute of Technology_, Jan 2016 – Present     
+   - Graduate Teaching Assistant, _Georgia Institute of Technology_, Aug 2014 – Dec 2015
+   - Graduate Research and Teaching Assistant, _Middle East Technical University_, Oct 2011 – July 2014
    - Intern, _Middle East Technical University_, Summer 2010
    - Intern, _Turkish Aerospace Inc._, Summer 2009
 
