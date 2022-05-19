@@ -69,7 +69,7 @@ In this project leaded by Kotwicz Herniczek, we formulate corridor design proble
      
  **Optimal Control Approach to Air Traffic Optimization Using SQP Solvers and Pseudospectral Methods**  
 
-  Used libraries: OpenMDAO, Dymos, SNOPT, SLSQP, etc.
+  Used libraries: OpenMDAO, Dymos, SNOPT.
  
   Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
 
