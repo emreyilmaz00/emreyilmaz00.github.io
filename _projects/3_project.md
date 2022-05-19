@@ -37,13 +37,13 @@ An interior-point optimizer library is used to solve the non-linear constrained 
     </div>
 </div>
 <div class="caption">
-    Optimal Paths at Various Time Steps (The planning problem is initialized in a symmetric manner and solved using Centralized MPC Framework)  
+    Optimal Paths at Various Time Steps (The planning problem is initialized in a symmetric manner and solved using centralized MPC framework)  
 </div> 
  
  
 **Deep Reinforcement Learning Approach to Air Traffic Optimization Using the MuZero Algorithm**  
 
-  Inspired by the success of DeepMind’s deep reinforcement learning algorithm, <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules"> MuZero<\a>, in mastering games without any knowledge about the rules and the environment, we investigated the feasibility of using MuZero for advanced air mobility research by casting the dynamic obstacle avoidance problem as a game. Our goal is to determine optimal policies for agents in dynamic air traffic environment based on state-action pairs and reward-based optimization of MuZero’s networks that learn the value, the policy, and the reward. For this purpose, the sequential path planning optimization is implemented at each time step.
+  Inspired by the success of DeepMind’s deep reinforcement learning algorithm, <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules">MuZero</a>, in mastering games without any knowledge about the rules and the environment, we investigated the feasibility of using MuZero for advanced air mobility research by casting the dynamic obstacle avoidance problem as a game. Our goal is to determine optimal policies for agents in dynamic air traffic environment based on state-action pairs and reward-based optimization of MuZero’s networks that learn the value, the policy, and the reward. For this purpose, the sequential path planning optimization is implemented at each time step.
  
  - Presented a conference paper in <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2377">AIAA AVIATION'21</a>.
   
