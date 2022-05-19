@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Internship Projects
-description: Propulsion System Optimization and Performance Calculations
+description: Propulsion System Optimization, Turbo Jet Powered UAV-Performance Calculations, and Literature Survey for Hypersonic Vehicles
 img: /assets/img/intern.png
 importance: 2
 category: Bachelor of Science (ODTU/METU)
