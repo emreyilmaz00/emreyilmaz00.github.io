@@ -57,14 +57,15 @@ An interior-point optimizer library is used to solve the non-linear constrained 
 
 **Highways in the Sky for Urban Air Mobility Operations Summary**
 
-In this project leaded by Kotwicz Herniczek, we formulate corridor design problem as a minimum cost multi-commodity flow problem. The goal here is to generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size. We solved the linear programming and mixed linear programming problem using Gurobi. Current work focuses on allowing corridors with cardinal directions (N, S, W, E, climb, and descent) which limits the structural design. Air traffic metrics are investigated and utilized for this purpose.
+In this project leaded by Kotwicz Herniczek, we formulate corridor design problem as a minimum cost multi-commodity flow problem. The goal here is to generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size. We solved the linear programming (LP) and mixed integer linear programming (MILP) problems using Gurobi. Current work focuses on allowing corridors with cardinal directions (N, S, W, E, climb, and descent) which limits the structural design. Air traffic metrics are investigated and utilized for this purpose as well.
     
  - Published an AIAA conference papers: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2376">[AIAA'21b]</a>
  - Submitted a journal paper to <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a> (current status: accepted).
 
-
      
  **Optimal Control Approach to Air Traffic Optimization Using SQP Solvers and Pseudospectral Methods**  
+
+Research activities focused on using pseudospectral methods and colored derivatives with the objective of obtaining minimum time multi agent paths.
 
   Used libraries: OpenMDAO, Dymos, SNOPT.
  
