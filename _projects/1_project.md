@@ -7,16 +7,15 @@ importance: 1
 category: Ph.D. (Georgia Tech)
 ---
 
-With the introduction of novel eVTOL aircraft, the complexity in aircraft design and air space management will drastically increase. Safety and efficiency concerns must be solved before successful commercial flight operations can begin. In my research related to eVTOL aircraft, our objective is to refer to these concerns by formulating and solving problems and enabling these technologies.  
+With the introduction of novel eVTOL aircraft, the complexity in aircraft design and air space management will drastically increase. Safety and efficiency concerns must be solved before successful commercial flight operations can begin. In my research related to eVTOL aircraft, the objective is to refer to these concerns by formulating and solving optimization problems that will help enabling these technologies.  
 
 Specifically, I focus on the following subjects in this research direction:
   - Hybrid Automaton-Based Path Planning
-  - Control Allocation Optimization
-  - Over-Actuated eVTOL Aircraft Flight Dynamic and Performance Modeling
-  - Distributed Propulsion Concepts
-  - Transition/Tilting Considerations
+  - Control Allocation Optimization for Over-Actuated eVTOL Aircraft
+  - eVTOL Aircraft Flight Dynamics and Performance Modeling
+  - Distributed Electric Propulsion Concepts
+  - Transition Corridors and Tilting Schedule Considerations
   - Multi-Disciplinary Analysis and Optimization Frameworks 
-
 
 **Control Allocation Optimization of Over-Actuated eVTOL Aircraft**
  
