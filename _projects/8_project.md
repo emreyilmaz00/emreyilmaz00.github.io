@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wind Tunnel Experiments with Quadrotor
+title: Wind Tunnel Experiments (Quadrotor)
 description: Data Measurement System Design and Tests 
 img: /assets/img/quad0.jpg
 importance: 3
