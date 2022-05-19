@@ -22,6 +22,6 @@ Participated in radio-controlled UAV design and building projects for the studen
     </div>
 </div>
 <div class="caption">
-    RC-UAV aircraft built for the competitions are shown in the photos. (Left: AnatolianCraft DBF'10-11, Middle: AnatolianCraft DBF'10-11, Right: AnatolianCraft ACC'11)
+    RC-UAV aircraft built for the competitions are shown in the photos. (Left: Anatolian-Craft DBF'10-11, Middle: Anatolian-Craft DBF'10-11, Right: Anatolian-Craft ACC'11)
 </div>
  
