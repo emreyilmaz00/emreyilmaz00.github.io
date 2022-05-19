@@ -20,7 +20,7 @@ To improve the reliability of aerospace systems considering the uncertainty prop
     </div>
 </div>
 <div class="caption">
- ..
+ Sensitivity Analysis and Optimization Iterations
 </div>
 
 
