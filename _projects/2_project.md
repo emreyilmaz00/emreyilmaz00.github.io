@@ -7,7 +7,7 @@ importance: 2
 category: Ph.D. (Georgia Tech)
 ---
 
-In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of its gilded cage, and find ways to help conceive new designs, not just search the design space defined by the user._"} [**Simpson** _et al._] Inspired by this vision, we proposed using deep learning methods as a new possible direction to overcome fundamental limitations of MDO parametrization.  
+In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of its gilded cage, and find ways to help conceive new designs, not just search the design space defined by the user._". Inspired by this vision, we proposed using deep learning methods as a new possible direction to overcome fundamental limitations of multi-disciplinary design and optimization (MDO) parametrization.  <!--- [**Simpson** _et al._] --->
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -18,13 +18,13 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
     </div>
 </div>
 <div class="caption">
-   Deep Learning as a direction for MDAO and High Level Motivations of Deep Learning 
+   Deep Learning as a direction for MDO and High Level Motivations 
 </div>
 
 
 **A Convolutional Neural Network Approach for Training Predictors for Airfoil Performance**
 
- - Medium-fidelity predictors are trained for airfoil performance prediction using deep convolutional neural networks. The framework is implemented in Tensorflow. 
+ - Medium-fidelity predictors are trained for predicting airfoil performance using deep convolutional neural networks. The framework is implemented in Tensorflow. 
  - Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a>.
   
 <div class="row">
@@ -73,7 +73,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
     </div>
 </div>
 <div class="caption">
-    Airfoil Shape Generation by the generator in GAN Framework Shown at Different Epochs
+    Airfoil Shape Generation by the Generator in GAN Framework Shown at Different Epochs
 </div>
 
 
