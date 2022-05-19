@@ -12,7 +12,7 @@ nav: true
 <i>Courses:</i> 
 
   - Control System Design Lab <a href="https://sankar.gatech.edu/UG.Courses/AE4525.pdf">[AE 4525]</a> (Fall'14 and Spring'15) 
-  - Dynamics <a href="https://ae.gatech.edu/sites/default/files/images/syll-ae2220.pdf">[AE 2220]</a> (Fall'15).  
+  - Dynamics <a href="https://ae.gatech.edu/sites/default/files/images/syll-ae2220.pdf">[AE 2220]</a> (Fall'15)
 
 **Teaching Assistant (ODTU/METU) [Fall 2011 - Spring 2014]** <br/>
 
