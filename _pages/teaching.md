@@ -24,8 +24,8 @@ nav: true
 
 <i>Courses:</i> 
 
-  - Introduction to Aircraft Performance <a href="http://ae.metu.edu.tr/~ae172/17/AE172Spring2017SyllabusKutay.pdf">[AE 172]</a> (Fall'12,Fall'13), 
-  - Aeronautical Engineering Design <a href="http://www.ae.metu.edu.tr/~ae451sc1/outline-451.pdf" >[AE 451]</a> (Spring'11,Spring'12) 
+  - Introduction to Aircraft Performance <a href="http://ae.metu.edu.tr/~ae172/17/AE172Spring2017SyllabusKutay.pdf">[AE 172]</a> (Fall'12 and Fall'13), 
+  - Aeronautical Engineering Design <a href="http://www.ae.metu.edu.tr/~ae451sc1/outline-451.pdf" >[AE 451]</a> (Spring'11 and Spring'12) 
   - Control Engineering Design <a href="http://www.ae.metu.edu.tr/under/courses/ae384.html">[AE 384]</a>
 
 <i>Supporting Lab Assistant:</i> 
