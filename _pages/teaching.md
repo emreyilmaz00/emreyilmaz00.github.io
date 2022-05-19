@@ -9,7 +9,10 @@ nav: true
 **Teaching Assistant (Georgia Tech) [Fall 2014 - Fall 2015]** <br/>
  Held discussion to assist students, conducted experiments related to control engineering topics and aerospace systems, and graded the lab reports. 
  
-<i>Courses:</i> Control System Design Lab <a href="https://sankar.gatech.edu/UG.Courses/AE4525.pdf">[AE 4525]</a> (Fall'14 and Spring'15) and Dynamics <a href="https://ae.gatech.edu/sites/default/files/images/syll-ae2220.pdf">[AE 2220]</a> (Fall'15).  
+<i>Courses:</i> 
+
+  - Control System Design Lab <a href="https://sankar.gatech.edu/UG.Courses/AE4525.pdf">[AE 4525]</a> (Fall'14 and Spring'15) 
+  - Dynamics <a href="https://ae.gatech.edu/sites/default/files/images/syll-ae2220.pdf">[AE 2220]</a> (Fall'15).  
 
 **Teaching Assistant (ODTU/METU) [Fall 2011 - Spring 2014]** <br/>
 
@@ -19,11 +22,16 @@ nav: true
 
   -Participated as the leading coordinator in the establishment of the Control and Simulation Laboratory equipped with mechanisms for control engineering lab demos, organized the lab hardware and software, and prepared the experiments and lecture materials. 
 
-<i>Courses:</i> Introduction to Aircraft Performance <a href="http://ae.metu.edu.tr/~ae172/17/AE172Spring2017SyllabusKutay.pdf">[AE 172]</a> (Fall'12,Fall'13), Aeronautical Engineering Design <a href="http://www.ae.metu.edu.tr/~ae451sc1/outline-451.pdf" >[AE 451]</a> (Spring'11,Spring'12), and Control Engineering Design <a href="http://www.ae.metu.edu.tr/under/courses/ae384.html">[AE 384]</a>
+<i>Courses:</i> 
 
-<i>Supporting Lab Assistant:</i> Flight Dynamics <a href="https://ocw.metu.edu.tr/pluginfile.php/24002/mod_resource/content/1/Syll_2017.pdf">[AE 372]</a>, and Aerospace Engineering Laboratory <a href="https://catalog.metu.edu.tr/course.php?prog=572&course_code=5720410">[AE 410]</a>.  
+  - Introduction to Aircraft Performance <a href="http://ae.metu.edu.tr/~ae172/17/AE172Spring2017SyllabusKutay.pdf">[AE 172]</a> (Fall'12,Fall'13), 
+  - Aeronautical Engineering Design <a href="http://www.ae.metu.edu.tr/~ae451sc1/outline-451.pdf" >[AE 451]</a> (Spring'11,Spring'12) 
+  - Control Engineering Design <a href="http://www.ae.metu.edu.tr/under/courses/ae384.html">[AE 384]</a>
 
- 
+<i>Supporting Lab Assistant:</i> 
+   - Flight Dynamics <a href="https://ocw.metu.edu.tr/pluginfile.php/24002/mod_resource/content/1/Syll_2017.pdf">[AE 372]</a>
+   - Aerospace Engineering Laboratory <a href="https://catalog.metu.edu.tr/course.php?prog=572&course_code=5720410">[AE 410]</a>.  
+
 <!---
 **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
