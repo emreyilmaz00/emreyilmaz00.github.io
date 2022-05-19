@@ -13,6 +13,7 @@ We investigated adaptive, non-linear and robust control techniques to design an 
  
   -Published two conference papers: <a href="https://arc.aiaa.org/doi/10.2514/6.2014-2671"> [AIAA'14]</a>,  <a href="https://aiac.ae.metu.edu.tr">[AIAC'13]</a>
  
+ <!---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,5 +29,7 @@ We investigated adaptive, non-linear and robust control techniques to design an 
 <div class="caption">
      .
 </div> 
+
+--->
  
  
