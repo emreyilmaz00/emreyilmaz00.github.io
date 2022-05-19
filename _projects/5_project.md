@@ -24,7 +24,7 @@ category: Ph.D. (Georgia Tech)
     </div> 
 </div>
 <div class="caption">
-    Motivation for the Study
+    Motivation and High Level Objectives
 </div>
 
 
@@ -53,7 +53,7 @@ category: Ph.D. (Georgia Tech)
     </div>
 </div>
 <div class="caption">
-        Landing Approach Surfaces: Energy and Power Analysis Subject to Operational Constraints
+        Constraint and Operational Performance Analysis for Platforms with Different Disk Loading
 </div>
  
  <div class="row"> 
