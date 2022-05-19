@@ -21,11 +21,11 @@ My research focuses on eVTOL (electric vertical take-off and landing) aircraft, 
 
 ### Research Interests
 
-   - eVTOL Aircraft Research: Control Allocation, Trajectory Optimization, Contingency Planning, Flight Dynamics, Modeling, and Performance 
+   - Guidance, Control, Flight Dynamics, Trajectory Optimization, Contingency Planning, and Performance of Aerospace Vehicles (Specific Focus: eVTOL Aircraft)
+   - Urban/Advanced Air Mobility Multi-Agent Air Traffic Optimization 
    - Physics Informed Machine Learning       
-   - UAM/AAM Air Traffic Optimization, Multi Agent Path Planning via Optimal Control, MDAO frameworks, and Deep Reinforcement Learning Methods        
-   - Autonomy in Flight, Decision-Making, Non-linear Control    
-   - Multidisciplinary Design Analysis and Optimization
+   - Autonomy in Flight, Decision-Making, and Non-linear Control    
+   - Multidisciplinary Design, Analysis, and Optimization (MDAO)
 
 ### Education
 
