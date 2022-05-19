@@ -13,7 +13,7 @@ We investigated adaptive, non-linear and robust control techniques to design an 
  
   -Published two conference papers: <a href="https://arc.aiaa.org/doi/10.2514/6.2014-2671"> [AIAA'14]</a>,  <a href="https://aiac.ae.metu.edu.tr">[AIAC'13]</a>
  
- <!---
+ <!--
 
 Wind tunnel experiments were performed to measure force and moments exerted on the platform.
 
@@ -29,9 +29,9 @@ Wind tunnel experiments were performed to measure force and moments exerted on t
     </div>
 </div>
 <div class="caption">
-     .
+     
 </div> 
 
---->
+-->
  
  
