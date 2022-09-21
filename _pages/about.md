@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD. Candidate</a>. Georgia Institute of Technology, Atlan
 
 profile:
   align: right
-  image: ey.jpg
+  image: ey3.png
   address: >
     <p>Aerospace Engineering</p>
     <p>Georgia Institute of Technology</p>
