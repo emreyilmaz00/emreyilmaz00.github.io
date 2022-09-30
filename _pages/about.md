@@ -25,7 +25,8 @@ My research focuses on eVTOL (electric vertical take-off and landing) aircraft, 
    - Urban/Advanced Air Mobility Multi-Agent Air Traffic Optimization 
    - Physics Informed Machine Learning       
    - Autonomy in Flight, Decision-Making, and Non-linear Control    
-   - Multidisciplinary Design, Analysis, and Optimization (MDAO)
+   - Multidisciplinary Design, Analysis, and Optimization (MDAO)  
+   - Reliability and System Safety 
 
 ### Education
 
