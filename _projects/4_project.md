@@ -14,7 +14,7 @@ category: Ph.D. (Georgia Tech)
    - Constrained optimization problems are formulated to improve system safety.
    - The optimization problem is solved using augmented Lagrangian approach.
 
- -Publisehd a journal paper in <a href="www.sciencedirect.com/science/article/abs/pii/S0951832022004902">[Elsevier RESS]</a>
+ -Published a journal paper in <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832022004902">Journal of Reliability and System Safety</a>.
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
