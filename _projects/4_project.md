@@ -7,19 +7,14 @@ importance: 3
 category: Ph.D. (Georgia Tech)
 ---
 
-    The prior information at the basic event levels can vary notably in fault trees.
+   - The prior information at the basic event levels can vary notably in fault trees.
+   - An approach for uncertainty propagation via statistical moments is developed.
+   - The approach depends on the distribution types when dependencies exist.
+   - Sensitivity analysis is leveraged for optimizing resource allocations.
+   - Constrained optimization problems are formulated to improve system safety.
+   - The optimization problem is solved using augmented Lagrangian approach.
 
-    An approach for uncertainty propagation via statistical moments is developed.
-
-    The approach depends on the distribution types when dependencies exist.
-
-    Sensitivity analysis is leveraged for optimizing resource allocations.
-
-    Constrained optimization problems are formulated to improve system safety.
- 
-    The optimization problem is solved using augmented Lagrangian approach.
-
- -Publisehd a journal paper in <a href="[https://www.journals.elsevier.com/reliability-engineering-and-system-safety](https://www.sciencedirect.com/science/article/abs/pii/S0951832022004902)">[Elsevier RESS]</a>
+ -Publisehd a journal paper in <a href="www.sciencedirect.com/science/article/abs/pii/S0951832022004902">[Elsevier RESS]</a>
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
