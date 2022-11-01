@@ -60,13 +60,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: emreyilmaz00 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # emreyilmaz00   -- your LinkedIn user name
+linkedin_username: emreyilmaz00 # -- your LinkedIn user name
 scholar_userid: 1Ie3QuMAAAAJ # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-6710-7345 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+publons_id: # ACO-7126-2022 your ID on Publons
+research_gate_profile: Emre-Yilmaz-19 # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -123,7 +123,7 @@ collections:
   #  output: true
   #  permalink: /teaching/:path/
     
-news_limit: 1
+news_limit: 2
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
