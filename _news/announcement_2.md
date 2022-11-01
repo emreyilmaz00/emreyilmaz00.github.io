@@ -1,6 +1,5 @@
 ---
 layout: post
-title: A long announcement with details
 date: 2022-11-01 15:11:00-0400
 inline: true
 ---
