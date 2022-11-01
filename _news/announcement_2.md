@@ -4,7 +4,7 @@ title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
 inline: false
 ---
-Published a journal paper in Reliability Engineering and System Safety.
+Published a journal paper in Reliability Engineering and System Safety. <a href="https://doi.org/10.1016/j.ress.2022.108873">[Link]</a> 
 
 ***
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
