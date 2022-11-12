@@ -60,6 +60,8 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
 
  - A game theoretic framework is considered by training conditional generative adversarial networks (CGAN) to generate airfoil shapes given the desired airfoil performance criteria. 
  - Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a>.
+ - **Funding Proposal Experience** <br/>
+ -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
