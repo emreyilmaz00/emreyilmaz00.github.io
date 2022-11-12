@@ -8,6 +8,8 @@ nav: true
 
 **Reviewing** <br/>
 AIAA Journal
+Transportation Research. Part C: Emerging Technologies
+
 
 **Volunteering and Leadership** <br/>
  -Conference Session Co-Chair, _AIAA Aviation Forum_, 2020. <br/>
