@@ -7,12 +7,13 @@ nav: true
 ---
 
 **Teaching Assistant (Georgia Tech) [Fall 2014 - Fall 2015]** <br/>
- Held discussion to assist students, conducted experiments related to control engineering topics and aerospace systems, and graded the lab reports. 
+Lectured lab sesions, held discussion to assist students, conducted experiments related to control engineering topics and aerospace systems, and graded the lab reports. 
  
 <i>Courses:</i> 
 
   - Control System Design Lab <a href="https://sankar.gatech.edu/UG.Courses/AE4525.pdf">[AE 4525]</a> (Fall'14 and Spring'15) 
   - Dynamics <a href="https://ae.gatech.edu/sites/default/files/images/syll-ae2220.pdf">[AE 2220]</a> (Fall'15)
+  - Rotorcraft Design <a href="https://ae.gatech.edu/sites/default/files/images/syll-ae4343.pdf">[AE 4343]</a> (Fall'22)  
 
 **Teaching Assistant (ODTU/METU) [Fall 2011 - Spring 2014]** <br/>
 
