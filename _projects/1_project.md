@@ -5,6 +5,8 @@ description: Control Allocation, Hybrid-Automata Based Path Planning, Contingenc
 img: assets/img/evtol0.png
 importance: 1
 category: Ph.D. (Georgia Tech)
+driveId: 1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/preview
+
 ---
 
 With the introduction of novel eVTOL aircraft, the complexity in aircraft design and air space management will drastically increase. Safety and efficiency concerns must be solved before successful commercial flight operations can begin. In my research related to eVTOL aircraft, the objective is to refer to these concerns by formulating and solving optimization problems that will help enabling these technologies.  
@@ -16,6 +18,14 @@ Specifically, I focus on the following subjects in this research direction:
   - Distributed Electric Propulsion Concepts
   - Transition Corridors and Tilting Schedule Considerations
   - Multi-Disciplinary Analysis and Optimization Frameworks 
+
+**Flight Dynamic Modeling of Over-Actuated Tandem Tilt-Wing Distributed Propulsion eVTOL Aircraft**
+
+Forward Flight:
+<!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing -->
+{% include googleDrivePlayer.html id=page.driveId %}
+
+<!-- https://drive.google.com/file/d/1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/view?usp=sharing -->
 
 **Control Allocation Optimization of Over-Actuated eVTOL Aircraft**
  
