@@ -6,6 +6,7 @@ img: assets/img/evtol0.png
 importance: 1
 category: Ph.D. (Georgia Tech)
 driveId: 1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/preview
+driveId2: 1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/preview
 
 ---
 
@@ -25,7 +26,9 @@ Forward Flight:
 <!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId %}
 
+Hover:
 <!-- https://drive.google.com/file/d/1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/view?usp=sharing -->
+{% include googleDrivePlayer.html id=page.driveId2 %}
 
 **Control Allocation Optimization of Over-Actuated eVTOL Aircraft**
  
