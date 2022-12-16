@@ -7,8 +7,8 @@ nav: true
 ---
 
 **Reviewing** <br/>
-AIAA Journal
-Transportation Research. Part C: Emerging Technologies
+  -AIAA Journal
+  -Transportation Research. Part C: Emerging Technologies
 
 
 **Volunteering and Leadership** <br/>
