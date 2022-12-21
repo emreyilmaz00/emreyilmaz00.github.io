@@ -7,7 +7,7 @@ nav: true
 ---
 
 **Teaching Assistant (Georgia Tech) [Fall 2014 - Fall 2015]** <br/>
-Lectured lab sesions, held discussion to assist students, conducted experiments related to control engineering topics and aerospace systems, and graded the lab reports. 
+Lectured lab sessions, held discussions to assist students, conducted experiments related to control engineering topics and aerospace systems, and graded lab reports. 
  
 <i>Courses:</i> 
 
@@ -17,7 +17,7 @@ Lectured lab sesions, held discussion to assist students, conducted experiments 
 
 **Teaching Assistant (ODTU/METU) [Fall 2011 - Spring 2014]** <br/>
 
-  -Held discussion to assist students, provided feedback on course material, graded homework assignments, conducted control engineering demos and wind tunnel tests. Held MATLAB sessions. 
+  -Held discussion to assist students, provided feedback on course material, graded homework assignments, conducted control engineering demos and wind tunnel tests, and held MATLAB sessions. 
   
   -Composed various experiments ranging from aircraft performance to control and organized lab schedules. 
 
