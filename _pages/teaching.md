@@ -19,7 +19,7 @@ Lectured lab sessions, held discussions to assist students, conducted experiment
 
   -Held discussion to assist students, provided feedback on course material, graded homework assignments, conducted control engineering demos and wind tunnel tests, and held MATLAB sessions. 
   
-  -Composed various experiments ranging from aircraft performance to control and organized lab schedules. 
+  -Prepared various experiments ranging from aircraft performance to system dynamics and control and organized lab schedules. 
 
   -Participated as the leading coordinator in the establishment of the Control and Simulation Laboratory equipped with mechanisms for control engineering lab demos, organized the lab hardware and software, and prepared the experiments and lecture materials. 
 
