@@ -35,7 +35,7 @@ My research focuses on eVTOL (electric vertical take-off and landing) aircraft, 
       - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
    - **M.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2014
-      - Dissertation Title: ``_Adaptive Robust Attitude Controller Design for a Quadrotor Platform_''
+      - Thesis Title: <a href="https://etd.lib.metu.edu.tr/upload/12617486/index.pdf">``_Adaptive Robust Attitude Controller Design for a Quadrotor Platform_''</a>  
       - Advisor: <a href="https://avesis.metu.edu.tr/kutay">Ali T. Kutay</a>  
 
    - **B.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2011
