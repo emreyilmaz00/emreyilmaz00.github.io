@@ -30,7 +30,7 @@ My research focuses on eVTOL (electric vertical take-off and landing) aircraft, 
 
 ### Education
 
-   - **Ph.D.**, Aerospace Engineering, _Georgia Institute of Technology_, 2022 (expected)
+   - **Ph.D.**, Aerospace Engineering, _Georgia Institute of Technology_, 2023 (expected)
       - Dissertation Title: ``_Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tilt-Wing eVTOL Aircraft_''
       - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
