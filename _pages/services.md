@@ -7,8 +7,8 @@ nav: true
 ---
 
 **Reviewing** <br/>
-  -<a href="https://arc.aiaa.org/loi/aiaaj">[AIAA Journal]</a> <br/>
-  -<a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">[Transportation Research. Part C: Emerging Technologies]</a> <br/> 
+  -<a href="https://arc.aiaa.org/loi/aiaaj">AIAA Journal</a> <br/>
+  -<a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">Transportation Research. Part C: Emerging Technologies</a> <br/> 
 
 
 **Volunteering and Leadership** <br/>
