@@ -22,6 +22,22 @@ Specifically, I focus on the following subjects in this research direction:
 
 **Flight Dynamic Modeling of Over-Actuated Tandem Tilt-Wing Distributed Propulsion eVTOL Aircraft**
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/vsp0.png" title="Bare Airframe" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/vsp1.png" title="Props On" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
+
 Forward Flight:
 <!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId %}
