@@ -33,7 +33,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
     </div>
 </div>
 <div class="caption">
-    
+     The Application of Deep Convolutional Neural Networks to Airfoil Performance Prediction
 </div>
 
  
@@ -52,7 +52,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
     </div>
 </div>
 <div class="caption">
-    
+      The Application of Deep Convolutional Neural Networks to Airfoil Inverse Design
 </div>
 
 
