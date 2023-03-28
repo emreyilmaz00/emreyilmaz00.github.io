@@ -9,7 +9,7 @@ category: Ph.D. (Georgia Tech)
  
  <!---UAM Landing Surface Design with Considerations about Energy, Power, and Constraints including Vortex Ring States, Dead Man's Diagram, Acceleration and Obstacle Limits, Influence of Turbulence to Landing Accuracy, Circular Error Probables  --->
  
- For investigating UAM landing approach operations, the following activities are conducted:
+ To investigate UAM landing approach operations, the following research activities were conducted:
  
  - Landing approach surfaces design and performance analysis in terms of energy, power, and time 
  - Constraint analysis considering inflow modeling, vortex ring state (VRS), acceleration limits, h-V (dead man's) diagram, speed limits, obstacles, and FAA regulations
