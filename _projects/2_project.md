@@ -7,6 +7,8 @@ importance: 2
 category: Ph.D. (Georgia Tech)
 ---
 
+**Introduction**
+
 In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of its gilded cage, and find ways to help conceive new designs, not just search the design space defined by the user._". Inspired by this vision, we proposed using deep learning methods as a new possible direction to overcome fundamental limitations of multi-disciplinary design and optimization (MDO) parametrization.  <!--- [**Simpson** _et al._] --->
 
 <div class="row">
@@ -24,8 +26,8 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
 
 **A Convolutional Neural Network Approach for Training Predictors for Airfoil Performance**
 
- - Medium-fidelity predictors are trained for predicting airfoil performance using deep convolutional neural networks. The framework is implemented in Tensorflow. 
- - Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a>.
+ - Medium-fidelity predictors were trained for predicting airfoil performance using deep convolutional neural networks. The framework was implemented in Tensorflow. 
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a>.
   
 <div class="row">
     <div class="col-sm-10 mt-3 mt-md-0">
@@ -41,7 +43,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
 **A Deep Learning Approach to an Airfoil Inverse Desing Problem**
 
  - Airfoil inverse problem is reformulated and solved using a framework constructed with deep convolutional neural networks.
- - Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2018-3420">AIAA Aviation'18</a>.
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2018-3420">AIAA Aviation'18</a>.
    
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -59,7 +61,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
 **Conditional Generative Adversarial Network Framework for Airfoil Inverse Design**
 
  - A game theoretic framework is considered by training conditional generative adversarial networks (CGAN) to generate airfoil shapes given the desired airfoil performance criteria. 
- - Presented in <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a>.
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a>.
  - **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
 
