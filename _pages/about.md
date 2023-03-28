@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>PhD. Candidate</a>. Georgia Institute of Technology, Atlanta, USA.
+subtitle: <a href='#'>Ph.D. Candidate</a>. Georgia Institute of Technology, Atlanta, USA.
 
 profile:
   align: right
