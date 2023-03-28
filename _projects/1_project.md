@@ -10,12 +10,14 @@ driveId2: 1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/preview
 
 ---
 
-With the introduction of novel eVTOL aircraft, the complexity in aircraft design and air space management will drastically increase. Safety and efficiency concerns must be solved before successful commercial flight operations can begin. In my research related to eVTOL aircraft, the objective is to refer to these concerns by formulating and solving optimization problems that will help enabling these technologies.  
+**Introduction**
 
-Specifically, I focus on the following subjects in this research direction:
-  - Hybrid Automaton-Based Path Planning
-  - Control Allocation Optimization for Over-Actuated eVTOL Aircraft
+With the introduction of novel eVTOL aircraft, the complexity in aircraft design and air space management will drastically increase. Safety and efficiency concerns must be solved before successful commercial flight operations can begin. In my research related to eVTOL aircraft, the objective is to respond to these concerns by formulating and solving optimization problems that will help enabling these technologies.  
+
+Specifically, I focus on the following subjects:
   - eVTOL Aircraft Flight Dynamics and Performance Modeling
+  - Control Allocation Optimization for Over-Actuated eVTOL Aircraft
+  - Hybrid Automaton-Based Planning
   - Distributed Electric Propulsion Concepts
   - Transition Corridors and Tilting Schedule Considerations
   - Multi-Disciplinary Analysis and Optimization Frameworks 
@@ -27,7 +29,7 @@ Specifically, I focus on the following subjects in this research direction:
         {% include figure.html path="assets/img/vsp0.png" title="Bare Airframe" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption"> VSPAERO Trailing Vortex Solution for the Bare Airframe at Forward Flight Condition
 </div>
 
 <div class="row">
@@ -35,14 +37,14 @@ Specifically, I focus on the following subjects in this research direction:
         {% include figure.html path="assets/img/vsp1.png" title="Props On" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption"> VSPAERO Trailing Vortex Solution for the Airframe with Propellers at Forward Flight Condition
 </div>
 
-Forward Flight:
+Analysis for Forward Flight:
 <!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId %}
 
-Hover:
+Analysis for Hover:
 <!-- https://drive.google.com/file/d/1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId2 %}
 
