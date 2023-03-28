@@ -30,7 +30,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a>.
   
 <div class="row">
-    <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/whycnn.png" title="Why to use Convolutional Neural Networks" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
