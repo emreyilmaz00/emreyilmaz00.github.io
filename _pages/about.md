@@ -21,7 +21,7 @@ My research focuses on physics-informed machine learning, eVTOL (electric vertic
 
 ### Research Interests
 
-   - Physics Informed Machine Learning
+   - Physics Informed Machine Learning and Physics Informed Neural Networks
    - Flight Dynamics, Control, Performance, Trajectory Optimization, and Contingency Planning of Aerospace Vehicles (Specific Focus: eVTOL Aircraft)
    - Multidisciplinary Design, Analysis, and Optimization (MDAO)  
    - Autonomy and Decision-Making    
