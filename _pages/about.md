@@ -48,7 +48,7 @@ My research focuses on eVTOL (electric vertical take-off and landing) aircraft, 
    - Intern, _Turkish Aerospace Inc._, Summer 2009
 
 ### CV
-  <a href="assets/pdf/EmreYilmaz_CV-1.pdf" >[Link]</a>
+  <a href="assets/pdf/EmreYilmaz_CV-2.pdf" >[Link]</a>
 
 
 
