@@ -17,15 +17,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research focuses on eVTOL (electric vertical take-off and landing) aircraft, AAM (advanced air mobility) concepts, autonomy in flight, and physics-informed machine learning. 
+My research focuses on physics-informed machine learning, eVTOL (electric vertical take-off and landing) aircraft, AAM (advanced air mobility) concepts, and autonomy and decision making. 
 
 ### Research Interests
 
-   - Guidance, Control, Flight Dynamics, Trajectory Optimization, Contingency Planning, and Performance of Aerospace Vehicles (Specific Focus: eVTOL Aircraft)
-   - Urban/Advanced Air Mobility Multi-Agent Air Traffic Optimization 
-   - Physics Informed Machine Learning       
-   - Autonomy, Decision-Making, and Nonlinear Control    
+   - Physics Informed Machine Learning
+   - Flight Dynamics, Control, Performance, Trajectory Optimization, and Contingency Planning of Aerospace Vehicles (Specific Focus: eVTOL Aircraft)
    - Multidisciplinary Design, Analysis, and Optimization (MDAO)  
+   - Autonomy and Decision-Making    
+   - Urban/Advanced Air Mobility Multi-Agent Air Traffic Optimization     
    - Reliability and System Safety 
 
 ### Education
