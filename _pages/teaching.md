@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-**Teaching Assistant (Georgia Tech) [Fall 2014 - Fall 2015]** <br/>
+**Teaching Assistant (Georgia Tech) [Fall 2014 - Fall 2015, Fall 2022]** <br/>
 Lectured lab sessions, held discussions to assist students, conducted experiments related to control engineering topics and aerospace systems, and graded lab reports. 
  
 <i>Courses:</i> 
