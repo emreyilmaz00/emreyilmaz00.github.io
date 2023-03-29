@@ -15,14 +15,15 @@ nav: true
  -Conference Session Co-Chair, <a href="https://www.aiaa.org/aviation"> _AIAA Aviation Forum_, 2020</a>. <br/>
  -President, _Turkish Student Organization at Georgia Institute of Technology_, 2018-2021, Atlanta, GA. <br/>
  -Organization Team, UAM Expo, _Georgia Institute of Technology_, 2019, Atlanta, GA. <br/>
- -Culture Chair, _Turkish Student Organization at Georgia Institute of Technology_, 2017-2018, Atlanta, GA. 
-
+ 
 
 
 
 
 
 <!---
+-Culture Chair, _Turkish Student Organization at Georgia Institute of Technology_, 2017-2018, Atlanta, GA. 
+
 
 **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
