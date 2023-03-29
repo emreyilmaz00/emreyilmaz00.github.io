@@ -42,7 +42,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
 
 **A Deep Learning Approach to an Airfoil Inverse Desing Problem**
 
- - Airfoil inverse problem is reformulated and solved using a framework constructed with deep convolutional neural networks.
+ - Airfoil inverse problem was reformulated and solved using a framework constructed with deep convolutional neural networks.
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2018-3420">AIAA Aviation'18</a>.
    
 <div class="row justify-content-sm-center">
@@ -60,7 +60,7 @@ In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of
 
 **Conditional Generative Adversarial Network Framework for Airfoil Inverse Design**
 
- - A game theoretic framework is considered by training conditional generative adversarial networks (CGAN) to generate airfoil shapes given the desired airfoil performance criteria. 
+ - A game theoretic framework was investigated by training conditional generative adversarial networks (CGANs) to generate airfoil shapes given the desired airfoil performance criteria. 
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a>.
  - **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
