@@ -22,7 +22,8 @@ Specifically, I focus on the following subjects:
   - Transition Corridors and Tilting Schedule Considerations
   - Multi-Disciplinary Analysis and Optimization Frameworks 
 
-**Flight Dynamic Modeling of Over-Actuated Tandem Tilt-Wing Distributed Propulsion eVTOL Aircraft**
+**Flight Dynamics Modeling of Over-Actuated Tandem Tilt-Wing Distributed Propulsion eVTOL Aircraft**
+The flight dynamics model of an over-actuated tandem tilt-wing distributed propulsion eVTOL aircraft was created using surrogate modeling. VSPAERO's unsteady Vortex Lattice Method based flow solver was used to generate data. Computational experiments were conducted according to a design of experiments (DoE) approach.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,13 +41,18 @@ Specifically, I focus on the following subjects:
 <div class="caption"> VSPAERO Trailing Vortex Solution for the Airframe with Propellers at Forward Flight Condition
 </div>
 
-Analysis for Forward Flight:
 <!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId %}
+</div>
+<div class="caption"> VSPAERO Trailing Vortex Solution at Forward Flight Condition
+</div>
 
-Analysis for Hover:
 <!-- https://drive.google.com/file/d/1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId2 %}
+</div>
+<div class="caption"> VSPAERO Trailing Vortex Solution at Hover Condition
+</div>
+
 
 **Control Allocation Optimization of Over-Actuated eVTOL Aircraft**
  
