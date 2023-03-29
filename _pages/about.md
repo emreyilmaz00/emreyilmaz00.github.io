@@ -26,7 +26,7 @@ My research focuses on physics-informed machine learning, eVTOL (electric vertic
    - Multidisciplinary Design, Analysis, and Optimization (MDAO)  
    - Autonomy and Decision-Making    
    - Urban/Advanced Air Mobility Multi-Agent Air Traffic Optimization     
-   - Reliability and System Safety 
+   - Reliability Engineering and System Safety 
 
 ### Education
 
