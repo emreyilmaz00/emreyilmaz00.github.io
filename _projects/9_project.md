@@ -7,8 +7,8 @@ importance: 1
 category: Bachelor of Science (ODTU/METU)
 ---
 
-Participated in radio-controlled UAV design and building projects for the student competitions, AIAA Design Build and Fly, and EUROAVIA Air Cargo Challenge. 
-
+ -Participated in radio-controlled UAV design and building projects for the student competitions, AIAA's Design Build and Fly, and EUROAVIA's Air Cargo Challenge. 
+ 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
