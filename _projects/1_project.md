@@ -43,13 +43,11 @@ The flight dynamics model of an over-actuated tandem tilt-wing distributed propu
 
 <!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId %}
-</div>
 <div class="caption"> VSPAERO Trailing Vortex Solution at Forward Flight Condition
 </div>
 
 <!-- https://drive.google.com/file/d/1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId2 %}
-</div>
 <div class="caption"> VSPAERO Trailing Vortex Solution at Hover Condition
 </div>
 
