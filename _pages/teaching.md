@@ -12,8 +12,8 @@ Lectured lab sessions, held discussions to assist students, conducted experiment
 <i>Courses:</i> 
 
   - Control System Design Lab <a href="https://sankar.gatech.edu/UG.Courses/AE4525.pdf">[AE 4525]</a> (Fall'14 and Spring'15) 
-  - Dynamics <a href="https://ae.gatech.edu/sites/default/files/images/syll-ae2220.pdf">[AE 2220]</a> (Fall'15)
-  - Rotorcraft Design <a href="https://ae.gatech.edu/sites/default/files/images/syll-ae4343.pdf">[AE 4343]</a> (Fall'22)  
+  - Dynamics <a href="https://ae.gatech.edu/sites/default/files/file/2022/12/AE%202220%20Syllabus-Dynamics.pdf">[AE 2220]</a> (Fall'15)
+  - Rotorcraft Design <a href="https://ae.gatech.edu/sites/default/files/file/2022/12/AE%204343%20Syllabus-Rotocraft%20Design.pdf">[AE 4343]</a> (Fall'22)  
 
 **Teaching Assistant (ODTU/METU) [Fall 2011 - Spring 2014]** <br/>
 
