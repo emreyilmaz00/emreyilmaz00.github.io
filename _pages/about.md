@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research focuses on physics-informed machine learning, eVTOL (electric vertical take-off and landing) aircraft, AAM (advanced air mobility) concepts, and autonomy and decision making. 
+My research focuses on physics-based machine learning, eVTOL (electric vertical take-off and landing) aircraft, AAM (advanced air mobility) concepts, and autonomy and decision making. 
 
 ### Research Interests
 
@@ -30,7 +30,7 @@ My research focuses on physics-informed machine learning, eVTOL (electric vertic
 
 ### Education
 
-   - **Ph.D.**, Aerospace Engineering, _Georgia Institute of Technology_, 2023 (expected)
+   - **Ph.D.**, Aerospace Engineering, _Georgia Institute of Technology_, 2023 
       - Dissertation Title: ``_Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tilt-Wing eVTOL Aircraft_''
       - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
@@ -41,7 +41,8 @@ My research focuses on physics-informed machine learning, eVTOL (electric vertic
    - **B.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2011
 
 ### Experience
-   - Graduate Research Assistant, _Georgia Institute of Technology_, Jan 2016 – Present     
+   - Researcher, _DLR_, Oct 2023 – Present     
+   - Graduate Research Assistant, _Georgia Institute of Technology_, Jan 2016 – Aug 2023     
    - Graduate Teaching Assistant, _Georgia Institute of Technology_, Aug 2014 – Dec 2015
    - Graduate Research and Teaching Assistant, _Middle East Technical University_, Oct 2011 – July 2014
    - Intern, _Middle East Technical University_, Summer 2010
