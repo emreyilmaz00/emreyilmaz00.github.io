@@ -32,7 +32,7 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
       - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
    - **M.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, 2014
-      - Thesis Title: <a href="https://etd.lib.metu.edu.tr/upload/12617486/index.pdf">``_Adaptive Robust Attitude Controller Design for a Quadrotor Platform_''</a>  
+      - Thesis Title: <a href="https://etd.lib.metu.edu.tr/upload/12617486/index.pdf">``_Adaptive Robust Attitude Controller Design for a Quadrotor_''</a>  
       - Advisor: <a href="https://avesis.metu.edu.tr/kutay">Ali T. Kutay</a>  
 
    - **B.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, 2011
