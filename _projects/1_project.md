@@ -63,7 +63,9 @@ The flight dynamics model of an over-actuated tandem tilt-wing distributed propu
 </div
 <div class="caption"
 </div
- 
+ -->
+
+  <!--
 **Hybrid Automata Based Planning**
  
 <div class="row"
@@ -73,8 +75,9 @@ The flight dynamics model of an over-actuated tandem tilt-wing distributed propu
 </div
 <div class="caption"
 </div
+ -->
 
-
+ <!--
 **Contingency Planning**
 
 <div class="row"
@@ -84,5 +87,4 @@ The flight dynamics model of an over-actuated tandem tilt-wing distributed propu
 </div
 <div class="caption"
 </div
- 
 --->
