@@ -53,7 +53,6 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 
 <!---
 Previously:
-
 My research focuses on physics-based machine learning, eVTOL (electric vertical take-off and landing) aircraft, AAM (advanced air mobility) concepts, and autonomy and decision making.
 
 Research Interests
