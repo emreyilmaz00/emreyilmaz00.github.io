@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Researcher</a>, Institute of Aerodynamics and Flow Technology, DLR, Germany.
+subtitle: <a href='#'>Researcher</a>, Institute of Aerodynamics and Flow Technology, DLR
 
 profile:
   align: right
@@ -41,7 +41,7 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
    - Researcher, _DLR_, Oct 2023 – Present     
    - Graduate Research Assistant, <a href="https://www.gatech.edu/"><u _Georgia Institute of Technology_></a>, Jan 2016 – Aug 2023     
    - Graduate Teaching Assistant, <a href="https://www.gatech.edu/"><u _Georgia Institute of Technology_></a>, Aug 2014 – Dec 2015
-   - Graduate Research and Teaching Assistant, <a href="https://www.metu.edu.tr/">_Middle East Technical University_</a>, Oct 2011 – July 2014
+   - Graduate Research and Teaching Assistant, <a href="https://www.metu.edu.tr/"><u _Middle East Technical University_ ></a>, Oct 2011 – July 2014
    - Intern, <a href="https://www.metu.edu.tr/">_Middle East Technical University_</a>, Summer 2010
    - Intern, _Turkish Aerospace Inc._, Summer 2009
 
