@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Ph.D. Candidate</a>. Georgia Institute of Technology, Atlanta, USA.
+subtitle: <a href='#'>Researcher</a>. DLR, Germany.
 
 profile:
   align: right
   image: ey3.png
   address: >
-    <p>Aerospace Engineering</p>
-    <p>Georgia Institute of Technology</p>
-    <p>Atlanta, GA 30332</p>
+    <p>Institute of Aerodynamics and Flow Technology</p>
+    <p>Deutsches Zentrum für Luft- und Raumfahrt </p>
+    <p>(DLR) Germany</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
