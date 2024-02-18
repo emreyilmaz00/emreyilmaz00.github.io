@@ -10,7 +10,7 @@ driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
 
 **AAM/UAM Air Traffic Optimization Using Model Predictive Control (MPC) and Constraint Aggregation**
 
-We solved high-capacity urban air traffic optimization problems using model predictive control (receding horizon) with constraint aggregation techniques. In a multi-agent environment, agent trajectories were optimized based on origin-destination pairs. The following optimization paradigms were investigated: 
+We solved high-capacity urban air traffic optimization problems using model predictive control with constraint aggregation techniques. In a multi-agent environment, agent trajectories were optimized based on origin-destination pairs for the following optimization paradigms: 
   - Centralized optimization at each time step 
   - Sequential optimization at each time step
   - Sequential optimization for the entire flight trajectory
@@ -22,8 +22,6 @@ We solved high-capacity urban air traffic optimization problems using model pred
 <div class="caption">
     The multi-agent path planning problem is being solved at each time instant using centralized MPC framework)  
 </div> 
-
-An interior-point method based optimizer library was used to solve the non-linear constrained MPC optimization problems. Specifically, a large-scale linear system was repeatedly solved via a sparse symmetric indefinite linear solver. DoMPC, CasADi, IPOPT, and sparse linear solvers were used. A journal paper is in preparation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,9 +41,9 @@ An interior-point method based optimizer library was used to solve the non-linea
  
 **Deep Reinforcement Learning Approach to Air Traffic Optimization Using the MuZero Algorithm**  
 
-  Inspired by the success of DeepMind’s deep reinforcement learning algorithm, <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules">MuZero</a>, in mastering games without any knowledge about the rules and the environment, we investigated the feasibility of using MuZero for advanced air mobility research by casting the dynamic obstacle avoidance problem as a game. Our goal was to determine optimal policies for agents in dynamic air traffic environment based on state-action pairs and reward-based optimization of MuZero’s networks that learn the value, the policy, and the reward. For this purpose, the sequential path planning optimization was implemented at each time step.
+  Inspired by the success of DeepMind’s deep reinforcement learning algorithm, <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules">MuZero</a>, in mastering games without any knowledge about the rules and the environment, we investigated the feasibility of using MuZero for AAM research by casting the dynamic obstacle avoidance problem as a game.
  
- - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2377">AIAA AVIATION'21</a>.
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2377">AIAA AVIATION'21</a>
   
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -66,11 +64,14 @@ In this project led by Kotwicz Herniczek, corridor design problem were formulate
      
  **Optimal Control Approach to Air Traffic Optimization Using SQP Solvers and Pseudospectral Methods**  
 
-Pseudospectral methods and colored derivatives were explored with the objective of obtaining minimum time multi agent paths. OpenMDAO, Dymos, and SNOPT libraries were used.
+Pseudospectral methods were explored to achieve minimum time multi agent paths using OpenMDAO, Dymos, and SNOPT libraries.
  
   Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
    
-<!--- Corridors were allowed for cardinal directions (N, S, W, E, climb, and descent) to limit the structural design. Air traffic metrics were investigated and utilized.**Introduction**
+<!--- An interior-point method based optimizer library was used to solve the non-linear constrained MPC optimization problems. Specifically, a large-scale linear system was repeatedly solved via a sparse symmetric indefinite linear solver. DoMPC, CasADi, IPOPT, and sparse linear solvers were used. A journal paper is in preparation.
+Corridors were allowed for cardinal directions (N, S, W, E, climb, and descent) to limit the structural design. Air traffic metrics were investigated and utilized.**Introduction**
+
+ Our goal was to determine optimal policies for agents in dynamic air traffic environment based on state-action pairs and reward-based optimization of MuZero’s networks that learn the value, the policy, and the reward. For this purpose, the sequential path planning optimization was implemented at each time step.
 
 AAM (Advanced Air Mobility) and UAM (Urban Air Mobility) research activities include multi-agent path planning, dynamic obstacle avoidance, and several air traffic optimization paradigms such as centralized and sequential optimization. Problems were formulated using model predictive control (MPC), deep reinforcement learning, optimal control via pseudospectral methods, and mixed integer linear programming. <!--- Constraint aggregation is also investigated and utilized for this purpose. --->
 --->
