@@ -2,13 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Researcher</a>, DLR, Germany.
+subtitle: <a href='#'>Researcher</a>, Institute of Aerodynamics and Flow Technology, DLR, Germany.
 
 profile:
   align: right
   image: ey3.png
   address: >
-    <p>Institute of Aerodynamics and Flow Technology</p>
     <p>Deutsches Zentrum für Luft- und Raumfahrt </p>
     <p>(DLR) Germany</p>
 
@@ -21,7 +20,7 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 
 ### Interests
 
-   - Data-Driven Aerodynamic Modeling and Physics Informed Machine Learning
+   - Data-Driven Aerodynamic Modeling and PINNs
    - Flight Dynamics and Control
    - Multidisciplinary Design, Analysis, and Optimization (MDAO)    
    - Reliability Engineering and System Safety
