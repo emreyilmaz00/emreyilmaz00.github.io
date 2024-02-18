@@ -27,7 +27,7 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 
 ### Education
 
-   - **Ph.D.**, <a href="https://ae.gatech.edu/">Aerospace Engineering</a>, <a href="https://www.gatech.edu/">_Georgia Institute of Technology_</a>, 2023 
+   - **Ph.D.**, <a href="https://ae.gatech.edu/">Aerospace Engineering</a>, <a href="https://www.gatech.edu/"><u _Georgia Institute of Technology_></a>, 2023 
       - Dissertation Title: ``_Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tilt-Wing eVTOL Aircraft_''
       - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
@@ -39,10 +39,10 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 
 ### Experience
    - Researcher, _DLR_, Oct 2023 – Present     
-   - Graduate Research Assistant, _Georgia Institute of Technology_, Jan 2016 – Aug 2023     
-   - Graduate Teaching Assistant, _Georgia Institute of Technology_, Aug 2014 – Dec 2015
-   - Graduate Research and Teaching Assistant, _Middle East Technical University_, Oct 2011 – July 2014
-   - Intern, _Middle East Technical University_, Summer 2010
+   - Graduate Research Assistant, <a href="https://www.gatech.edu/"><u _Georgia Institute of Technology_></a>, Jan 2016 – Aug 2023     
+   - Graduate Teaching Assistant, <a href="https://www.gatech.edu/"><u _Georgia Institute of Technology_></a>, Aug 2014 – Dec 2015
+   - Graduate Research and Teaching Assistant, <a href="https://www.metu.edu.tr/">_Middle East Technical University_</a>, Oct 2011 – July 2014
+   - Intern, <a href="https://www.metu.edu.tr/">_Middle East Technical University_</a>, Summer 2010
    - Intern, _Turkish Aerospace Inc._, Summer 2009
 
 ### CV
