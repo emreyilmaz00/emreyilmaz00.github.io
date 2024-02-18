@@ -27,21 +27,21 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 
 ### Education
 
-   - **Ph.D.**, <a href="https://ae.gatech.edu/">Aerospace Engineering</a>, <a href="https://www.gatech.edu/"><u _Georgia Institute of Technology_ </u></a>, 2023 
+   - **Ph.D.**, <a href="https://ae.gatech.edu/">Aerospace Engineering</a>, <a href="https://www.gatech.edu/"><u> _Georgia Institute of Technology_ </u></a>, 2023 
       - Dissertation Title: ``_Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tilt-Wing eVTOL Aircraft_''
       - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
-   - **M.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/"><u _Middle East Technical University_ </u></a>, 2014
+   - **M.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/"><u> _Middle East Technical University_ </u></a>, 2014
       - Thesis Title: <a href="https://etd.lib.metu.edu.tr/upload/12617486/index.pdf">``_Adaptive Robust Attitude Controller Design for a Quadrotor Platform_''</a>  
       - Advisor: <a href="https://avesis.metu.edu.tr/kutay">Ali T. Kutay</a>  
 
-   - **B.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/"><u _Middle East Technical University_ </u></a>, 2011
+   - **B.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/"><u> _Middle East Technical University_ </u></a>, 2011
 
 ### Experience
    - Researcher, _DLR_, Oct 2023 – Present     
-   - Graduate Research Assistant, <a href="https://www.gatech.edu/"><u _Georgia Institute of Technology_ </u></a>, Jan 2016 – Aug 2023     
-   - Graduate Teaching Assistant, <a href="https://www.gatech.edu/"><u _Georgia Institute of Technology_ </u></a>, Aug 2014 – Dec 2015
-   - Graduate Research and Teaching Assistant, <a href="https://www.metu.edu.tr/"><u _Middle East Technical University_ </u></a>, Oct 2011 – July 2014
+   - Graduate Research Assistant, <a href="https://www.gatech.edu/"><u> _Georgia Institute of Technology_ </u></a>, Jan 2016 – Aug 2023     
+   - Graduate Teaching Assistant, <a href="https://www.gatech.edu/"><u> _Georgia Institute of Technology_ </u></a>, Aug 2014 – Dec 2015
+   - Graduate Research and Teaching Assistant, <a href="https://www.metu.edu.tr/"><u> _Middle East Technical University_ </u></a>, Oct 2011 – July 2014
    - Intern, <a href="https://www.metu.edu.tr/">_Middle East Technical University_</a>, Summer 2010
    - Intern, _Turkish Aerospace Inc._, Summer 2009
 
