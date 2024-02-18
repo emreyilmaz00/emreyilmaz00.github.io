@@ -64,13 +64,11 @@ category: Ph.D. (Georgia Tech)
 
 
 <!---
-
 **Introduction**
 In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of its gilded cage, and find ways to help conceive new designs, not just search the design space defined by the user._". Inspired by this vision, we proposed using deep learning methods as a new possible direction to overcome fundamental limitations of multi-disciplinary design and optimization (MDO) parametrization.  [**Simpson** _et al._] 
 "col-sm-5 mt-3 mt-md-0"
-        {% include figure.html path="assets/img/gilded3.png" title="A New Research Direction for MDO" class="img-fluid rounded z-depth-1" %}
+assets/img/gilded3.png" title="A New Research Direction for MDO" 
 "col-sm-7 mt-3 mt-md-0"
-        {% include figure.html path="assets/img/hlmotiv.png" title="High Level Motivations" class="img-fluid rounded z-depth-1" %}
-   Deep Learning as a direction for MDO and High Level Motivations 
-
+"assets/img/hlmotiv.png" title="High Level Motivations"
+Deep Learning as a direction for MDO and High Level Motivations 
 --->
