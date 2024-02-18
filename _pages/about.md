@@ -28,7 +28,7 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 ### Education
 
    - **Ph.D.**, <a href="https://ae.gatech.edu/">Aerospace Engineering</a>, <a href="https://www.gatech.edu/"><u> Georgia Institute of Technology </u></a>, 2023 
-      - Dissertation Title: ``_Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tilt-Wing eVTOL Aircraft_''
+      - Dissertation Title: ``_Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft_''
       - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
    - **M.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, 2014
