@@ -7,27 +7,14 @@ importance: 3
 category: Ph.D. (Georgia Tech)
 ---
  
- <!---UAM Landing Surface Design with Considerations about Energy, Power, and Constraints including Vortex Ring States, Dead Man's Diagram, Acceleration and Obstacle Limits, Influence of Turbulence to Landing Accuracy, Circular Error Probables  --->
- 
- To investigate UAM landing approach operations, the following research activities were conducted:
+ <!---UAM Landing Surface Design with Considerations about Energy, Power, and Constraints including Vortex Ring States, Dead Man's Diagram, Acceleration and Obstacle Limits, Influence of Turbulence to Landing Accuracy, Circular Error Probables To investigate UAM landing approach operations, the following research activities were conducted:  class="col-sm mt-2 mt-md-0" "assets/img/land1.jpg" title="example image" 
+class="col-sm mt-2 mt-md-0" "assets/img/land2.jpg" title="example image" 
+Motivation and High Level Objectives --->
  
  - Landing approach surfaces design and performance analysis in terms of energy, power, and time 
  - Constraint analysis considering inflow modeling, vortex ring state (VRS), acceleration limits, h-V (dead man's) diagram, speed limits, obstacles, and FAA regulations
  - Landing simulations under turbulence using retrofitted tilt-wing flight dynamic models and landing accuracy analysis via circular error probables
- 
-<div class="row">
-    <div class="col-sm mt-2 mt-md-0">
-        {% include figure.html path="assets/img/land1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-2 mt-md-0">
-        {% include figure.html path="assets/img/land2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div> 
-</div>
-<div class="caption">
-    Motivation and High Level Objectives
-</div>
-
-
+  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/land8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
