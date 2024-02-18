@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Researcher</a>. DLR, Germany.
+subtitle: <a href='#'>Researcher</a>, DLR, Germany.
 
 profile:
   align: right
@@ -28,15 +28,15 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 
 ### Education
 
-   - **Ph.D.**, Aerospace Engineering, _Georgia Institute of Technology_, 2023 
+   - **Ph.D.**, <a href="https://ae.gatech.edu/">Aerospace Engineering</a>, <a href="https://www.gatech.edu/">_Georgia Institute of Technology_</a>, 2023 
       - Dissertation Title: ``_Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tilt-Wing eVTOL Aircraft_''
       - Advisor: <a href="https://bgerman.ae.gatech.edu/">Brian J. German</a>  
 
-   - **M.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2014
+   - **M.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/">_Middle East Technical University_</a>, 2014
       - Thesis Title: <a href="https://etd.lib.metu.edu.tr/upload/12617486/index.pdf">``_Adaptive Robust Attitude Controller Design for a Quadrotor Platform_''</a>  
       - Advisor: <a href="https://avesis.metu.edu.tr/kutay">Ali T. Kutay</a>  
 
-   - **B.Sc.**, Aerospace Engineering, _Middle East Technical University_, 2011
+   - **B.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/">_Middle East Technical University_</a>, 2011
 
 ### Experience
    - Researcher, _DLR_, Oct 2023 – Present     
