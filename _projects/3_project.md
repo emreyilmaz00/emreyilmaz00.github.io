@@ -8,10 +8,6 @@ category: Ph.D. (Georgia Tech)
 driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
 ---
 
-**Introduction**
-
-AAM (Advanced Air Mobility) and UAM (Urban Air Mobility) research activities include multi-agent path planning, dynamic obstacle avoidance, and several air traffic optimization paradigms such as centralized and sequential optimization. Problems were formulated using model predictive control (MPC), deep reinforcement learning, optimal control via pseudospectral methods, and mixed integer linear programming. <!--- Constraint aggregation is also investigated and utilized for this purpose. --->
-
 **AAM/UAM Air Traffic Optimization Using Model Predictive Control (MPC) and Constraint Aggregation**
 
 We solved high-capacity urban air traffic optimization problems using model predictive control (receding horizon) with constraint aggregation techniques. In a multi-agent environment, agent trajectories were optimized based on origin-destination pairs. The following optimization paradigms were investigated: 
@@ -63,19 +59,18 @@ An interior-point method based optimizer library was used to solve the non-linea
 
 **Highways in the Sky for Urban Air Mobility Operations Summary**
 
-In this project led by Kotwicz Herniczek, we formulated corridor design problem as a minimum cost multi-commodity flow problem. The goal is to generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size. We solved the linear programming (LP) and mixed integer linear programming (MILP) problems using Gurobi. Corridors were allowed for cardinal directions (N, S, W, E, climb, and descent) to limit the structural design. Air traffic metrics were investigated and utilized.
+In this project led by Kotwicz Herniczek, corridor design problem were formulated as a minimum cost multi-commodity flow problem. The goal is to generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size using linear programming (LP) and mixed integer linear programming (MILP) problems and Gurobi. 
     
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2376">[AIAA'21b]</a>
- - Published a journal paper: <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a> 
-
+ - Published a journal paper: <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a>
      
  **Optimal Control Approach to Air Traffic Optimization Using SQP Solvers and Pseudospectral Methods**  
 
 Pseudospectral methods and colored derivatives were explored with the objective of obtaining minimum time multi agent paths. OpenMDAO, Dymos, and SNOPT libraries were used.
  
   Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
-
-  
-  
-  
    
+<!--- Corridors were allowed for cardinal directions (N, S, W, E, climb, and descent) to limit the structural design. Air traffic metrics were investigated and utilized.**Introduction**
+
+AAM (Advanced Air Mobility) and UAM (Urban Air Mobility) research activities include multi-agent path planning, dynamic obstacle avoidance, and several air traffic optimization paradigms such as centralized and sequential optimization. Problems were formulated using model predictive control (MPC), deep reinforcement learning, optimal control via pseudospectral methods, and mixed integer linear programming. <!--- Constraint aggregation is also investigated and utilized for this purpose. --->
+--->
