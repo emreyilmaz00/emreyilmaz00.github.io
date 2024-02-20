@@ -92,19 +92,8 @@ Brian German is the National Institute of Aerospace (NIA) Langley Associate Prof
 
 He specializes in configuration design of electric aircraft, aerodynamics of distributed propulsion, battery and hybrid electric propulsion modeling, operations research problems for innovative scheduled and on-demand air services, and aircraft operational economics modeling. His work focuses primarily on new types of electric regional aircraft and eVTOL aircraft for urban air mobility. 
 
-Prof. German is a founding member and former Chair (2014-2016) of the AIAA Transformational Flight Program Committee, which was chartered to explore the opportunities of emerging aircraft electric propulsion and autonomy technologies, and he is a member of the AIAA Aircraft Electric Propulsion and Power Working Group. Prof. German is a former Fulbright student scholar and NDSEG Graduate Research Fellow, and he received the NSF CAREER award in 2012. He is an Associate Fellow of AIAA Education. --->
+Prof. German is a founding member and former Chair (2014-2016) of the AIAA Transformational Flight Program Committee, which was chartered to explore the opportunities of emerging aircraft electric propulsion and autonomy technologies, and he is a member of the AIAA Aircraft Electric Propulsion and Power Working Group. Prof. German is a former Fulbright student scholar and NDSEG Graduate Research Fellow, and he received the NSF CAREER award in 2012. He is an Associate Fellow of AIAA Education. 
 
-<!---I am a Graduate Research Assistant Postdoctoral Fellow working in the School of Cybersecurity and Privacy at Georgia Tech under the supervision of Prof. Wenke Lee. Before joining Georgia Tech, I worked in Center for Cyber Security at New York University Abu Dhabi as a Research Engineer for two years. I currently hold a Ph.D. degree in Computer Science from Georgia Tech, an M.Sc. degree in Computer Engineering and two B.Sc. degrees in both Computer Engineering and Electrical & Electronics Engineering from TOBB University, Turkey. My research interests span a broad range of topics including deep learning, applied cryptography, security/privacy and forensics.
-
-e^{i pi} + 1 = 0 --->
-
-
-
-
-<!---LinkedIn Research Gate Resume 
-
-
-
-<a href="https://scholar.google.com/citations?hl=en&user=1Ie3QuMAAAAJ">Google Scholar</a>   --->
+e^{i pi} + 1 = 0   --->
 
 
