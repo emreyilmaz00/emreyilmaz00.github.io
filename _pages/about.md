@@ -7,7 +7,7 @@ subtitle: <a href='#'>Researcher</a>, Institute of Aerodynamics and Flow Technol
 profile:
   align: right
   image: ey3.png
-  image_cicular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Deutsches Zentrum für Luft- und Raumfahrt </p>
     <p>(DLR) Germany</p>
