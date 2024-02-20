@@ -62,26 +62,6 @@ Autonomy and Decision-Making
 Urban/Advanced Air Mobility Multi-Agent Air Traffic Optimization
 Reliability Engineering and System Safety
 
-Adam Optimization Guys Template:
-address a computational question: How can we build general problem-solving machines with human-like efficiency and adaptability? In particular, my research interests focus on the development of efficient learning algorithms for deep neural networks. My research interests overlap with the following research communities: NeurIPS, ICLR, and ICML. I am also broadly interested in reinforcement learning, natural language processing, and artificial intelligence.
-
-For future students interested in learning algorithms and theory: Please apply through the department admission.
-
-Short bio: I completed PhD under the supervision of Geoffrey Hinton. Both my master's (2014) and undergrad degrees (2011) are from the University of Toronto under Brendan Frey and Ruslan Salakhutdinov. I am a CIFAR AI chair. I was a recipient of the Facebook Graduate Fellowship 2016 in machine learning.
-
---Google scholar page contact me: jba at cs.toronto.edu
-
-Brief Bio
-I do research on scalable methods for machine learning, with a focus on generative models. My contributions include the Variational Autoencoder (VAE), the Adam optimizer, Glow, and Variational Diffusion Models, but please see Scholar for a more complete list. I obtained a PhD (cum laude) from University of Amsterdam in 2017, and was part of the founding team of OpenAI in 2015. Before that, I co-founded Advanza which got acquired in 2016. My formal name is Diederik, but have the Frysian nickname Durk (pronounced like Dirk). I currently live in the San Francisco Bay area.
-
-2018 - Present: Research Scientist at Google Brain / DeepMind. I work on SOTA generative models for text, image and video.
-2015 - 2018: Part of founding team and Research Scientist at OpenAI (San Francisco). Lead of the Algorithms team, focused on basic research.
-2013 - 2017: Ph.D. (cum laude) at University of Amsterdam, advised by Max Welling, on the topic of deep learning and generative models. Thesis: Variational Inference and Deep Learning: A New Synthesis. Spent summers of 2014/2015 at DeepMind for collaborations.
-2010 - 2012: Co-founder and technical lead at Advanza, successful exit in 2016.
-2009 and 2012: Jr. Research Scientist at New York University, Yann LeCun's lab.
-Variational Inference and Deep Learning: A New Synthesis
-Ph.D. Thesis. Download at Dropbox or at UvA.
-
 Demos
 Some research demos that I (co-)developed:
 2017: Generating faces with Glow. Developed with Prafulla Dhariwal.
@@ -100,9 +80,6 @@ Awards and Honors
 2019: The ELLIS PhD Award for "outstanding research achievements during the dissertation phase of outstanding students working in the field of artificial intelligence and machine learning".
 2017: PhD with 'cum laude', highest distinction in the Netherlands, and first time it was awarded at the CS department in 30 years.
 2015: Google's first European Doctoral Fellowship in Deep Learning.
-
-
-
 
 I study the implications of new technologies such as electric propulsion and autonomy on the design of aircraft and on aviation markets. 
 
