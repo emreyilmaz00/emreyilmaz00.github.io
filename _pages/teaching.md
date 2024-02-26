@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 **Teaching Assistant (Georgia Tech) [Fall 2014 - Fall 2015, Fall 2022]** <br/> 
