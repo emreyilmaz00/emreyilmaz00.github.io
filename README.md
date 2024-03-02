@@ -311,6 +311,14 @@ $ bundle exec jekyll build --lsi
 which will (re-)generate the static webpage in the `_site/` folder.
 Then simply copy the contents of the `_site/` directory to your hosting server.
 
+If you also want to remove unused css classes from your file, run:
+
+```bash
+$ purgecss -c purgecss.config.js
+```
+
+which will replace the css files in the `_site/assets/css/` folder with the purged css files.
+
 **Note:** Make sure to correctly set the `url` and `baseurl` fields in `_config.yml` before building the webpage. If you are deploying your webpage to `your-domain.com/your-project/`, you must set `url: your-domain.com` and `baseurl: /your-project/`. If you are deploying directly to `your-domain.com`, leave `baseurl` blank.
 
 </details>
