@@ -5,6 +5,7 @@ description: Control Allocation, Hybrid-Automata Based Path Planning, Contingenc
 img: assets/img/evtol0.png
 importance: 1
 category: Ph.D. (Georgia Tech)
+related_publications:
 driveId: 1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/preview
 driveId2: 1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/preview
 
