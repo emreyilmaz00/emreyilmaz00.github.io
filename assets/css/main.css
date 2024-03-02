@@ -772,12 +772,48 @@ progress::-moz-progress-bar {
   font-size: medium;
   opacity: 0;
   position: absolute;
-  right: 0.15rem;
-  top: 0.15rem;
+  right: 0.5rem;
+  top: 0.5rem;
 }
 .code-display-wrapper:active .copy, .code-display-wrapper:focus .copy, .code-display-wrapper:hover .copy {
   color: var(--global-hover-color);
   opacity: 1;
+}
+
+.btn-group.dropdown .btn {
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+.btn-group.dropdown .btn-secondary.dropdown-toggle {
+  border: 1px solid var(--global-divider-color);
+}
+.btn-group.dropdown .btn-secondary.dropdown-toggle .page-size {
+  color: inherit;
+}
+.btn-group.dropdown .btn-secondary.dropdown-toggle:not(.active) {
+  background-color: var(--global-bg-color) !important;
+  color: var(--global-text-color);
+}
+.btn-group.dropdown .btn-secondary.dropdown-toggle:hover {
+  background-color: var(--global-hover-color) !important;
+  color: var(--global-hover-text-color) !important;
+}
+.btn-group.dropdown .dropdown-menu {
+  background-color: var(--global-bg-color);
+}
+.btn-group.dropdown .dropdown-item {
+  background-color: var(--global-bg-color);
+  color: var(--global-text-color);
+}
+.btn-group.dropdown .dropdown-item:hover {
+  color: var(--global-hover-color);
+}
+.btn-group.dropdown .dropdown-item.active, .btn-group.dropdown .dropdown-item:active {
+  background-color: var(--global-hover-color);
+  color: var(--global-hover-text-color) !important;
+}
+.btn-group.dropdown .dropdown-item.active:hover, .btn-group.dropdown .dropdown-item:active:hover {
+  color: var(--global-hover-text-color);
 }
 
 nav[data-toggle=toc] {
