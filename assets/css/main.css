@@ -598,11 +598,14 @@ footer.sticky-bottom {
   color: var(--global-theme-color);
   border-color: var(--global-theme-color);
 }
+.publications ol.bibliography li .badges {
+  padding-bottom: 0.5rem;
+}
 .publications ol.bibliography li .badges span {
   display: inline-block;
   color: #000000;
   height: 100%;
-  padding-left: 0.5rem;
+  padding-right: 0.5rem;
   vertical-align: middle;
 }
 .publications ol.bibliography li .badges span:hover {
