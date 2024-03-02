@@ -44,7 +44,7 @@ $(document).ready(function() {
         $(this).contents().find("body").attr({
           "data-jp-theme-light": "false",
           "data-jp-theme-name": "JupyterLab Dark"});
-      });
-        });
+     });
     }
+  });
 });
