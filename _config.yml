@@ -227,6 +227,7 @@ plugins:
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
+  - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
@@ -236,7 +237,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-toc
   - jekyll-twitter-plugin
-  - jekyll-get-json
   - jemoji
 
 # Sitemap settings
