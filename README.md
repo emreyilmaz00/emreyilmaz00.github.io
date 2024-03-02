@@ -95,6 +95,8 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://varuniyer.info/" target="_blank">★</a>
 <a href="https://yukimasano.github.io/" target="_blank">★</a>
 <a href="https://hashe037.github.io/" target="_blank">★</a>
+<a href="https://wang-boyu.github.io/" target="_blank">★</a>
+<a href="https://bajinsheng.github.io/" target="_blank">★</a>
 </td>
 </tr>
 <tr>
