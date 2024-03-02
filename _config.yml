@@ -169,7 +169,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  announcements:
     defaults:
       layout: post
     output: true
