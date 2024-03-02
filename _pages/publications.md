@@ -14,7 +14,9 @@ You can also check my publications at [Google Scholar](https://scholar.google.co
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
+
+[//]: # {% bibliography -f papers -q @*[year={{y}}]* %}
