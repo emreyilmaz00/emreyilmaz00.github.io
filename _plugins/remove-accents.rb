@@ -1,4 +1,3 @@
-@@ -0,0 +1,32 @@
 # based on https://distresssignal.org/busting-css-cache-with-jekyll-md5-hash
 # https://gist.github.com/BryanSchuetz/2ee8c115096d7dd98f294362f6a667db
 module Jekyll
