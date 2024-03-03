@@ -58,6 +58,7 @@ let setTheme = (theme) => {
         bodyElement.setAttribute("data-jp-theme-name", "JupyterLab Light");
       }
     }
+    
   } else {
     document.documentElement.removeAttribute("data-theme");
   }
