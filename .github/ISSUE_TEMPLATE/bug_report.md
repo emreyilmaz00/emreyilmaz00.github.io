@@ -1,40 +1,101 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ""
-labels: bug
-assignees: ""
----
+name: 🐛 Report a bug
+description: Any errors.
+labels: ["needs triage", "bug"]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Before you go any further. Is this really a **🐛 bug**?
 
-**Acknowledge the following**
+        If it's a question about how al-folio works, have a look at our [documentation](https://github.com/alshedivat/al-folio/blob/master/README.md),
+        [frequently asked questions](https://github.com/alshedivat/al-folio/blob/master/FAQ.md),
+        [past questions](https://github.com/alshedivat/al-folio/discussions/categories/q-a),
+        or [ask a question](https://github.com/alshedivat/al-folio/discussions/new?category=q-a).
 
-- [ ] I carefully read and followed the [Getting Started](../../README.md#getting-started) guide.
-- [ ] I read through [FAQ](../../FAQ.md) and searched through the [past issues](https://github.com/alshedivat/al-folio/issues), none of which addressed my issue.
-- [ ] The issue I am raising is a potential bug in al-folio and not just a usage question. <br> [For usage questions, please post in the [Discussions](https://github.com/alshedivat/al-folio/discussions) instead of raising an issue.]
+  - type: checkboxes
+    id: requirements
+    attributes:
+      label: Have you checked that your issue isn't already filed?
+      description: >
+        Please check if somebody else has already filed the same issue.
+        If you find a similar issue, please add a 👍 reaction or comment on the original post.
+      options:
+        - label: I read through [FAQ](https://github.com/alshedivat/al-folio/blob/master/FAQ.md) and searched through the [past issues](https://github.com/alshedivat/al-folio/issues), none of which addressed my issue.
+          required: true
+        - label: Yes, I have checked that this issue isn't already filed.
+          required: true
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+  - type: input
+    attributes:
+      label: Bug description
+      description: A description of the 🐛 bug.
+      placeholder: A clear and concise description of what the bug is.
+    validations:
+      required: true
 
-**To Reproduce**
-Steps to reproduce the behavior:
+  - type: textarea
+    attributes:
+      label: How to reproduce the bug
+      description: Provide steps to reproduce the 🐛 bug.
+      placeholder: |
+        Include steps to reproduce, the expected behaviour, and the actual behaviour.
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+  - type: textarea
+    attributes:
+      label: Error messages and logs
+      description: >
+        Provide any error messages and/or logs
+      placeholder: "Copy the complete error messages and logs"
+      value: |
+        ```
+        The error message you got, with the full traceback if available. Please paste it between these triple backticks.
+        ```
+    validations:
+      required: false
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+  - type: dropdown
+    id: os
+    attributes:
+      label: What operating system are you using?
+      description: select all OSs where you have experienced this issue
+      multiple: true
+      options:
+        - Linux
+        - Mac
+        - Windows
+        - Not applicable (e.g. you're using GitHub Pages or other hosting)
+    validations:
+      required: true
 
-**System (please complete the following information):**
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Where are you seeing the problem on?
+      description: select all environments where you have experienced this issue
+      multiple: true
+      options:
+        - "Running locally with Docker"
+        - "Running locally without Docker"
+        - "Deployed site"
+    validations:
+      required: true
 
-- OS: [e.g. iOS]
-- Browser (and its version) [e.g. chrome, safari]
-- Jekyll version [e.g. 3.8.7]
-- Ruby version [e.g. 2.6.5]
+  - type: textarea
+    attributes:
+      label: More info
+      description: Add any other info about the issue here.
+      placeholder: |
+        Add any other context about the problem here, such as versions of the libraries if running without docker, screenshots, links to the deployed site, etc.
+    validations:
+      required: false
 
-**Additional context**
-Add any other context about the problem here.
+  - type: markdown
+    attributes:
+      value: "**Happy coding!**"
