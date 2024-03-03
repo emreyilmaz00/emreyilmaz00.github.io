@@ -40,5 +40,5 @@
       "contributions": ["code"]
     },
   ]
-  "commitConvention": "angular"
+  "commitConvention": "angular",
 }
