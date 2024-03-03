@@ -11,7 +11,7 @@ You can also check my publications at [Google Scholar](https://scholar.google.co
 
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography %}
 
 </div>
 
