@@ -25,7 +25,7 @@ Specifically, I focus on the following subjects:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vsp0.png" title="Bare Airframe" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vsp0.png" title="Bare Airframe" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption"> VSPAERO Trailing Vortex Solution for the Bare Airframe at Forward Flight Condition
@@ -33,7 +33,7 @@ Specifically, I focus on the following subjects:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/vsp1.png" title="Props On" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vsp1.png" title="Props On" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption"> VSPAERO Trailing Vortex Solution for the Airframe with Propellers at Forward Flight Condition
