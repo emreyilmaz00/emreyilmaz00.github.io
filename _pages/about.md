@@ -8,7 +8,7 @@ profile:
   align: right
   image: ey3.png
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>Deutsches Zentrum für Luft- und Raumfahrt </p>
     <p>(DLR) Germany</p>
 
