@@ -67,7 +67,9 @@
         <p>{{ page.description }}</p>
       </d-title>
 
+      {%- if page.authors -%}
       <d-byline></d-byline>
+      {%- endif -%}
 
       <d-article>
         {% if page.toc -%}
