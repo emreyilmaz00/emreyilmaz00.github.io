@@ -166,6 +166,7 @@ Beyond Vision: Physics meets AI (ICIAP: <a href="https://physicsmeetsai.github.i
 
 ## Table Of Contents
 
+- [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
   - [Table Of Contents](#table-of-contents)
