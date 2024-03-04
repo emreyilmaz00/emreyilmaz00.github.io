@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Researcher</a>, <a href="[https://ae.gatech.edu/](https://www.dlr.de/as/en/desktopdefault.aspx/tabid-119/269_read-466/)">Institute of Aerodynamics and Flow Technology</a>, <a href="[https://ae.gatech.edu/](https://www.dlr.de/en/)">DLR</a>
+subtitle: <a href='#'>Researcher</a>, <a href="https://www.dlr.de/as/en/desktopdefault.aspx/tabid-119/269_read-466/">Institute of Aerodynamics and Flow Technology</a>, <a href="https://www.dlr.de/en/">DLR</a>
 profile:
   align: right
   image: ey3.png
