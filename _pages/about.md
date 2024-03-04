@@ -11,10 +11,10 @@ profile:
     <p>Deutsches Zentrum für Luft- und Raumfahrt </p>
     <p>(DLR) Germany</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 My research focuses on data-driven aerodynamic modeling and multidisciplinary optimization for safe and autonomous flight. The specific applications include eVTOL (electric vertical take-off and landing) aircraft and advanced air mobility. 
