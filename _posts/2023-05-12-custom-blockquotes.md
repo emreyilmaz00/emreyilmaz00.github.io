@@ -16,7 +16,7 @@ We decided to support the same custom blockquotes as in [jekyll-gitbook](https:/
 ```scss
 /* Tips, warnings, and dangers */
 .post .post-content blockquote {
-    &.block-tip {
+  &.block-tip {
     border-color: var(--global-tip-block);
     background-color: var(--global-tip-block-bg);
 
@@ -24,7 +24,12 @@ We decided to support the same custom blockquotes as in [jekyll-gitbook](https:/
       color: var(--global-tip-block-text);
     }
 
-    h1, h2, h3, h4, h5, h6 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
       color: var(--global-tip-block-title);
     }
   }
@@ -76,7 +81,10 @@ A regular blockquote can be used as following:
 
 > This is a regular blockquote
 > and it can be used as usual
+
 These custom styles can be used by adding the specific class to the blockquote, as follows:
+
+<!-- prettier-ignore-start -->
 
 ```markdown
 > ##### TIP
@@ -90,7 +98,7 @@ These custom styles can be used by adding the specific class to the blockquote, 
 >
 > A tip can be used when you want to give advice
 > related to a certain content.
-> {: .block-tip }
+{: .block-tip }
 
 ```markdown
 > ##### WARNING
@@ -104,14 +112,14 @@ These custom styles can be used by adding the specific class to the blockquote, 
 >
 > This is a warning, and thus should
 > be used when you want to warn the user
-> {: .block-warning }
+{: .block-warning }
 
 ```markdown
 > ##### DANGER
 >
 > This is a danger zone, and thus should
 > be used carefully
-> {: .block-danger }
+{: .block-danger }
 ```
 
 > ##### DANGER
@@ -119,3 +127,5 @@ These custom styles can be used by adding the specific class to the blockquote, 
 > This is a danger zone, and thus should
 > be used carefully
 {: .block-danger }
+
+<!-- prettier-ignore-end -->
