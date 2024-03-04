@@ -22,7 +22,7 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 
 ### Interests
 
-   - Data-Driven Aerodynamic Modeling and PINNs
+   - Data-Driven Aerodynamic Modeling and Deep Learning Applications
    - Flight Dynamics and Control
    - Multidisciplinary Design, Analysis, and Optimization (MDAO)    
    - Reliability Engineering and System Safety
@@ -48,53 +48,3 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 
 ### CV
   <a href="/assets/pdf/EmreYilmaz_CV-2.pdf" >[Link]</a>
-
-
-
-<!---
-Previously:
-My research focuses on physics-based machine learning, eVTOL (electric vertical take-off and landing) aircraft, AAM (advanced air mobility) concepts, and autonomy and decision making.
-
-Research Interests
-Physics Informed Machine Learning and Physics Informed Neural Networks
-Flight Dynamics, Control, Performance, Trajectory Optimization, and Contingency Planning of Aerospace Vehicles (Specific Focus: eVTOL Aircraft)
-Multidisciplinary Design, Analysis, and Optimization (MDAO)
-Autonomy and Decision-Making
-Urban/Advanced Air Mobility Multi-Agent Air Traffic Optimization
-Reliability Engineering and System Safety
-
-Demos
-Some research demos that I (co-)developed:
-2017: Generating faces with Glow. Developed with Prafulla Dhariwal.
-2014: Generating digits with a VAE.
-Links
-These places are updated more frequently than this website:
-Google Scholar page (list of my research papers)
-Twitter
-Mastodon
-YouTube channel
-LinkedIn
-Awards and Honors
-2020: The Adam optimization paper is the world's #1 most cited scientific paper of the past five years, according to Nature Index and Google Scholar.
-2020: The AI 2000 Most Influential Scholar Award "in recognition of outstanding and vibrant contributions in the field of Machine Learning 2009-2019".
-2019: The Dutch Datascience Award, from the Royal Holland Society of Sciences and Humanities, for my contributions in machine learning research.
-2019: The ELLIS PhD Award for "outstanding research achievements during the dissertation phase of outstanding students working in the field of artificial intelligence and machine learning".
-2017: PhD with 'cum laude', highest distinction in the Netherlands, and first time it was awarded at the CS department in 30 years.
-2015: Google's first European Doctoral Fellowship in Deep Learning.
-
-I study the implications of new technologies such as electric propulsion and autonomy on the design of aircraft and on aviation markets. 
-
-    Operations research and market studies for urban air mobility (UAM), on-demand mobility (ODM), and new modes of regional aviation
-    Flight performance and sizing of electric aircraft
-    Aerodynamics, performance, and design of distributed electric propulsion configurations
-    Wind tunnel and flight tests of subscale CTOL, STOL, and VTOL aircraft
-
-Brian German is the National Institute of Aerospace (NIA) Langley Associate Professor in the School of Aerospace Engineering at Georgia Tech. His research involves aircraft electric propulsion, autonomous flight, and the emerging aviation markets that these technologies enable. 
-
-He specializes in configuration design of electric aircraft, aerodynamics of distributed propulsion, battery and hybrid electric propulsion modeling, operations research problems for innovative scheduled and on-demand air services, and aircraft operational economics modeling. His work focuses primarily on new types of electric regional aircraft and eVTOL aircraft for urban air mobility. 
-
-Prof. German is a founding member and former Chair (2014-2016) of the AIAA Transformational Flight Program Committee, which was chartered to explore the opportunities of emerging aircraft electric propulsion and autonomy technologies, and he is a member of the AIAA Aircraft Electric Propulsion and Power Working Group. Prof. German is a former Fulbright student scholar and NDSEG Graduate Research Fellow, and he received the NSF CAREER award in 2012. He is an Associate Fellow of AIAA Education. 
-
-e^{i pi} + 1 = 0   --->
-
-
