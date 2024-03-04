@@ -47,7 +47,7 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
    - Intern, _Turkish Aerospace Inc._, Summer 2009
 
 ### CV
-  <a href="assets/pdf/EmreYilmaz_CV-2.pdf" >[Link]</a>
+  <a href="/assets/pdf/EmreYilmaz_CV-2.pdf" >[Link]</a>
 
 
 
