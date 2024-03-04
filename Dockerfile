@@ -32,8 +32,6 @@ ADD Gemfile /srv/jekyll
 
 WORKDIR /srv/jekyll
 
-ADD Gemfile /srv/jekyll/
-
 RUN bundle install --no-cache
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
