@@ -22,13 +22,15 @@ pagination:
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
+
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
 
-  {% if site.display_tags or site.display_categories %}
+{% if site.display_tags or site.display_categories %}
+
   <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -49,7 +51,7 @@ pagination:
         {% unless forloop.last %}
           <p>&bull;</p>
         {% endunless %}
-      {% endfor %}  
+      {% endfor %}
     </ul>
   </div>
   {% endif %}
@@ -96,8 +98,9 @@ pagination:
       </div>
     </div>
     <hr>
-  {% endif %}
-  
+
+{% endif %}
+
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
@@ -107,6 +110,7 @@ pagination:
     {% endif %}
 
     {% for post in postlist %}
+
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% else %}
@@ -117,11 +121,13 @@ pagination:
     {% assign categories = post.categories | join: "" %}
 
     <li>
-      {% if post.thumbnail %}
-        <div class="row">
-        <div class="col-sm-9">
-      {% endif %}
-        <h3>    
+
+{% if post.thumbnail %}
+
+<div class="row">
+          <div class="col-sm-9">
+{% endif %}
+        <h3>
         {% if post.redirect == blank %}
           <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         {% elsif post.redirect contains '://' %}
@@ -129,7 +135,7 @@ pagination:
           <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
             <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
-          {% else %}
+        {% else %}
           <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
         {% endif %}
       </h3>
@@ -161,17 +167,20 @@ pagination:
               {% endfor %}
           {% endif %}
     </p>
+
 {% if post.thumbnail %}
 
 </div>
+
   <div class="col-sm-3">
     <img class="card-img" src="{{post.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
   </div>
 </div>
-{% endif %}          
+{% endif %}
     </li>
 
     {% endfor %}
+
   </ul>
 
 {% if page.pagination.enabled %}
