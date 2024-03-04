@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Researcher</a>, Institute of Aerodynamics and Flow Technology, DLR
-
+subtitle: <a href='#'>Researcher</a>, <a href="[https://ae.gatech.edu/](https://www.dlr.de/as/en/desktopdefault.aspx/tabid-119/269_read-466/)">Institute of Aerodynamics and Flow Technology</a>, <a href="[https://ae.gatech.edu/](https://www.dlr.de/en/)">DLR</a>
 profile:
   align: right
   image: ey3.png
@@ -40,7 +39,7 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
    - **B.Sc.**, <a href="http://ae.metu.edu.tr/">Aerospace Engineering</a>, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, 2011
 
 ### Experience
-   - Researcher, <a href="https://www.dlr.de/en/"><u> German Aerospace Center </u></a>, Oct 2023 – Present     
+   - Researcher, <a href="https://www.dlr.de/en/"><u> German Aerospace Center (DLR) </u></a>, Oct 2023 – Present     
    - Graduate Research/Teaching Assistant, <a href="https://www.gatech.edu/"><u> Georgia Institute of Technology </u></a>, Aug 2014 – Aug 2023
    - Graduate Research/Teaching Assistant, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, Oct 2011 – July 2014
    - Intern, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, Summer 2010
