@@ -27,9 +27,3 @@ category: Ph.D. (Georgia Tech)
 <div class="caption">
  Sensitivity Analysis and Optimization Iterations
 </div>
-
-
- 
- 
-
- 
