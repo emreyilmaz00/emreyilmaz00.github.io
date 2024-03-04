@@ -61,14 +61,3 @@ category: Ph.D. (Georgia Tech)
 <div class="caption">
     Airfoil Shape Generation by the Generator in GAN Framework Shown at Different Epochs
 </div>
-
-
-<!---
-**Introduction**
-In an NSF workshop in 2012, **Sobieski** stated that "_MDO needs to break out of its gilded cage, and find ways to help conceive new designs, not just search the design space defined by the user._". Inspired by this vision, we proposed using deep learning methods as a new possible direction to overcome fundamental limitations of multi-disciplinary design and optimization (MDO) parametrization.  [**Simpson** _et al._] 
-"col-sm-5 mt-3 mt-md-0"
-assets/img/gilded3.png" title="A New Research Direction for MDO" 
-"col-sm-7 mt-3 mt-md-0"
-"assets/img/hlmotiv.png" title="High Level Motivations"
-Deep Learning as a direction for MDO and High Level Motivations 
---->
