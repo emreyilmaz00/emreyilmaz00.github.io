@@ -67,11 +67,3 @@ In this project led by Kotwicz Herniczek, corridor design problem were formulate
 Pseudospectral methods were explored to achieve minimum time multi agent paths using OpenMDAO, Dymos, and SNOPT libraries.
  
   Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
-   
-<!--- An interior-point method based optimizer library was used to solve the non-linear constrained MPC optimization problems. Specifically, a large-scale linear system was repeatedly solved via a sparse symmetric indefinite linear solver. DoMPC, CasADi, IPOPT, and sparse linear solvers were used. A journal paper is in preparation.
-Corridors were allowed for cardinal directions (N, S, W, E, climb, and descent) to limit the structural design. Air traffic metrics were investigated and utilized.**Introduction**
-
- Our goal was to determine optimal policies for agents in dynamic air traffic environment based on state-action pairs and reward-based optimization of MuZero’s networks that learn the value, the policy, and the reward. For this purpose, the sequential path planning optimization was implemented at each time step.
-
-AAM (Advanced Air Mobility) and UAM (Urban Air Mobility) research activities include multi-agent path planning, dynamic obstacle avoidance, and several air traffic optimization paradigms such as centralized and sequential optimization. Problems were formulated using model predictive control (MPC), deep reinforcement learning, optimal control via pseudospectral methods, and mixed integer linear programming. <!--- Constraint aggregation is also investigated and utilized for this purpose. --->
---->
