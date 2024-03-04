@@ -47,6 +47,7 @@
     function getCurrentScrollPosition() {
       return $(window).scrollTop();
     }
+
     function initializeProgressElement() {
       let navbarHeight = $('#navbar').outerHeight(true);
       $('body').css({ 'padding-top': navbarHeight });
@@ -65,6 +66,7 @@
     function getDistanceToScroll() {
       return $(document).height() - $(window).height();
     }
+
     function resizeProgressBar() {
       progressBar.css({ width: getWidthPercentage() + '%' });
     }
