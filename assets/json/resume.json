@@ -161,10 +161,31 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Data-Driven Aerodynamic Modeling",
       "icon": "fa fa-tag",
       "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+        "Deep Learning Applications"
+      ]  
+    }
+    {
+      "name": "Flight Dynamics and Control",
+      "icon": "fa fa-tag",
+      "keywords": [
+        " "
+      ]  
+    }
+    {
+      "name": "Multidisciplinary Design, Analysis, and Optimization (MDAO)",
+      "icon": "fa fa-tag",
+      "keywords": [
+        "Deep Learning Applications"
+      ]  
+    }
+    {
+      "name": "Reliability Engineering and System Safety",
+      "icon": "fa fa-tag",
+      "keywords": [
+        "Deep Learning Applications"
       ]  
     }
   ],
