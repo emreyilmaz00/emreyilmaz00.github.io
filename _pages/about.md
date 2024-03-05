@@ -40,12 +40,12 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
    - Intern, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, Summer 2010
    - Intern, _Turkish Aerospace Inc._, Summer 2009
 
-### Interests
+<!---### Interests
 
    - Data-Driven Aerodynamic Modeling and Deep Learning Applications
    - Flight Dynamics and Control
    - Multidisciplinary Design, Analysis, and Optimization (MDAO)    
    - Reliability Engineering and System Safety
 
-<!---### CV
+### CV
   <a href="/assets/pdf/EmreYilmaz_CV-2.pdf" >[Link]</a> --->
