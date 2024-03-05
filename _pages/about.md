@@ -8,8 +8,8 @@ profile:
   image: ey3.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Deutsches Zentrum für Luft- und Raumfahrt </p>
-    <p>(DLR) Germany</p>
+<!---    <p>Deutsches Zentrum für Luft- und Raumfahrt </p>
+    <p>(DLR) Germany</p> --->
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
