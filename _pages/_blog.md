@@ -75,15 +75,13 @@ pagination:
 </div>
 <h3 class="card-title text-lowercase">{{ post.title }}</h3>
 <p class="card-text">{{ post.description }}</p>
-
                     {% if post.external_source == blank %}
                       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
                     {% else %}
                       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
                     {% endif %}
                     {% assign year = post.date | date: "%Y" %}
-
-                    <p class="post-meta">
+                   <p class="post-meta">
                       {{ read_time }} min read &nbsp; &middot; &nbsp;
                       <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
                         <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
@@ -98,19 +96,15 @@ pagination:
       </div>
     </div>
     <hr>
-
 {% endif %}
 
   <ul class="post-list">
-
     {% if page.pagination.enabled %}
       {% assign postlist = paginator.posts %}
     {% else %}
       {% assign postlist = site.posts %}
     {% endif %}
-
     {% for post in postlist %}
-
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% else %}
@@ -119,7 +113,6 @@ pagination:
     {% assign year = post.date | date: "%Y" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
-
     <li>
 
 {% if post.thumbnail %}
@@ -150,7 +143,6 @@ pagination:
       <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
-
           {% if tags != "" %}
           &nbsp; &middot; &nbsp;
             {% for tag in post.tags %}
@@ -158,7 +150,6 @@ pagination:
               <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a> &nbsp;
               {% endfor %}
           {% endif %}
-
           {% if categories != "" %}
           &nbsp; &middot; &nbsp;
             {% for category in post.categories %}
@@ -178,7 +169,6 @@ pagination:
 </div>
 {% endif %}
     </li>
-
     {% endfor %}
 
   </ul>
