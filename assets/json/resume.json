@@ -49,18 +49,41 @@
     }],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",  
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",  
+      "url": "https://www.gatech.edu/",
+      "area": "Aerospace Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "endDate": "2023",
       "courses": [
-        "Theory of Relativity"
+        "Dissertation Title: ``Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft’’",
+        "Advisor: Brian J. German"
       ]
-    }
+    },
+    {
+      "institution": "Middle East Technical University",
+      "location": "Ankara, Turkiye",  
+      "url": "https://www.metu.edu.tr/",
+      "area": "Aerospace Engineering",
+      "studyType": "MSc",
+      "endDate": "2014",
+      "courses": [
+        "Dissertation Title: ``Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft’’",
+        "Advisor: Brian J. German"
+      ]
+    },
+    {
+      "institution": "Middle East Technical University",
+      "location": "Ankara, Turkiye",  
+      "url": "https://www.metu.edu.tr/",
+      "area": "Aerospace Engineering",
+      "studyType": "BSc",
+      "endDate": "2011",
+      "courses": [
+        "Thesis Title: ``Adaptive Robust Attitude Controller Design for a Quadrotor’’",
+        "Advisor: Ali T. Kutay"
+      ]
+    },
   ],
   "awards": [
     {
