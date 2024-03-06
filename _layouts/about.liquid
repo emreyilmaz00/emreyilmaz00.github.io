@@ -51,6 +51,8 @@ layout: default
         {% endunless %}
       {% endif %}
       {% case data[0] %}
+        {% when 'education' %}
+          {% include resume/education.liquid %}
         {% when 'interests' %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
           <a class="anchor" id="{{ data[0] }}"></a>
