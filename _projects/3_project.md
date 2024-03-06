@@ -5,6 +5,7 @@ description: Multi Agent Path Planning, MPC, Constraint Aggregation, Deep RL, Mu
 img: assets/img/traj2.png  
 importance: 3
 category: Ph.D. (Georgia Tech)
+related_publications: yilmaz21
 driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
 ---
 
