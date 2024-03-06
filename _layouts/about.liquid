@@ -41,13 +41,28 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News -->
-    {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/_news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
+<!-- Education -->
+<article>
+  <div class="cv">
+    {% for data in site.data.resume %}
+      {% if site.jsonresume and site.jsonresume.size > 0 %}
+        {% unless site.jsonresume contains data[0] %}
+          {% continue %}
+        {% endunless %}
+      {% endif %}
+      {% case data[0] %}
+        {% when 'interests' %}
+          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
+          <a class="anchor" id="{{ data[0] }}"></a>
+          <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+          <div>
+            {% include resume/education.liquid %}
+          </div>
+      {% endcase %}
+    {% endfor %}
+  </div>
+</article>
 
 <!-- Interests -->
 <article>
@@ -71,6 +86,14 @@ layout: default
     {% endfor %}
   </div>
 </article>
+
+    <!-- News -->
+    {% if page.news and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/_news/' | relative_url }}" style="color: inherit">news</a>
+      </h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
 
     <!-- Latest posts 
     {% if page.latest_posts %}
