@@ -5,6 +5,7 @@ description: Non-linear, Adaptive, and Robust Control Applications for Attitude 
 img: /assets/img/quad4.jpg
 importance: 3
 category: Master of Science (ODTU/METU)
+related_publications: yilmaz14, yilmaz14msc
 ---
 
 **Attitude Controller Design for a Quadrotor via Non-linear, Adaptive and Robust Control Techniques** 
