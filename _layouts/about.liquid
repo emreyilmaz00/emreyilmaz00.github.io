@@ -41,7 +41,7 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-<!-- Education -->
+<!-- Education,  Interests -->
 <article>
   <div class="cv">
     {% for data in site.data.resume %}
@@ -60,19 +60,6 @@ layout: default
             {% include resume/education.liquid %}
           </div>
       {% endcase %}
-    {% endfor %}
-  </div>
-</article>
-
-<!-- Interests -->
-<article>
-  <div class="cv">
-    {% for data in site.data.resume %}
-      {% if site.jsonresume and site.jsonresume.size > 0 %}
-        {% unless site.jsonresume contains data[0] %}
-          {% continue %}
-        {% endunless %}
-      {% endif %}
       {% case data[0] %}
         {% when 'interests' %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
