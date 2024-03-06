@@ -5,6 +5,7 @@ description: Gaussian Process, Model-Free Learning, and Semi-Parametric GP Regre
 img: /assets/img/engdec0.png
 importance: 3
 category: Ph.D. (Georgia Tech)
+related_publications:
 ---
   
   **Other Projects**
