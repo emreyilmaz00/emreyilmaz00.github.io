@@ -5,6 +5,7 @@ description: Landing Approach Surfaces Performance, Constraint, and Accuracy Ana
 img: /assets/img/land1.jpg
 importance: 3
 category: Ph.D. (Georgia Tech)
+related_publications: yilmaz19
 ---
 
  - Landing approach surfaces design and performance analysis in terms of energy, power, and time 
