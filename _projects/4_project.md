@@ -5,6 +5,7 @@ description: Fault Tree Analysis, The Propagation of Statistical Moments, Resour
 img: /assets/img/fta_main.png
 importance: 3
 category: Ph.D. (Georgia Tech)
+related_publications: yilmaz23
 ---
 
    - The prior information at the basic event levels can vary notably in fault trees.
