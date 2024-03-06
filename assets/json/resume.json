@@ -171,21 +171,21 @@
       "name": "Flight Dynamics and Control",
       "icon": "fa fa-tag",
       "keywords": [
-        " "
+        " --"
       ]  
     }
     {
       "name": "Multidisciplinary Design, Analysis, and Optimization (MDAO)",
       "icon": "fa fa-tag",
       "keywords": [
-        ""
+        "--"
       ]  
     }
     {
       "name": "Reliability Engineering and System Safety",
       "icon": "fa fa-tag",
       "keywords": [
-        ""
+        "--"
       ]  
     }
   ],
