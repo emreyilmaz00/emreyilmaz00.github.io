@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Driven Aerodynamic Models
+title: Data Driven Aerodynamics
 description: Deep Learning Applications to Airfoil Performance Prediction and Inverse Design, Deep ConvNets, Conditional GANs
 img: /assets/img/whycnn.png
 importance: 2
