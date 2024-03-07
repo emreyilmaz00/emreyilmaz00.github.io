@@ -45,7 +45,7 @@ nav: true
       </div>
     </article>
   </div>
-{% else %}
+
   <div class="post">
     <header class="post-header">
       <h1 class="post-title">
