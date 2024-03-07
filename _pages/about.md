@@ -20,6 +20,8 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
 - eVTOL (electric vertical take-off and landing) aircraft 
 - advanced air mobility
 
+<!---
+
 ### Education
 
    - **Ph.D.**, <a href="https://ae.gatech.edu/">Aerospace Engineering</a>, <a href="https://www.gatech.edu/"><u> Georgia Institute of Technology </u></a>, 2023 
@@ -40,7 +42,8 @@ My research focuses on data-driven aerodynamic modeling and multidisciplinary op
    - Intern, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, Summer 2010
    - Intern, <a href="https://www.tusas.com/"><u> Turkish Aerospace </u></a>, Summer 2009
 
-<!---### Interests
+
+### Interests
 
    - Data-Driven Aerodynamic Modeling and Deep Learning Applications
    - Flight Dynamics and Control
