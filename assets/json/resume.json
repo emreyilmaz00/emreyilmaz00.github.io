@@ -25,13 +25,15 @@
       "name": "Middle East Technical University",
       "position": "Intern",
       "url": "https://www.metu.edu.tr/",
-      "startDate": "2010 Summer"
+      "startDate": "2010",
+      "endDate": "Summer"
     },
     {
       "name": "Turkish Aerospace",
       "position": "Intern",
       "url": "https://www.tusas.com/",
-      "startDate": "2009 Summer"
+      "startDate": "2009",
+      "endDate": "Summer"
     }
   ],
   "education": [
