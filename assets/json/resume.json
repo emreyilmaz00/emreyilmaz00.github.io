@@ -27,56 +27,36 @@
       "name": "German Aerospace Center (DLR)",
       "position": "Researcher",
       "url": "https://www.dlr.de/en/",
-      "startDate": "Oct 2023",
-      "endDate": "Present",
-      "summary": "...",
-      "highlights": [
-        "Relativity"
-      ]
+      "startDate": "2023 Oct",
+      "endDate": "Present"
     },
     {
       "name": "Georgia Institute of Technology",
       "position": "Graduate Research Assistant",
       "url": "https://www.gatech.edu/",
-      "startDate": "Aug 2014",
-      "endDate": "Aug 2023",
-      "summary": "...",
-      "highlights": [
-        "Relativity"
-      ]
+      "startDate": "2014 Aug",
+      "endDate": "2023 Aug"
     },
     {
       "name": "Middle East Technical University",
       "position": "Graduate Research Assistant",
       "url": "https://www.metu.edu.tr/",
-      "startDate": "Oct 2011",
-      "endDate": "July 2014",
-      "summary": "...",
-      "highlights": [
-        "Relativity"
-      ]
+      "startDate": "2011 Oct",
+      "endDate": "2014 July"
     },
     {
       "name": "Middle East Technical University",
       "position": "Intern",
       "url": "https://www.metu.edu.tr/",
-      "startDate": "Summer 2010",
-      "endDate": " - ",
-      "summary": "....",
-      "highlights": [
-        "Relativity"
-      ]
+      "startDate": "2010 Summer",
+      "endDate": " - "
     },
     {
       "name": "Turkish Aerospace",
       "position": "Intern",
       "url": "https://www.tusas.com/",
-      "startDate": "Summer 2009",
-      "endDate": " - ",
-      "summary": "....",
-      "highlights": [
-        "Relativity"
-      ]
+      "startDate": "2009 Summer",
+      "endDate": " - "
     }
   ],
   "volunteer": [
