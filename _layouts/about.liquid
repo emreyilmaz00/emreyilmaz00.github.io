@@ -43,6 +43,7 @@ layout: default
 
 <!-- Education,  Interests -->
     <article>
+      <div class="cv">
         {% for data in site.data.resume %}
           {% if site.jsonresume and site.jsonresume.size > 0 %}
             {% unless site.jsonresume contains data[0] %}
@@ -67,6 +68,7 @@ layout: default
             </div>
           </div>
         {% endfor %}
+      </div>
     </article>
 
     <!-- News -->
