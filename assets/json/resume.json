@@ -79,11 +79,7 @@
       "url": "https://www.metu.edu.tr/",
       "area": "Aerospace Engineering",
       "studyType": "BSc",
-      "endDate": "2011",
-      "courses": [
-        "Thesis Title: Adaptive Robust Attitude Controller Design for a Quadrotor",
-        "Advisor: Ali T. Kutay"
-      ]
+      "endDate": "2011"
     },
     {
       "institution": "Middle East Technical University",
@@ -93,8 +89,8 @@
       "studyType": "MSc",
       "endDate": "2014",
       "courses": [
-        "Dissertation Title: Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft",
-        "Advisor: Brian J. German"
+        "Thesis Title: Adaptive Robust Attitude Controller Design for a Quadrotor",
+        "Advisor: Ali T. Kutay"
       ]
     },
     {
