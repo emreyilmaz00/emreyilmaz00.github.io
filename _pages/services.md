@@ -44,27 +44,11 @@ nav: true
         {% endfor %}
       </div>
     </article>
-  </div>
 
-  <div class="post">
-    <header class="post-header">
-      <h1 class="post-title">
-        {{ page.title }}
-        {% if page.cv_pdf %}
-          <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
-          ></a>
-        {% endif %}
-      </h1>
-      {% if page.description %}
-        <p class="post-description">{{ page.description }}</p>
-      {% endif %}
-    </header>
-    
+
+
+<!---
+
    <article>
       <div class="cv">
         {% for data in site.data.resume %}
@@ -89,8 +73,6 @@ nav: true
      </div>
    </article>
 
-<!---
--Culture Chair, _Turkish Student Organization at Georgia Institute of Technology_, 2017-2018, Atlanta, GA. 
 **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.--->
