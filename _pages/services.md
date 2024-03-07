@@ -17,19 +17,45 @@ nav: true
  -Organization Team, UAM Expo, _Georgia Institute of Technology_, 2019, Atlanta, GA. <br/>
  
 
-
-
-
+<!-- Education,  Interests -->
+   <article>
+      <div class="cv">
+        {% for data in site.data.resume %}
+          {% if site.jsonresume and site.jsonresume.size > 0 %}
+            {% unless site.jsonresume contains data[0] %}
+              {% continue %}
+            {% endunless %}
+          {% endif %}
+          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
+          <a class="anchor" id="{{ data[0] }}"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            <div>
+              {% case data[0] %}
+                {% when 'education' %}
+                  {% include resume/education.liquid %}
+                {% when 'work' %}
+                  {% include resume/work.liquid %}
+                {% when 'volunteer' %}
+                  {% include resume/volunteer.liquid %}
+                {% when 'projects' %}
+                  {% include resume/projects.liquid %}
+                {% when 'skills' %}
+                  {% include resume/skills.liquid %}
+                {% when 'interests' %}
+                  {% include resume/interests.liquid %}
+                {% when 'references' %}
+                  {% include resume/references.liquid %}
+                {% else %}
+            {% endcase %}
+           </div>
+         </div>
+       {% endfor %}
+     </div>
+   </article>
 
 <!---
 -Culture Chair, _Turkish Student Organization at Georgia Institute of Technology_, 2017-2018, Atlanta, GA. 
-
-
 **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
-
-Materials for courses you taught. Replace this text with your description.
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!--->
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.--->
