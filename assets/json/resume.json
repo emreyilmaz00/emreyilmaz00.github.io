@@ -22,14 +22,58 @@
       }
     ]
   },
-  "work": [
+  "work": [    
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "German Aerospace Center (DLR)",
+      "position": "Researcher",
+      "url": "https://www.dlr.de/en/",
+      "startDate": "Oct 2023",
+      "endDate": "Present",
+      "summary": "...",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "Georgia Institute of Technology",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.gatech.edu/",
+      "startDate": "Aug 2014",
+      "endDate": "Aug 2023",
+      "summary": "...",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "Middle East Technical University",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.metu.edu.tr/",
+      "startDate": "Oct 2011",
+      "endDate": "July 2014",
+      "summary": "...",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "Middle East Technical University",
+      "position": "Intern",
+      "url": "https://www.metu.edu.tr/",
+      "startDate": "Summer 2010",
+      "endDate": " - ",
+      "summary": "....",
+      "highlights": [
+        "Relativity"
+      ]
+    },
+    {
+      "name": "Turkish Aerospace",
+      "position": "Intern",
+      "url": "https://www.tusas.com/",
+      "startDate": "Summer 2009",
+      "endDate": " - ",
+      "summary": "....",
       "highlights": [
         "Relativity"
       ]
