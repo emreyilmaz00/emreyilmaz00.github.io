@@ -32,20 +32,8 @@ nav: true
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             <div>
               {% case data[0] %}
-                {% when 'education' %}
-                  {% include resume/education.liquid %}
-                {% when 'work' %}
-                  {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
-                {% when 'projects' %}
-                  {% include resume/projects.liquid %}
-                {% when 'skills' %}
-                  {% include resume/skills.liquid %}
-                {% when 'interests' %}
-                  {% include resume/interests.liquid %}
-                {% when 'references' %}
-                  {% include resume/references.liquid %}
                 {% else %}
             {% endcase %}
            </div>
