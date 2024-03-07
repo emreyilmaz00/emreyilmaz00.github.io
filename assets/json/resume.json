@@ -46,7 +46,8 @@
       "highlights": [
         "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"
       ]
-    }],
+    }
+  ],
   "education": [
     {
       "institution": "Georgia Institute of Technology",
@@ -56,7 +57,7 @@
       "studyType": "PhD",
       "endDate": "2023",
       "courses": [
-        "Dissertation Title: ``Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft’’",
+        "Dissertation Title: Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft",
         "Advisor: Brian J. German"
       ]
     },
@@ -68,7 +69,7 @@
       "studyType": "MSc",
       "endDate": "2014",
       "courses": [
-        "Dissertation Title: ``Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft’’",
+        "Dissertation Title: Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft",
         "Advisor: Brian J. German"
       ]
     },
@@ -80,10 +81,10 @@
       "studyType": "BSc",
       "endDate": "2011",
       "courses": [
-        "Thesis Title: ``Adaptive Robust Attitude Controller Design for a Quadrotor’’",
+        "Thesis Title: Adaptive Robust Attitude Controller Design for a Quadrotor",
         "Advisor: Ali T. Kutay"
       ]
-    },
+    }
   ],
   "awards": [
     {
