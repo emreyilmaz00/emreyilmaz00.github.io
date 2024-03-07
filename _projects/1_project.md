@@ -39,6 +39,16 @@ Specifically, I focus on the following subjects:
 <div class="caption"> VSPAERO Trailing Vortex Solution for the Airframe with Propellers at Forward Flight Condition
 </div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="[https://www.youtube.com/embed/jNQXAC9IVRw](https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing)" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="[https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0](https://drive.google.com/file/d/1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/view?usp=sharing)" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 <!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId %}
 <div class="caption"> VSPAERO Trailing Vortex Solution at Forward Flight Condition
