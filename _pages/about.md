@@ -15,7 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research focuses on data-driven aerodynamic modeling and multidisciplinary optimization for safe and autonomous flight. The specific applications include:
+My research focuses on data-driven aerodynamic modeling and multidisciplinary optimization for safe and autonomous flight. 
+
+The specific applications include:
 - wind tunnel and flight testing
 - eVTOL (electric vertical take-off and landing) aircraft 
 - advanced air mobility
