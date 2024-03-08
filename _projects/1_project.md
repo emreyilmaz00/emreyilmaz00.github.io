@@ -36,6 +36,18 @@ Specifically, I focus on the following subjects:
     VSPAERO Trailing Vortex Solution at Forward Flight Condition
 </div>
  
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/la8_ff.mp4" title="Forward Flight Condition" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/la8_h.mp4" title="Hover Condition" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+   VSPAERO Trailing Vortex Solution
+</div>
+
 
 <!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing -->
 {% include googleDrivePlayer.html id=page.driveId %}
