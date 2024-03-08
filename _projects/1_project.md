@@ -45,16 +45,16 @@ Specifically, I focus on the following subjects:
     </div>
 </div>
 <div class="caption">
-   VSPAERO Trailing Vortex Solution
+   VSPAERO Trailing Vortex Solutions
 </div>
 
 
-<!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing -->
+<!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing 
 {% include googleDrivePlayer.html id=page.driveId %}
 <div class="caption"> VSPAERO Trailing Vortex Solution at Forward Flight Condition
-</div>
+</div> -->
 
-<!-- https://drive.google.com/file/d/1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/view?usp=sharing -->
+<!-- https://drive.google.com/file/d/1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/view?usp=sharing
 {% include googleDrivePlayer.html id=page.driveId2 %}
 <div class="caption"> VSPAERO Trailing Vortex Solution at Hover Condition
-</div>
+</div>  -->
