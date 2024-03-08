@@ -107,18 +107,32 @@
       "url": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-aviation-forum/av20-digital-program-final90e58211394e40978a6bfcc28ca975bf.pdf?sfvrsn=55abc239_0",
       "startDate": "2020",
       "endDate": "-",
+      "summary": ".",
+      "highlights": [
+        "."
+      ] 
     },
     {
       "organization": "Turkish Student Organization at Georgia Tech",
       "position": "President",
+      "url": "-",
       "startDate": "2018",
       "endDate": "2021",
+      "summary": ".",
+      "highlights": [
+        "."
+      ]  
     },
     {
       "organization": "UAM Expo, Georgia Institute of Technology",
       "position": "Organization Team",
+      "url": "-",
       "startDate": "2019",
       "endDate": "-",
+      "summary": ".",
+      "highlights": [
+        "."
+      ] 
     }    
   ]
 }
