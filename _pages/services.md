@@ -31,9 +31,9 @@ nav: true
           <div class="card mt-3 p-3">
             <div>
               {% case data[0] %}
-                {% when 'education' %}
+                {% when 'volunteer' %}
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-{% include resume/education.liquid %}
+{% include resume/volunteer.liquid %}
                 {% when 'work' %}    
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
 {% include resume/work.liquid %}
