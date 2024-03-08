@@ -17,18 +17,7 @@ nav: true
  -Organization Team, UAM Expo, _Georgia Institute of Technology_, 2019, Atlanta, GA. <br/>
 
  
-<article>
-  <div class="cv">
-    <a class="anchor" id="{{ 'volunteer' }}"></a>
-    <div class="card mt-3 p-3">
-      <h3 class="card-title font-weight-medium">{{ 'volunteer' | capitalize }}</h3>
-      <div>
-        {% include resume/volunteer.liquid %}
-      </div>
-    </div>
-  </div>
-</article>
-
+ 
 
 <!---
 **Funding Proposal Experience** <br/>
