@@ -17,9 +17,6 @@ nav: true
  -Organization Team, UAM Expo, _Georgia Institute of Technology_, 2019, Atlanta, GA. <br/>
  
 
-<!-- Education,  Interests -->
-
-<!---
    <article>
       <div class="cv">
         {% for data in site.data.resume %}
@@ -43,6 +40,10 @@ nav: true
        {% endfor %}
      </div>
    </article>
+
+
+<!---
+
 
 **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
