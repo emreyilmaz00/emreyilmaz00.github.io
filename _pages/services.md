@@ -27,23 +27,18 @@ nav: true
             {% endunless %}
           {% endif %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
-          <a class="anchor" id="{{ data[0] }}"></a>
-          <div class="card mt-3 p-3">
-            <div>
               {% case data[0] %}
                 {% when 'volunteer' %}
+                          <a class="anchor" id="{{ data[0] }}"></a>
+          <div class="card mt-3 p-3">
+            <div>
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
 {% include resume/volunteer.liquid %}
-                {% when 'work' %}    
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-{% include resume/work.liquid %}
-                {% when 'interests' %}    
-{% include resume/interests.liquid %}
+                 </div>
+   </div>
                 {% else %}
 
    {% endcase %}
-   </div>
-   </div>
    {% endfor %}
   </div>
 </article>
