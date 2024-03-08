@@ -6,13 +6,10 @@ img: assets/img/traj2.png
 importance: 3
 category: Ph.D. (Georgia Tech)
 related_publications: yilmaz21
-driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
----
-
-To add a table of contents to a post, simply add
-
 toc:
   beginning: true
+driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
+---
 
 ## **AAM/UAM Air Traffic Optimization Using Model Predictive Control (MPC) and Constraint Aggregation**
 
