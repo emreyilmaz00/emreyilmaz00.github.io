@@ -41,7 +41,6 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-<!-- Education,  Interests -->
     <article>
       <div class="cv">
         {% for data in site.data.resume %}
@@ -51,35 +50,34 @@ layout: default
             {% endunless %}
           {% endif %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
-              {% case data[0] %}
-                {% when 'education' %}
-          <a class="anchor" id="{{ data[0] }}"></a>
-          <div class="card mt-3 p-3">
+          {% case data[0] %}
+          {% when 'education' %}
+            <a class="anchor" id="{{ data[0] }}"></a>
+            <div class="card mt-3 p-3">
             <div>
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-{% include resume/education.liquid %}
+            {% include resume/education.liquid %}
             </div>
           </div>
-                {% when 'work' %}    
-          <a class="anchor" id="{{ data[0] }}"></a>
-          <div class="card mt-3 p-3">
+          {% when 'work' %}    
+            <a class="anchor" id="{{ data[0] }}"></a>
+            <div class="card mt-3 p-3">
             <div>
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-{% include resume/work.liquid %}
+            {% include resume/work.liquid %}
             </div>
-          </div>
-                {% when 'interests' %}    
-          <a class="anchor" id="{{ data[0] }}"></a>
-          <div class="card mt-3 p-3">
+            </div>
+          {% when 'interests' %}    
+            <a class="anchor" id="{{ data[0] }}"></a>
+            <div class="card mt-3 p-3">
             <div>
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-{% include resume/interests.liquid %}
+            {% include resume/interests.liquid %}
             </div>
-          </div>
-                {% else %}
+            </div>
+          {% else %}
 
-              {% endcase %}
-
+           {% endcase %}
         {% endfor %}
       </div>
     </article>
