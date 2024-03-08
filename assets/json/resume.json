@@ -105,7 +105,8 @@
       "organization": "AIAA AVIATION Forum",
       "position": "Conference Session Co-Chair",
       "url": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-aviation-forum/av20-digital-program-final90e58211394e40978a6bfcc28ca975bf.pdf?sfvrsn=55abc239_0",
-      "date": "2020"
+      "startDate": "2020",
+      "endDate": "Summer"
     },
     {
       "organization": "Turkish Student Organization at Georgia Tech",
@@ -116,7 +117,8 @@
     {
       "organization": "UAM Expo, Georgia Institute of Technology",
       "position": "Organization Team",
-      "date": "2019"
+      "startDate": "2019",
+      "endDate": "Spring"
     }    
   ]
 }
