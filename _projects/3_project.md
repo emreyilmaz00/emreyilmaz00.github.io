@@ -73,9 +73,10 @@ In this project led by Kotwicz Herniczek, corridor design problem were formulate
     
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2376">[AIAA'21b]</a>
  - Published a journal paper: <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a>
-     
- ## Optimal Control Approach to Air Traffic Optimization Using SQP Solvers and Pseudospectral Methods
+
+
+## Optimal Control Approach to Air Traffic Optimization Using SQP Solvers and Pseudospectral Methods
 
 Pseudospectral methods were explored to achieve minimum time multi agent paths using OpenMDAO, Dymos, and SNOPT libraries.
  
-  Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
+ Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
