@@ -11,11 +11,8 @@ driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
 
 To add a table of contents to a post, simply add
 
-```yml
 toc:
   beginning: true
-```
-
 
 ## **AAM/UAM Air Traffic Optimization Using Model Predictive Control (MPC) and Constraint Aggregation**
 
