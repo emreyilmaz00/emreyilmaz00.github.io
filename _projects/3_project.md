@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UAM Air Traffic Optimization
+title: Advanced Air Mobility
 description: Multi Agent Path Planning, MPC, Constraint Aggregation, Deep RL, MuZero Algorithm, Pseudospectral Methods 
 tags: formatting toc
 img: assets/img/traj2.png  
