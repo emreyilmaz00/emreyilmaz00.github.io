@@ -17,33 +17,37 @@ nav: true
  -Organization Team, UAM Expo, _Georgia Institute of Technology_, 2019, Atlanta, GA. <br/>
 
  
- <article>
-   <div class="cv">
-     {% for entry in site.data.cv %}
-       <a class="anchor" id="{{ entry.title }}"></a>
-       <div class="card mt-3 p-3">
-         <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-       <div>
-       {% if entry.type == 'list' %}
-         {% include cv/list.liquid %}
-       {% elsif entry.type == 'map' %}
-         {% include cv/map.liquid %}
-       {% elsif entry.type == 'nested_list' %}
-         {% include cv/nested_list.liquid %}
-       {% elsif entry.type == 'time_table' %}
-         {% include cv/time_table.liquid %}
-       {% elsif entry.type == 'list_groups' %}
-         {% include cv/list_groups.liquid %}
-       {% else %}
-         {{ entry.contents }}
-       {% endif %}
-       </div>
-       </div>
-      {% endfor %}
-    </div>
-  </article>
-</div>
+<!-- Education,  Interests -->
+   <article>
+      <div class="cv">
+        {% for data in site.data.resume %}
+          {% if site.jsonresume and site.jsonresume.size > 0 %}
+            {% unless site.jsonresume contains data[0] %}
+              {% continue %}
+            {% endunless %}
+          {% endif %}
+          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
+          <a class="anchor" id="{{ data[0] }}"></a>
+          <div class="card mt-3 p-3">
+            <div>
+              {% case data[0] %}
+                {% when 'education' %}
+            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+{% include resume/education.liquid %}
+                {% when 'work' %}    
+            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+{% include resume/work.liquid %}
+                {% when 'interests' %}    
+{% include resume/interests.liquid %}
+                {% else %}
 
+   {% endcase %}
+   </div>
+   </div>
+   {% endfor %}
+  </div>
+</article>
+    
 <!---
 **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
