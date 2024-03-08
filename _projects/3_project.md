@@ -8,7 +8,7 @@ importance: 3
 category: Ph.D. (Georgia Tech)
 related_publications: yilmaz21
 toc:
-  beginning: true
+  sidebar: left
 driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
 ---
 
