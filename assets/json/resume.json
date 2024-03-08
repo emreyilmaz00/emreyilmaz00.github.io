@@ -105,8 +105,7 @@
       "organization": "AIAA AVIATION Forum",
       "position": "Conference Session Co-Chair",
       "url": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-aviation-forum/av20-digital-program-final90e58211394e40978a6bfcc28ca975bf.pdf?sfvrsn=55abc239_0",
-      "startDate": "2020",
-      "endDate": "Summer"
+      "date": "2020"
     },
     {
       "organization": "Turkish Student Organization at Georgia Tech",
@@ -117,29 +116,17 @@
     {
       "organization": "UAM Expo, Georgia Institute of Technology",
       "position": "Organization Team",
-      "startDate": "2019",
-      "endDate": "Spring"
+      "date": "2019"
     }    
   ],
   "review": [
     {
-      "organization": "AIAA AVIATION Forum",
-      "position": "Conference Session Co-Chair",
-      "url": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-aviation-forum/av20-digital-program-final90e58211394e40978a6bfcc28ca975bf.pdf?sfvrsn=55abc239_0",
-      "startDate": "2020",
-      "endDate": "Summer"
+      "organization": "Transportation Research. Part C: Emerging Technologies",
+      "url": "https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies"
     },
     {
-      "organization": "Turkish Student Organization at Georgia Tech",
-      "position": "President",
-      "startDate": "2018",
-      "endDate": "2021"
-    },
-    {
-      "organization": "UAM Expo, Georgia Institute of Technology",
-      "position": "Organization Team",
-      "startDate": "2019",
-      "endDate": "Spring"
-    }    
+      "organization": "AIAA Journal",
+      "url": "https://arc.aiaa.org/loi/aiaaj"
+    },   
   ]
 }
