@@ -23,6 +23,21 @@ Specifically, I focus on the following subjects:
   - Transition Corridors and Tilting Schedule Considerations
   - Multi-Disciplinary Analysis and Optimization Frameworks 
 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vsp0.png" title="Bare Airframe" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vsp1.png" title="Props On" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    VSPAERO Trailing Vortex Solution at Forward Flight Condition
+</div>
+ 
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/vsp0.png" title="Bare Airframe" class="img-fluid rounded z-depth-1" %}
