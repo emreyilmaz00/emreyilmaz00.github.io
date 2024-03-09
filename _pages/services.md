@@ -34,6 +34,14 @@ nav: true
 {% include resume/volunteer.liquid %}
                  </div>
    </div>
+                {% when 'review' %}
+                  <a class="anchor" id="{{ data[0] }}"></a>
+                  <div class="card mt-3 p-3">
+                  <div>
+                  <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+{% include resume/review.liquid %}
+                 </div>
+   </div>
                 {% else %}
 
    {% endcase %}
