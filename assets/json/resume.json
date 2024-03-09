@@ -54,9 +54,8 @@
       "endDate": "2014",
       "url_advisor": "https://avesis.metu.edu.tr/kutay/",
       "advisor": "Ali T. Kutay",    
-      "courses": [
-        "Thesis Title: Adaptive Robust Attitude Controller Design for a Quadrotor"
-      ]
+      "url_thesis": "http://etd.lib.metu.edu.tr/upload/12617486/index.pdf",
+      "thesis_title": "Adaptive Robust Attitude Controller Design for a Quadrotor"
     },
     {
       "institution": "Georgia Institute of Technology",
@@ -67,9 +66,8 @@
       "endDate": "2023",
       "url_advisor": "https://bgerman.ae.gatech.edu/",
       "advisor": "Brian J. German",     
-      "courses": [
-        "Dissertation Title: Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft"
-      ]
+      "url_thesis": "https://www.gatech.edu/",
+      "thesis_title": "Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft"
     }
   ],
   "interests": [
