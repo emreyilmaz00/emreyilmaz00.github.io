@@ -15,6 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<p style="margin-bottom:4cm;"> </p>
+
 My research focuses on data-driven aerodynamic modeling and multidisciplinary optimization for safe and autonomous flight. 
 
 The specific applications include:
