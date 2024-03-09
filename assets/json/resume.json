@@ -52,6 +52,8 @@
       "area": "Aerospace Engineering",
       "studyType": "MSc",
       "endDate": "2014",
+      "url_advisor": "https://www.metu.edu.tr/",
+      "advisor": "Ali T. Kutay",    
       "courses": [
         "Thesis Title: Adaptive Robust Attitude Controller Design for a Quadrotor",
         "Advisor: Ali T. Kutay "
@@ -64,6 +66,8 @@
       "area": "Aerospace Engineering",
       "studyType": "PhD",
       "endDate": "2023",
+      "url_advisor": "https://www.gatech.edu/",
+      "advisor": "Brian J. German",     
       "courses": [
         "Dissertation Title: Hybrid Automaton Based Contingency Planning for Over-Actuated Tandem Tiltwing eVTOL Aircraft",
         "Advisor: Brian J. German "
