@@ -6,12 +6,12 @@ description:
 nav: true
 ---
 
-**Reviewing** <br/>
+<!-- **Reviewing** <br/>
   -<a href="https://arc.aiaa.org/loi/aiaaj">AIAA Journal</a> <br/>
   -<a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">Transportation Research. Part C: Emerging Technologies</a> <br/> 
 
 
-<!-- **Volunteering and Leadership** <br/>
+ **Volunteering and Leadership** <br/>
  -Conference Session Co-Chair, <a href="https://www.aiaa.org/aviation"> _AIAA Aviation Forum_, 2020</a>. <br/>
  -President, _Turkish Student Organization at Georgia Institute of Technology_, 2018-2021, Atlanta, GA. <br/>
  -Organization Team, UAM Expo, _Georgia Institute of Technology_, 2019, Atlanta, GA. <br/> -->
