@@ -12,7 +12,9 @@ toc:
 driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
 ---
 
-## AAM/UAM Air Traffic Optimization Using MPC and Constraint Aggregation
+AAM/UAM air traffic management problems were formulated and solved via various optimization approaches. 
+
+## Model Predictive Control Approach
 
 We solved high-capacity urban air traffic optimization problems using model predictive control with constraint aggregation techniques. In a multi-agent environment, agent trajectories were optimized based on origin-destination pairs for the following optimization paradigms: 
   - Centralized optimization at each time step 
@@ -51,7 +53,7 @@ We solved high-capacity urban air traffic optimization problems using model pred
 </div> 
  
  
-## Deep RL Approach to Air Traffic Optimization Using the MuZero Algorithm
+## Deep Reinforcement Learning Approach
 
   Inspired by the success of DeepMind’s deep reinforcement learning algorithm, <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules">MuZero</a>, in mastering games without any knowledge about the rules and the environment, we investigated the feasibility of using MuZero for AAM research by casting the dynamic obstacle avoidance problem as a game.
  
@@ -67,16 +69,16 @@ We solved high-capacity urban air traffic optimization problems using model pred
 </div>
 
 
-## Highways in the Sky for Urban Air Mobility Operations Summary
+## Mixed Integer Linear Programming 
 
 In this project led by Kotwicz Herniczek, corridor design problem were formulated as a minimum cost multi-commodity flow problem. The goal is to generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size using linear programming (LP) and mixed integer linear programming (MILP) problems and Gurobi. 
     
- - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2376">[AIAA'21b]</a>
- - Published a journal paper: <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a>
+ - Co-authored a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2376">[AIAA'21b]</a>
+ - Co-authored a journal paper: <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a>
 
 
-## Optimal Control Approach to Air Traffic Optimization Using SQP Solvers and Pseudospectral Methods
+## Pseudospectral Methods
 
-Pseudospectral methods were explored to achieve minimum time multi agent paths using OpenMDAO, Dymos, and SNOPT libraries.
+Pseudospectral methods were explored to achieve minimum time multi agent paths using using OpenMDAO, Dymos, and SNOPT.
  
- Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
+Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
