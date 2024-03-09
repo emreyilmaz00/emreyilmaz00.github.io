@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced Air Mobility
-description: Multi Agent Path Planning, MPC, Constraint Aggregation, Deep RL, MuZero Algorithm, Pseudospectral Methods 
+description: Multi Agent Path Planning, MPC, Deep RL, MuZero, Pseudospectral Methods 
 tags: formatting toc
 img: assets/img/traj2.png  
 importance: 3
