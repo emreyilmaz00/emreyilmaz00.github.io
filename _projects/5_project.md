@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UAM Landing Operations Research
+title: UAM Landing
 description: Landing Approach Surfaces Performance, Constraint, and Accuracy Analysis  
 img: /assets/img/land1.jpg
 importance: 3
