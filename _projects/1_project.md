@@ -1,6 +1,6 @@
 ---
 layout: page
-title: eVTOL Aircraft Research 
+title: eVTOL Aircraft 
 description: Control Allocation, Hybrid-Automata Based Path Planning, Contingency Planning, and Flight Dynamic Modeling  
 img: assets/img/evtol0.png
 importance: 1
