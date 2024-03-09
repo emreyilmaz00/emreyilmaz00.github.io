@@ -43,7 +43,7 @@
       "url": "https://www.metu.edu.tr/",
       "area": "Aerospace Engineering",
       "studyType": "BSc",
-      "endDate": "2011"
+      "date": "2011"
     },
     {
       "institution": "Middle East Technical University",
@@ -51,7 +51,7 @@
       "url": "https://www.metu.edu.tr/",
       "area": "Aerospace Engineering",
       "studyType": "MSc",
-      "endDate": "2014",
+      "date": "2014",
       "url_advisor": "https://avesis.metu.edu.tr/kutay/",
       "advisor": "Ali T. Kutay",    
       "advisor_role": "Advisor",    
@@ -65,7 +65,7 @@
       "url": "https://www.gatech.edu/",
       "area": "Aerospace Engineering",
       "studyType": "PhD",
-      "endDate": "2023",
+      "date": "2023",
       "url_advisor": "https://bgerman.ae.gatech.edu/",
       "advisor": "Brian J. German",   
       "advisor_role": "Advisor",
