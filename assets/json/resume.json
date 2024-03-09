@@ -124,15 +124,11 @@
   "review": [
     {
       "organization": "AIAA Journal",
-      "url": "https://arc.aiaa.org/loi/aiaaj",
-      "startDate": "2020",
-      "endDate": "Summer"
+      "url": "https://arc.aiaa.org/loi/aiaaj"
     },
     {
       "organization": "Transportation Research. Part C: Emerging Technologies",
-      "url": "https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies",
-      "startDate": "2018",
-      "endDate": "2021"
+      "url": "https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies"
     }
   ]
 }
