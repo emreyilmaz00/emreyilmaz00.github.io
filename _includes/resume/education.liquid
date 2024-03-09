@@ -40,6 +40,7 @@
             <a href="{{ content.url }}">{{ content.institution }} </a>,  
             {{ content.area }}
           </h6>
+              {% if content.thesis_title_type %}
           <ul class="items">
               <li>
                 <span class="item"> {{ content.thesis_title_type }}: <a href="{{ content.url_thesis }}">{{ content.thesis_title }} </a> </span>  
@@ -48,7 +49,8 @@
                 <span class="item"> {{ content.advisor_role }}: <a href="{{ content.url_advisor }}">{{ content.advisor }} </a> </span>  
               </li>
           </ul>
-        </div>
+              {% endif %}
+</div>
       </div>
     </li>
   {% endfor %}
