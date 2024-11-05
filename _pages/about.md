@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Researcher</a>, <a href="https://www.dlr.de/as/en/desktopdefault.aspx/tabid-119/269_read-466/">Institute of Aerodynamics and Flow Technology</a>, <a href="https://www.dlr.de/en/">DLR</a>
+subtitle: <a href='#'>Researcher</a>, <a href="https://www.dlr.de/en/as">Institute of Aerodynamics and Flow Technology</a>, <a href="https://www.dlr.de/en/">DLR</a>
 profile:
   align: right
   image: ey3.png
@@ -45,14 +45,6 @@ The specific applications include:
    - Graduate Research Assistant, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, Oct 2011 – July 2014
    - Intern, <a href="https://www.metu.edu.tr/"><u> Middle East Technical University </u></a>, Summer 2010
    - Intern, <a href="https://www.tusas.com/"><u> Turkish Aerospace </u></a>, Summer 2009
-
-
-### Interests
-
-   - Data-Driven Aerodynamic Modeling and Deep Learning Applications
-   - Flight Dynamics and Control
-   - Multidisciplinary Design, Analysis, and Optimization (MDAO)    
-   - Reliability Engineering and System Safety
 
 ### CV
   <a href="/assets/pdf/EmreYilmaz_CV-2.pdf" >[Link]</a> --->
