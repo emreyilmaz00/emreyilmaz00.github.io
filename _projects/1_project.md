@@ -6,8 +6,6 @@ img: assets/img/evtol0.png
 importance: 1
 category: Ph.D. (Georgia Tech)
 related_publications: yilmaz23phd
-driveId: 1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/preview
-driveId2: 1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/preview
 
 ---
 
@@ -48,6 +46,10 @@ Specifically, I focus on the following subjects:
    VSPAERO Trailing Vortex Solutions
 </div>
 
+<!-- 
+driveId: 1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/preview
+driveId2: 1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/preview
+-- >
 
 <!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing 
 {% include googleDrivePlayer.html id=page.driveId %}
