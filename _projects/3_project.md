@@ -9,7 +9,6 @@ category: Ph.D. (Georgia Tech)
 related_publications: yilmaz21
 toc:
   sidebar: left
-driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
 ---
 
 AAM/UAM air traffic management problems were formulated and solved via various optimization approaches. 
@@ -21,7 +20,8 @@ We solved high-capacity urban air traffic optimization problems using model pred
   - Sequential optimization at each time step
   - Sequential optimization for the entire flight trajectory
 
-<!-- https://drive.google.com/file/d/1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/view?usp=sharing 
+<!-- driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
+https://drive.google.com/file/d/1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/view?usp=sharing 
 {% include googleDrivePlayer.html id=page.driveId %} -->
 
 <div class="row mt-3">
