@@ -1,81 +1,60 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: eVTOL Aircraft 
+description: Control Allocation, Hybrid-Automata Based Path Planning, Contingency Planning, and Flight Dynamic Modeling  
+img: assets/img/evtol0.png
 importance: 1
-category: work
-related_publications: true
+category: Ph.D. (Georgia Tech)
+related_publications: yilmaz23phd
+driveId: 1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/preview
+driveId2: 1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/preview
+
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Introduction**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+With the introduction of novel eVTOL aircraft, the complexity in aircraft design and air space management will drastically increase. Safety and efficiency concerns must be solved before successful commercial flight operations can begin. In my research related to eVTOL aircraft, the objective is to respond to these concerns by formulating and solving optimization problems that will help enabling these technologies.  
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Specifically, I focus on the following subjects:
+  - eVTOL Aircraft Flight Dynamics and Performance Modeling
+  - Control Allocation Optimization for Over-Actuated eVTOL Aircraft
+  - Hybrid Automaton-Based Planning
+  - Distributed Electric Propulsion Concepts
+  - Transition Corridors and Tilting Schedule Considerations
+  - Multi-Disciplinary Analysis and Optimization Frameworks 
 
-<div class="row">
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vsp0.png" title="Bare Airframe" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vsp1.png" title="Props On" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    VSPAERO Trailing Vortex Solution at Forward Flight Condition
 </div>
-<div class="row">
+ 
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/video/la8_ff.mp4" title="Forward Flight Condition" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/la8_h.mp4" title="Hover Condition" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+   VSPAERO Trailing Vortex Solutions
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<!-- https://drive.google.com/file/d/1ivkaiPiiRK01oFAk6svfok85OcpUS7wS/view?usp=sharing 
+{% include googleDrivePlayer.html id=page.driveId %}
+<div class="caption"> VSPAERO Trailing Vortex Solution at Forward Flight Condition
+</div> -->
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<!-- https://drive.google.com/file/d/1fUF7tPlF8HRqTyjAvHH5kvWcNj0ANUbi/view?usp=sharing
+{% include googleDrivePlayer.html id=page.driveId2 %}
+<div class="caption"> VSPAERO Trailing Vortex Solution at Hover Condition
+</div>  -->
