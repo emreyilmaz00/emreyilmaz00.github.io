@@ -9,6 +9,8 @@ nav_order: 2
 
 You can also check my publications at [Google Scholar](https://scholar.google.com/citations?user=1Ie3QuMAAAAJ&hl=en&oi=ao).
 
+{% include bib_search.liquid %}
+
 <div class="publications">
 
 {% bibliography %}
