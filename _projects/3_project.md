@@ -20,10 +20,6 @@ We solved high-capacity urban air traffic optimization problems using model pred
   - Sequential optimization at each time step
   - Sequential optimization for the entire flight trajectory
 
-<!-- driveId: 1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/preview
-https://drive.google.com/file/d/1dSMf11HeAFsiYn5R0H17JJWpTbpuJpkd/view?usp=sharing 
-{% include googleDrivePlayer.html id=page.driveId %} -->
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/mpc_aam.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
