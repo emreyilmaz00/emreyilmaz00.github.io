@@ -13,3 +13,7 @@
 "INFORMS":
   url: https://www.informs.org/
   color: "#C0C0C0"
+
+"AST":
+  url: https://www.sciencedirect.com/journal/aerospace-science-and-technology
+  color: "#48D1CC"
