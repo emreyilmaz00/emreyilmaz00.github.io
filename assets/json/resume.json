@@ -28,7 +28,7 @@
       "position": "Research Scienctist",
       "url": "https://www.dlr.de/as/en",
       "startDate": "2023-10",
-      "endDate": "Present",
+      "endDate": "",
       "summary": "",
       "highlights": ["AI"]
     },
@@ -55,7 +55,7 @@
       "position": "Intern",
       "url": "https://www.metu.edu.tr/",
       "startDate": "2010",
-      "endDate": "Summer",
+      "endDate": "2010",
       "summary": "",
       "highlights": [""]
     },
@@ -75,7 +75,7 @@
       "position": "Conference Session Co-Chair",
       "url": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-aviation-forum/av20-digital-program-final90e58211394e40978a6bfcc28ca975bf.pdf?sfvrsn=55abc239_0",
       "startDate": "2020",
-      "endDate": "Summer",
+      "endDate": "",
       "summary": "",
       "highlights": [""]
     },
@@ -91,7 +91,7 @@
       "organization": "UAM Expo, Georgia Institute of Technology",
       "position": "Organization Team",
       "startDate": "2019",
-      "endDate": "Spring",
+      "endDate": "",
       "summary": "",
       "highlights": [""]
     }    
@@ -114,8 +114,8 @@
       "url": "https://www.metu.edu.tr/",
       "area": "Aerospace Engineering",
       "studyType": "MSc",
-      "startDate": "2011",
-      "endDate": "2014",   
+      "startDate": "2014-08-01",
+      "endDate": "2023-08-01",  
       "score": "",
       "courses": [""]
     },
@@ -125,8 +125,8 @@
       "url": "https://www.metu.edu.tr/",
       "area": "Aerospace Engineering",
       "studyType": "BSc",
-      "startDate": "2011",
-      "endDate": "2006",
+      "startDate": "2014-08-01",
+      "endDate": "2023-08-01",
       "score": "",
       "courses": [""]
     }
@@ -216,7 +216,7 @@
         "Flight Mechanics",
         "Deep Learning",
         "MDAO",
-        "eVTOL",
+        "eVTOL"
       ]
     }
   ],
@@ -242,31 +242,31 @@
       "icon": ""
     }
   ],
-"interests": [
+  "interests": [
     {
       "name": "Data-Driven Aerodynamic Modeling",
-      "icon": "fa fa-tag",
+      "icon": "fa-solid fa-tag",
       "keywords": [
         "Deep Learning Applications"
       ]  
     },
     {
       "name": "Flight Dynamics and Control",
-      "icon": "fa fa-tag",
+      "icon": "fa-solid fa-tag",
       "keywords": [
         "--"
       ]  
     },
     {
       "name": "Multidisciplinary Design, Analysis, and Optimization (MDAO)",
-      "icon": "fa fa-tag",
+      "icon": "fa-solid fa-tag",
       "keywords": [
         "--"
       ]  
     },
     {
       "name": "Reliability Engineering and System Safety",
-      "icon": "fa fa-tag",
+      "icon": "fa-solid fa-tag",
       "keywords": [
         "Uncertainty Propagation",
         "Resource Allocation"
