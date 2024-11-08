@@ -37,28 +37,36 @@
       "position": "Graduate Research Assistant",
       "url": "https://www.gatech.edu/",
       "startDate": "2014",
-      "endDate": "2023"
+      "endDate": "2023",
+      "summary": "",
+      "highlights": [""]  
     },
     {
       "name": "Middle East Technical University",
       "position": "Graduate Research Assistant",
       "url": "https://www.metu.edu.tr/",
       "startDate": "2011",
-      "endDate": "2014"
+      "endDate": "2014",
+      "summary": "",
+      "highlights": [""]
     },
     {
       "name": "Middle East Technical University",
       "position": "Intern",
       "url": "https://www.metu.edu.tr/",
       "startDate": "2010",
-      "endDate": "Summer"
+      "endDate": "Summer",
+      "summary": "",
+      "highlights": [""]
     },
     {
       "name": "Turkish Aerospace",
       "position": "Intern",
       "url": "https://www.tusas.com/",
       "startDate": "2009",
-      "endDate": "Summer"
+      "endDate": "Summer",
+      "summary": "",
+      "highlights": [""]
     }
 ],
 "volunteer": [
@@ -67,19 +75,25 @@
       "position": "Conference Session Co-Chair",
       "url": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-aviation-forum/av20-digital-program-final90e58211394e40978a6bfcc28ca975bf.pdf?sfvrsn=55abc239_0",
       "startDate": "2020",
-      "endDate": "Summer"
+      "endDate": "Summer",
+      "summary": "",
+      "highlights": [""]
     },
     {
       "organization": "Turkish Student Organization at Georgia Tech",
       "position": "President",
       "startDate": "2018",
-      "endDate": "2021"
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [""]
     },
     {
       "organization": "UAM Expo, Georgia Institute of Technology",
       "position": "Organization Team",
       "startDate": "2019",
-      "endDate": "Spring"
+      "endDate": "Spring",
+      "summary": "",
+      "highlights": [""]
     }    
   ],
   "education": [
