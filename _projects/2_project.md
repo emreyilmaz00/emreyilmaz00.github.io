@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Driven Aerodynamics
-description: Deep Learning Applications to Airfoil Performance Prediction and Inverse Design, Deep ConvNets, Conditional GANs
+description: Deep Learning Applications to Airfoil Performance Prediction and Inverse Design, Deep ConvNets, cGANs
 img: /assets/img/whycnn.png
 importance: 2
 category: Ph.D. (Georgia Tech)
