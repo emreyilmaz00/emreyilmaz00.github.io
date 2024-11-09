@@ -78,8 +78,7 @@
       "institution": "Georgia Institute of Technology, Atlanta, GA, USA",
       "location": "Atlanta, GA",
       "url": "https://www.gatech.edu/",
-      "area": "Aerospace Engineering",
-      "studyType": "PhD",
+      "studyType": "PhD, Aerospace Engineering",
       "startDate": "2014",
       "endDate": "2023"
     },
@@ -87,17 +86,15 @@
       "institution": "Middle East Technical University, Ankara, Turkey",
       "location": "Ankara, Turkey",
       "url": "https://www.metu.edu.tr/",
-      "area": "Aerospace Engineering",
-      "studyType": "MSc",
+      "studyType": "MSc, Aerospace Engineering",
       "startDate": "2011",
       "endDate": "2014"
     },
     {
-      "institution": "Middle East Technical University, Ankara, Turkey",
+      "institution": "Middle East Technical University",
       "location": "Ankara, Turkey",
       "url": "https://www.metu.edu.tr/",
-      "area": "Aerospace Engineering",
-      "studyType": "BSc",
+      "studyType": "BSc, Aerospace Engineering",
       "startDate": "2006",
       "endDate": "2011"
     }
