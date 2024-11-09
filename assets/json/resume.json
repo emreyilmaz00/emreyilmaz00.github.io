@@ -75,7 +75,7 @@
   ],
   "education": [
     {
-      "institution": "Georgia Institute of Technology, Atlanta, GA, USA",
+      "institution": "Georgia Institute of Technology",
       "location": "Atlanta, GA",
       "url": "https://www.gatech.edu/",
       "studyType": "PhD, Aerospace Engineering",
@@ -83,7 +83,7 @@
       "endDate": "2023"
     },
     {
-      "institution": "Middle East Technical University, Ankara, Turkey",
+      "institution": "Middle East Technical University",
       "location": "Ankara, Turkey",
       "url": "https://www.metu.edu.tr/",
       "studyType": "MSc, Aerospace Engineering",
@@ -155,7 +155,7 @@
   "publications": [
     {
       "name": "A Convolutional Neural Network Approach to Training Predictors for Airfoil Performance",
-      "publisher": "AIAA",
+      "publisher": "AIAA Aviation Forum",
       "releaseDate": "2017",
       "url": "https://doi.org/10.2514/6.2017-3660",
       "summary": ""
@@ -191,7 +191,7 @@
   "languages": [
     {
       "language": "Turkish",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
