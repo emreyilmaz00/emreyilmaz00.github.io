@@ -67,7 +67,7 @@ We solved high-capacity urban air traffic optimization problems using model pred
 
 ## Mixed Integer Linear Programming 
 
-In this project led by Kotwicz Herniczek, corridor design problems were formulated as minimum cost multi-commodity flow problems. The goal is to generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size using linear programming (LP) and mixed integer linear programming (MILP) with the help of Gurobi. 
+In this project led by Kotwicz Herniczek, corridor design problems were formulated as minimum cost multi-commodity flow problems. The goal is to generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size using linear programming (LP) and mixed integer linear programming (MILP). 
     
  - Co-authored a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2376">[AIAA'21b]</a>
  - Co-authored a journal paper: <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a>
