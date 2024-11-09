@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Researcher</a>, <a href="https://www.dlr.de/as/en/">Institute of Aerodynamics and Flow Technology</a>, <a href="https://www.dlr.de/en/">DLR</a>
+subtitle: <a href='#'>Research Scientist</a>, <a href="https://www.dlr.de/as/en/">Institute of Aerodynamics and Flow Technology</a>, <a href="https://www.dlr.de/en/">DLR</a>
 
 profile:
   align: right
