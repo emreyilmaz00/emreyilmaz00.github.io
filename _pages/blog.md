@@ -6,7 +6,7 @@ nav: false
 nav_order: 6
 pagination:
   enabled: false
-  collection: posts
+  collection: posts0
   permalink: /page/:num/
   per_page: 5
   sort_field: date
