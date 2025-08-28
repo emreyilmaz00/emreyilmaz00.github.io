@@ -72,7 +72,7 @@
       "startDate": "2019",
       "endDate": "April"
     }    
-  ],
+  ],  
   "education": [
     {
       "location": "Atlanta, GA",
@@ -240,12 +240,12 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Brian J German",
       "icon": "fa-solid fa-laptop",
       "reference": ""
     },
     {
-      "name": "Professor John Doe",
+      "name": " ",
       "icon": "fa-solid fa-thumbtack",
       "reference": ""
     }
