@@ -1,19 +1,23 @@
-"AVIATION":
+"AVIATION (C)":
   url: https://www.aiaa.org/aviation
   color: "#4B0082"
 
-"J-RESS":
+"RESS (J)":
   url: https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety
   color: "#00FFFF"
 
-"JAT":
+"JAT (J)":
   url: https://arc.aiaa.org/journal/jat
   color: "#000080"
   
-"INFORMS":
+"INFORMS (C)":
   url: https://www.informs.org/
   color: "#C0C0C0"
 
-"AST":
+"AST (J)":
   url: https://www.sciencedirect.com/journal/aerospace-science-and-technology
   color: "#48D1CC"
+
+  "AIAAJ (J)":
+  url: https://arc.aiaa.org/journal/aiaaj
+  color: "#000080"
