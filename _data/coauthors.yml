@@ -19,13 +19,13 @@
     url: https://github.com/olasanni1
 
 "warren":
-  - firstname: ["Matthew"]
+  - firstname: ["Matthew", "M."]
     url: https://matthewmwarren.com/
 
 "pritchett":
-  - firstname: ["Amy", "Amy R."]
+  - firstname: ["Amy", "Amy R.", "A. R."]
     url: https://www.aero.psu.edu/department/directory-detail-g.aspx?q=arp78
 
 "bekemeyer":
-  - firstname: ["Philipp"]
+  - firstname: ["Philipp", "P."]
     url: https://www.researchgate.net/profile/Philipp-Bekemeyer
