@@ -15,7 +15,7 @@ nav_order: 3
             {% continue %}
             {% endunless %}
          {% endif %}
-    {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} 
+    {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
     
 {% case data[0] %}
                 {% when 'review' %}
@@ -37,11 +37,11 @@ nav_order: 3
                 {% else %}
 {% endcase %}
 
-{% endif %}
 
 {% endfor %}
 </div>
 </article>
     
+
 
 
