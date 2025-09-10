@@ -38,22 +38,11 @@ nav_order: 3
 {% endcase %}
 
 
-{% case data[0] %}
-                {% when 'review' %}
-                  <a class="anchor" id="{{ data[0] }}"></a>
-                  <div class="card mt-3 p-3">
-                  <div>
-                  <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-                  {% include resume/review.liquid %}
-                 </div>
-                 </div>    
-{% endcase %}
-
-
 {% endfor %}
 </div>
 </article>
     
+
 
 
 
