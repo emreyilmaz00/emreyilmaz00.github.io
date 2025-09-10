@@ -7,16 +7,17 @@ nav: true
 nav_order: 3
 ---
  
-   <article>
-      <div class="cv">
-        {% for data in site.data.resume %}
-          {% if site.jsonresume and site.jsonresume.size > 0 %}
-            {% unless site.jsonresume contains data[0] %}
-              {% continue %}
+<article>
+<div class="cv">
+{% for data in site.data.resume %}
+    {% if site.jsonresume and site.jsonresume.size > 0 %}
+        {% unless site.jsonresume contains data[0] %}
+            {% continue %}
             {% endunless %}
-          {% endif %}
-          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
-              {% case data[0] %}
+         {% endif %}
+    {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} 
+    
+{% case data[0] %}
                 {% when 'review' %}
                   <a class="anchor" id="{{ data[0] }}"></a>
                   <div class="card mt-3 p-3">
@@ -34,10 +35,13 @@ nav_order: 3
                  </div>
                  </div>
                 {% else %}
+{% endcase %}
 
-   {% endcase %}
-   {% endfor %}
-  </div>
+{% endif %}
+
+{% endfor %}
+</div>
 </article>
     
+
 
