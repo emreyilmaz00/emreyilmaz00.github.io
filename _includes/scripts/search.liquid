@@ -72,7 +72,8 @@
           {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
-      <!--{%- for post in site.posts -%}
+      <!--
+{%- for post in site.posts -%}
         {
           {%- assign title = post.title | escape | strip -%}
           id: "post-{{ title | slugify }}",
@@ -95,7 +96,8 @@
             {% endif %}
           },
         },
-      {%- endfor -%} -->
+      {%- endfor -%} 
+-->
       {%- for collection in site.collections -%}
         {%- if collection.label != 'posts' -%}
           {%- for item in collection.docs -%}
