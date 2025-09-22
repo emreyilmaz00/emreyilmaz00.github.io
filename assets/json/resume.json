@@ -79,21 +79,21 @@
       "date": "",
       "issuer": "IEEE",
       "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Aerospace Science and Technology",
       "date": "",
       "issuer": "Elsevier",
       "url": "https://www.sciencedirect.com/journal/aerospace-science-and-technology",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Journal of Turbomachinery",
       "date": "",
       "issuer": "ASME",
       "url": "https://www.asme.org/publications-submissions/journals/find-journal/journal-turbomachinery",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "AIAA Journal",
@@ -107,7 +107,7 @@
       "date": "",
       "issuer": "Elsevier",
       "url": "https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "education": [
@@ -249,21 +249,21 @@
       "name": "Data-Driven Aerodynamic Modeling",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Deep Learning Applications"
+        "Deep Learning"
       ]  
     },
     {
       "name": "Flight Dynamics and Control",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "--"
+        " "
       ]  
     },
     {
       "name": "Multidisciplinary Design, Analysis, and Optimization (MDAO)",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "--"
+        " "
       ]  
     },
     {
