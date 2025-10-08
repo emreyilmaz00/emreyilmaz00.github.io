@@ -16,8 +16,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 My research focuses on:
-- data-driven aerodynamic modeling
+- data-driven aerodynamics modeling
 - multidisciplinary optimization for safe and autonomous flight
+- flight dynamics
 
 The specific applications include:
 - wind tunnel and flight testing
