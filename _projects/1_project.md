@@ -47,8 +47,9 @@ Specifically, I focus on the following subjects:
 </div>
 
 <video loop controls='true' width='100%' height='100%'>      
-   <source src='assets/video/la8_ff.mp4' type='video/mp4'>
+   <source src="assets/video/la8_ff.mp4" type='video/mp4'>
 </video>
+
 
 
 
