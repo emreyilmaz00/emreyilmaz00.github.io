@@ -5,15 +5,15 @@ description: Control Allocation, Hybrid-Automata, Path Planning, Contingency Pla
 img: assets/img/evtol0.png
 importance: 1
 category: Ph.D. (Georgia Tech)
-related_publications: yilmaz23phd
+related_publications: true
 
 ---
 
 **Introduction**
 
-With the introduction of novel eVTOL aircraft, the complexity in aircraft design and air space management will drastically increase. Safety and efficiency concerns must be solved before successful commercial flight operations can begin. In my research related to eVTOL aircraft, the objective is to respond to these concerns by formulating and solving optimization problems that will help enabling these technologies.  
+With the introduction of novel eVTOL aircraft and drones into air space, the complexity in aircraft design and air space management will drastically increase. Safety and efficiency concerns must be solved before successful commercial flight operations can begin. In my research related to eVTOL aircraft, the objective is to respond to these concerns by formulating and solving optimization problems that can help enabling these technologies.  
 
-Specifically, I focus on the following subjects:
+Specifically, I focused on the following subjects in my PhD thesis {% cite yilmaz23phd %}:
   - eVTOL Aircraft Flight Dynamics and Performance Modeling
   - Control Allocation Optimization for Over-Actuated eVTOL Aircraft
   - Hybrid Automaton-Based Planning
@@ -49,6 +49,7 @@ Specifically, I focus on the following subjects:
 <video loop controls='true' width='100%' height='100%'>      
    <% include video.liquid path="assets/video/la8_ff.mp4" type='video/mp4'>
 </video>
+
 
 
 
