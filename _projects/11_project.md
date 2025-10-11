@@ -42,9 +42,8 @@ related_publications: true
 </div>
 -->
 
-**Conditional Generative Adversarial Network Framework for Airfoil Inverse Design**
-{% cite yilmaz20 %}
-<!-- - A game theoretic framework was investigated by training conditional generative adversarial networks (CGANs) to generate airfoil shapes given the desired airfoil performance criteria. 
+<!-- Conditional Generative Adversarial Network Framework for Airfoil Inverse Design
+ - A game theoretic framework was investigated by training conditional generative adversarial networks (CGANs) to generate airfoil shapes given the desired airfoil performance criteria. 
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a>.
  - **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
