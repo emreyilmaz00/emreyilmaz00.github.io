@@ -10,9 +10,8 @@ related_publications: true
 ---
 
 **A Convolutional Neural Network Approach for Training Predictors for Airfoil Performance**
-{% cite yilmaz17 %}
  - Medium-fidelity predictors were trained for predicting airfoil performance using deep convolutional neural networks. The framework was implemented in Tensorflow. 
- - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a>.
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a> {% cite yilmaz17 %}.
   
 <div class="row">
     <div class="col-sm-12 mt-3 mt-md-0">
@@ -25,9 +24,8 @@ related_publications: true
 
 
 **A Deep Learning Approach to an Airfoil Inverse Desing Problem**
-{% cite yilmaz18 %}
  - Airfoil inverse problem was reformulated and solved using a framework constructed with deep convolutional neural networks.
- - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2018-3420">AIAA Aviation'18</a>.
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2018-3420">AIAA Aviation'18</a> {% cite yilmaz18 %}.
    
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -43,9 +41,8 @@ related_publications: true
 
 
 **Conditional Generative Adversarial Network Framework for Airfoil Inverse Design**
-{% cite yilmaz20 %}
  - A game theoretic framework was investigated by training conditional generative adversarial networks (CGANs) to generate airfoil shapes given the desired airfoil performance criteria. 
- - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a>.
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a> {% cite yilmaz20 %}.
  - **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
 
@@ -63,4 +60,5 @@ related_publications: true
 <div class="caption">
     Airfoil Shape Generation by the Generator in GAN Framework Shown at Different Epochs
 </div>
+
 
