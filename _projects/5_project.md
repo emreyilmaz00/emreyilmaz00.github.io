@@ -5,12 +5,13 @@ description: Landing Approach Surfaces Performance, Constraint, and Accuracy Ana
 img: /assets/img/land1.jpg
 importance: 3
 category: Ph.D. (Georgia Tech)
-related_publications: yilmaz19
+related_publications: true
 ---
 
  - Landing approach surfaces design and performance analysis in terms of energy, power, and time 
  - Constraint analysis considering inflow modeling, vortex ring state (VRS), acceleration limits, h-V (dead man's) diagram, speed limits, obstacles, and FAA regulations
  - Landing simulations under turbulence using retrofitted tilt-wing flight dynamic models and landing accuracy analysis via circular error probables
+ - Published a conference paper. {% cite yilmaz19 %}
   
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -50,3 +51,4 @@ related_publications: yilmaz19
 <div class="caption">
    The Obstacle Constraint on the Speed-Approach Angle figures and the Influence of Turbulence on Operations
 </div>
+
