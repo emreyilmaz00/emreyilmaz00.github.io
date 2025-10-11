@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: <!---The projects I was involved in during my Ph.D. studies at Georgia Tech and M.S and B.S years at ODTU/METU--->
+description: <!---The projects I was involved in during my stay as a research scientist at DLR, my Ph.D. years at Georgia Tech, and M.S and B.S years at ODTU/METU--->
 nav: true
 nav_order: 1
-display_categories: [Ph.D. (Georgia Tech),Master of Science (ODTU/METU),Bachelor of Science (ODTU/METU)]
+display_categories: [Research Scientist (DLR), Ph.D. (Georgia Tech),Master of Science (ODTU/METU),Bachelor of Science (ODTU/METU)]
 horizontal: false
 ---
 
@@ -66,3 +66,4 @@ Click on the project photos to get more information!
   {% endif %}
 
 </div>
+
