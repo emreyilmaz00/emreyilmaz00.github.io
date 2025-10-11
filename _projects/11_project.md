@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Driven Aerodynamics
+title: Data Driven Approaches for Aerodynamics Applications
 description: Transfer Learning, Deep Learning Applications to Onflow Parameter Prediction, Wind Tunnel Tests, CFD
 img: /assets/img/whycnn.png
 importance: 1
@@ -11,7 +11,7 @@ related_publications: true
 
 **A Transfer Learning Approach to Predicting Onflow Parameters for Domain and Task Adaptation**
 {% cite yilmaz25jb %}
- - Medium-fidelity predictors were trained for predicting airfoil performance using deep convolutional neural networks. The framework was implemented in Tensorflow. 
+<!-- - Medium-fidelity predictors were trained for predicting airfoil performance using deep convolutional neural networks. The framework was implemented in Tensorflow. 
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a>.
   
 <div class="row">
@@ -21,12 +21,12 @@ related_publications: true
 </div>
 <div class="caption">
      The Application of Deep Convolutional Neural Networks to Airfoil Performance Prediction
-</div>
+</div> -->
 
 
 **A Transfer Learning Approach to Predicting Onflow Parameters During Wind Tunnel Tests**
 {% cite yilmaz25 %}
- - Airfoil inverse problem was reformulated and solved using a framework constructed with deep convolutional neural networks.
+ <!-- - Airfoil inverse problem was reformulated and solved using a framework constructed with deep convolutional neural networks.
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2018-3420">AIAA Aviation'18</a>.
    
 <div class="row justify-content-sm-center">
@@ -40,11 +40,11 @@ related_publications: true
 <div class="caption">
       The Application of Deep Convolutional Neural Networks to Airfoil Inverse Design
 </div>
-
+-->
 
 **Conditional Generative Adversarial Network Framework for Airfoil Inverse Design**
 {% cite yilmaz20 %}
- - A game theoretic framework was investigated by training conditional generative adversarial networks (CGANs) to generate airfoil shapes given the desired airfoil performance criteria. 
+<!-- - A game theoretic framework was investigated by training conditional generative adversarial networks (CGANs) to generate airfoil shapes given the desired airfoil performance criteria. 
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a>.
  - **Funding Proposal Experience** <br/>
  -_ARPA-E_: DIFFERENTIATE (Design Intelligence Fostering Formidable Energy Reduction and Enabling Novel Totally Impactful Advanced Technology Enhancements) Program.
@@ -63,5 +63,4 @@ related_publications: true
 <div class="caption">
     Airfoil Shape Generation by the Generator in GAN Framework Shown at Different Epochs
 </div>
-
-
+-->
