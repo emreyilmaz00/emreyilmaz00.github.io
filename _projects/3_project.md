@@ -6,7 +6,7 @@ tags: formatting toc
 img: assets/img/traj2.png  
 importance: 3
 category: Ph.D. (Georgia Tech)
-related_publications: yilmaz21
+related_publications: true
 toc:
   sidebar: left
 ---
@@ -53,7 +53,7 @@ We solved high-capacity urban air traffic optimization problems using model pred
 
   Inspired by the success of DeepMind’s deep reinforcement learning algorithm, <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules">MuZero</a>, in mastering games without any knowledge about the rules and the environment, we investigated the feasibility of using MuZero for AAM research by casting the dynamic obstacle avoidance problem as a game.
  
- - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2377">AIAA AVIATION'21</a>
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2377">AIAA AVIATION'21</a> {% cite yilmaz21 %}
   
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -69,8 +69,8 @@ We solved high-capacity urban air traffic optimization problems using model pred
 
 In this project led by Kotwicz Herniczek, corridor design problems were formulated as minimum cost multi-commodity flow problems. The goal is to generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size using linear programming (LP) and mixed integer linear programming (MILP). 
     
- - Co-authored a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2376">[AIAA'21b]</a>
- - Co-authored a journal paper: <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a>
+ - Co-authored a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2376">[AIAA'21b]</a> {% cite kotwicz21 %}
+ - Co-authored a journal paper: <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a> {% cite kotwicz22 %}
 
 
 ## Pseudospectral Methods
@@ -78,3 +78,4 @@ In this project led by Kotwicz Herniczek, corridor design problems were formulat
 Pseudospectral methods were explored to achieve minimum time multi agent paths using using OpenMDAO, Dymos, and SNOPT.
  
 Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
+
