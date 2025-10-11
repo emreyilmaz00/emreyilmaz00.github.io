@@ -5,7 +5,7 @@ description: Fault Tree Analysis, The Propagation of Statistical Moments, Resour
 img: /assets/img/fta_main.png
 importance: 3
 category: Ph.D. (Georgia Tech)
-related_publications: yilmaz23
+related_publications: true
 ---
 
    - The prior information at the basic event levels can vary notably in fault trees.
@@ -15,7 +15,7 @@ related_publications: yilmaz23
    - Constrained optimization problems are formulated to improve system safety.
    - The optimization problem is solved using augmented Lagrangian approach.
 
- -Published a journal paper in <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832022004902">Journal of Reliability and System Safety</a>.
+ -Published a journal paper in <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832022004902">Journal of Reliability and System Safety</a> {% cite yilmaz23 %}.
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -28,3 +28,4 @@ related_publications: yilmaz23
 <div class="caption">
  Sensitivity Analysis and Optimization Iterations
 </div>
+
