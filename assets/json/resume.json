@@ -116,21 +116,24 @@
       "url": "https://www.gatech.edu/",
       "studyType": "PhD, Aerospace Engineering, Georgia Institute of Technology",
       "startDate": "2014",
-      "endDate": "2023"
+      "endDate": "2023",
+      "preview": "gt.png"
     },
     {
       "location": "Ankara, Turkey",
       "url": "https://www.metu.edu.tr/",
       "studyType": "MSc, Aerospace Engineering, Middle East Technical University",
       "startDate": "2011",
-      "endDate": "2014"
+      "endDate": "2014",
+      "preview": "odtu.png"  
     },
     {
       "location": "Ankara, Turkey",
       "url": "https://www.metu.edu.tr/",
       "studyType": "BSc, Aerospace Engineering, Middle East Technical University",
       "startDate": "2006",
-      "endDate": "2011"
+      "endDate": "2011",
+      "preview": "odtu.png"
     }
   ],
   "awards": [
