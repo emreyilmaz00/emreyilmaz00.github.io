@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 My research focuses on:
-- data-driven aerodynamics modeling
+- data-driven aerodynamic modeling
 - multidisciplinary optimization for safe and autonomous flight
 - flight dynamics
 
