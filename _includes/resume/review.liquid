@@ -1,35 +1,43 @@
-<div class="list-groups">
-  {% assign review = data[1] | sort: 'date' | reverse %}
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% assign review = data[1] | sort: 'startDate' | reverse %}
   {% for content in review %}
-    <div class="list-group col-md-6">
-      <table class="table-cv list-group-table">
-        <tbody>
-          <tr>
-            {% if content.icon %}
-              <td class="list-group-category-icon">
-                <i class="{{ content.icon }}"></i>
-              </td>
-            {% else %}
-              <td class="list-group-category-icon"></td>
-            {% endif %}
-            <!-- Calculate colspan number for category title -->
-            {% assign i = 1 %}
-            {% for item in content.items %}
-              {% assign i = i | plus: 1 %}
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+{% if site.enable_publication_thumbnails %}
+      {% if content.preview %}
+        {% if content.preview contains '://' %}
+          <img class="preview z-depth-1 rounded" src="{{ content.preview }}">
+        {% else %}
+          {% assign entry_path = content.preview | prepend: '/assets/img/publication_preview/' %}
+          {%
+            include figure.liquid
+            loading="eager"
+            path=entry_path
+            sizes = "200px"
+            class="preview z-depth-1 rounded"
+            zoomable=true
+            alt=content.preview
+          %}
+        {% endif %}
+      {% endif %}
+  {% endif %}
+        </div>
+        <div class="col-xs-8 cl-sm-8 col-md-8 mt-2 mt-md-0">
+          <h6 class="title font-weight-bold ml-1 ml-md-4">
+            <a href="{{ content.url }}">{{ content.studyType }}</a>
+          </h6>
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.name }}</h6>
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
+          <ul class="items">
+            {% for item in content.courses %}
+              <li>
+                <span class="item">{{ item }}</span>
+              </li>
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">
-              <a href="{{ content.url | default: # }}">{{ content.name }}</a>
-            </td>
-          </tr>
-          <tr>
-            <td></td>
-            <td class="list-group-name">
-              <b>{{ content.issuer }}</b>
-            </td>
-            <td class="list-group-name">{{ content.date }}</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+          </ul>
+        </div>
+      </div>
+    </li>
   {% endfor %}
-</div>
+</ul>
