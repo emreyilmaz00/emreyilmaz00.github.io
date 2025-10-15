@@ -2,7 +2,7 @@
 layout: page
 title: Data Driven Approaches for Aerodynamics Applications
 description: Transfer Learning, Deep Learning Applications to Onflow Parameter Prediction, Wind Tunnel Tests, CFD
-img: /assets/img/whycnn.png
+img: /assets/img/cfd2wt.png
 importance: 1
 category: Research Scientist (DLR)
 related_publications: true
