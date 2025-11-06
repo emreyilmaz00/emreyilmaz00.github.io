@@ -2,7 +2,7 @@
 layout: page
 title: Internship Projects
 description: Propulsion System Optimization, Turbo Jet Powered UAV-Performance, and Literature Survey for Hypersonic Vehicles
-img: /assets/img/intern.png
+img: /assets/img/intern1.pdf
 importance: 2
 category: Bachelor of Science (ODTU/METU)
 ---
@@ -20,3 +20,4 @@ category: Bachelor of Science (ODTU/METU)
 **Literature Survey for Hypersonic Vehicle Concepts [Summer 2010]** 
  
  - Investigated hypersonic vehicle concepts and their design philosophy 
+
