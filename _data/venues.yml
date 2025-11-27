@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"AVIATION":
+  url: https://www.aiaa.org/aviation
+  color: "#4B0082"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"RESS":
+  url: https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety
+  color: "#00FFFF"
 
-"Vision":
-  color: "#009f36"
+"JAT":
+  url: https://arc.aiaa.org/journal/jat
+  color: "#000080"
+  
+"INFORMS":
+  url: https://www.informs.org/
+  color: "#C0C0C0"
+
+"AST":
+  url: https://www.sciencedirect.com/journal/aerospace-science-and-technology
+  color: "#48D1CC"
+
+#"AIAAJ":
+#  url: https://arc.aiaa.org/journal/aiaaj
+#  color: "#000082"
