@@ -9,20 +9,20 @@ display_categories: [work, fun]
 horizontal: false
 dropdown: true
 children:
-  - title: Project-1
-    permalink: /projects/1_project/
+  - title: Projects
+    permalink: /projects/
   - title: divider
   - title: Project-1
     permalink: /projects/1_project/
   - title: divider
-  - title: Project-1
-    permalink: /projects/1_project/
+  - title: Project-2
+    permalink: /projects/2_project/
   - title: divider
-  - title: Project-1
-    permalink: /projects/1_project/
+  - title: Project-3
+    permalink: /projects/3_project/
   - title: divider
-  - title: Project-1
-    permalink: /projects/1_project/
+  - title: Project-4
+    permalink: /projects/4_project/
   - title: divider
 ---
 
