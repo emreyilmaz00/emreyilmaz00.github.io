@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"yilmaz":
+  - firstname: ["Emre", "E.", "Emre Yılmaz"]
+    url: https://emreyilmaz00.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"german":
+  - firstname: ["Brian", "B.", "B. J.", "Brian J."]
+    url: https://bgerman.ae.gatech.edu/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"kutay":
+  - firstname: ["Ali", "A.", "A. T.", "Ali T."]
+    url: https://avesis.metu.edu.tr/kutay/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kotwicz-herniczek":
+  - firstname: ["Mark", "M."]
+    url: https://www.researchgate.net/profile/Mark-Kotwicz-Herniczek
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"sanni":
+  - firstname: ["Olatunde", "O."]
+    url: https://github.com/olasanni1
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"warren":
+  - firstname: ["Matthew", "M."]
+    url: https://matthewmwarren.com/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"pritchett":
+  - firstname: ["Amy", "Amy R.", "A. R."]
+    url: https://www.aero.psu.edu/department/directory-detail-g.aspx?q=arp78
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"bekemeyer":
+  - firstname: ["Philipp", "P."]
+    url: https://www.researchgate.net/profile/Philipp-Bekemeyer
