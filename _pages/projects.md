@@ -8,6 +8,22 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 dropdown: true
+children:
+  - title: Project-1
+    permalink: /projects/1_project/
+  - title: divider
+  - title: Project-1
+    permalink: /projects/1_project/
+  - title: divider
+  - title: Project-1
+    permalink: /projects/1_project/
+  - title: divider
+  - title: Project-1
+    permalink: /projects/1_project/
+  - title: divider
+  - title: Project-1
+    permalink: /projects/1_project/
+  - title: divider
 ---
 
 <!-- pages/projects.md -->
