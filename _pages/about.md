@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Aerospace Engineer</a>. Research Scientist.  
 
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website! My name is Emre. I am a research scientist at the Institute of Aerodynamics and Flow Technology at German Aerospace Center (DLR).
+Welcome to my personal website! I am a research scientist at German Aerospace Center (DLR) - the Institute of Aerodynamics and Flow Technology.
 
 My research focuses on:
 - data-driven aerodynamic modeling
