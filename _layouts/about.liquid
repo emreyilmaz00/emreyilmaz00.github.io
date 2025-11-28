@@ -41,7 +41,7 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- Education -->
-    {% if page.education %}
+    {% if site.education.enabled %}
       <h2>
         <a href="{{ '/education/' | relative_url }}" style="color: inherit">Education</a>
       </h2>
