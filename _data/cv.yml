@@ -3,49 +3,48 @@
   contents:
     - name: Full Name
       value: Dr. Emre Yılmaz
-    - name: Languages
-      value: English, German, Turkish
+#    - name: Languages
+#      value: English, German, Turkish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Georgia Institute of Technology, Atlanta, GA, USA
-      year: 1923
-      description:
-        - 
-        - 
-        - title: 
-          contents:
-            - 
-            - 
+      year: 2023
+      description: Aerospace Engineering
+#        - Aerospace Engineering
+#        - title: 
+#          contents:
+#            - 
+#            - 
     - title: MSc
       institution: METU, Ankara, Turkey
       year: 2014
-      description:
-        -
+      description: Aerospace Engineering
+#        - Aerospace Engineering
     - title: BSc
       institution: METU, Ankara, Turkey
       year: 2011
-      description: Aerospace Engineering
-        -
+      description: Aerospace Engineering 
+#        - 
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Scientist
       institution: German Aerospace Center (DLR), Institute of Aerodynamics and Flow Technology
-      year: 2023 - 
-      description:
-        - 
-        - title: 
-          contents:
-            - 
+      year: 2023 - now
+#      description:
+#       - 
+#        - title: 
+#          contents:
+#            - 
     - title: Graduate Research Assistant
       institution: Georgia Institute of Technology, Atlanta, GA, USA
       year: 2016-2023
-      description:
-        - 
+#      description:
+#        - 
 
     - title: Graduate Teaching Assistant
       institution: Georgia Institute of Technology, Atlanta, GA, USA
@@ -54,40 +53,40 @@
     - title: Graduate Research Asssistant
       institution: METU, Ankara, Turkey
       year: 2011-2014
-      description:
+#      description:
 
     - title: Intern
       institution: Turkish Aerospace, Ankara, Turkey
       year: 2009
 
-- title: Web Projects
-  type: time_table
-  contents:
-    - title: <a href="https://emreyilmaz00.github.io">personal website</a>
-      year: 2015
-      description: 
+# - title: Web Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://emreyilmaz00.github.io">personal website</a>
+#      year: 2015
+#      description: 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 
-      items:
-        -
-    - year: 
-      items:
-        - 
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 
+#       items:
+#         -
+#     - year: 
+#       items:
+#         - 
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Data-Driven Aerodynamics.
-      items:
-        - Description 1.
+#      items:
+#        - Description 1.
     - title: Flight Mechanics and Control.
-      items:
-        - Description 1.
+#      items:
+#        - Description 1.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> 
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> 
