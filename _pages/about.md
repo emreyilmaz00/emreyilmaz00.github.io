@@ -18,9 +18,9 @@ social: true # includes social icons at the bottom of the page
 Welcome to my personal website! I am a research scientist at German Aerospace Center (DLR) - Institute of Aerodynamics and Flow Technology.
 
 My research focuses on:
-- data-driven aerodynamic modeling
+- data-driven aerodynamics
 - multidisciplinary optimization for safe and autonomous flight
-- flight dynamics
+- flight dynamics and control
 
 The specific applications include:
 - wind tunnel and flight testing
