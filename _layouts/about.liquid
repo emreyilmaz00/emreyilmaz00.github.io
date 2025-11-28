@@ -41,7 +41,7 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- CV -->
-    {% if site.about_cv.enabled %}<article>
+    <article>
       <div class="cv">
       {% for data in site.data.resume %}
         {% if site.jsonresume and site.jsonresume.size > 0 %}
@@ -81,7 +81,6 @@ layout: default
         {% endfor %}
       </div>
     </article>
-    {% endif %}
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
