@@ -9,24 +9,24 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD, Aerospace Engineering
       institution: Georgia Institute of Technology, Atlanta, GA, USA
       year: 2023
-      description: Aerospace Engineering
+#      description: 
 #        - Aerospace Engineering
 #        - title: 
 #          contents:
 #            - 
 #            - 
-    - title: MSc
+    - title: MSc, Aerospace Engineering
       institution: METU, Ankara, Turkey
       year: 2014
-      description: Aerospace Engineering
+#      description: Aerospace Engineering
 #        - Aerospace Engineering
-    - title: BSc
+    - title: BSc, Aerospace Engineering
       institution: METU, Ankara, Turkey
       year: 2011
-      description: Aerospace Engineering 
+#      description: Aerospace Engineering 
 #        - 
 
 - title: Experience
