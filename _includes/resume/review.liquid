@@ -1,0 +1,45 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% assign review = data[1] | sort: 'startDate' | reverse %}
+  {% for content in review %}
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      {% if site.enable_publication_thumbnails %}
+      {% if content.preview %}
+        {% if content.preview contains '://' %}
+          <img class="preview z-depth-1 rounded" src="{{ content.preview }}">
+        {% else %}
+          {% assign entry_path = content.preview | prepend: '/assets/img/publication_preview/' %}
+          {%
+            include figure.liquid
+            loading="eager"
+            path=entry_path
+            sizes = "200px"
+            class="preview z-depth-1 rounded"
+            zoomable=true
+            alt=content.preview
+          %}
+        {% endif %}
+      {% endif %}
+  {% endif %}
+        </div>
+        <div class="col-xs-8 cl-sm-8 col-md-8 mt-2 mt-md-0">
+      <table class="table-cv list-group-table">
+        <tbody>
+          <tr>
+            <!-- Calculate colspan number for category title -->
+            {% assign i = 1 %}
+            {% for item in content.items %}
+              {% assign i = i | plus: 1 %}
+            {% endfor %}
+            <td colspan="{{ i }}" class="list-group-category">
+              <a href="{{ content.url | default: # }}">{{ content.name }}</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
