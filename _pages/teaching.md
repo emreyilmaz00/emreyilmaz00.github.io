@@ -20,7 +20,3 @@ nav_order: 6
 <i>Supporting Lab Assistant:</i> 
    - Flight Dynamics <a href="https://ocw.metu.edu.tr/pluginfile.php/24002/mod_resource/content/1/Syll_2017.pdf">[AE 372]</a>
    - Aerospace Engineering Laboratory <a href="https://catalog.metu.edu.tr/course.php?prog=572&course_code=5720410">[AE 410]</a>
-
-<!--For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!--!>
