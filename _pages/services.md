@@ -34,7 +34,6 @@ nav_order: 6
                   {% include resume/volunteer.liquid %}
                  </div>
                  </div>
-                {% else %}
 {% endcase %}
 
 
