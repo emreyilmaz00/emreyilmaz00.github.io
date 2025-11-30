@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Transfer Learning Approach for Aerodynamics Applications
+description: Transfer Learning, Deep Learning, Wind Tunnel Tests 
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Research (DLR)
 related_publications: true
 ---
 
