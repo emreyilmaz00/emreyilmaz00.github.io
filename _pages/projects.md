@@ -5,23 +5,23 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [dlr, phd, ms, bs]
 horizontal: false
 dropdown: true
 children:
   - title: Projects (List)
     permalink: /projects/
   - title: divider
-  - title: Project-1
+  - title: Projects (DLR)
     permalink: /projects/1_project/
   - title: divider
-  - title: Project-2
+  - title: Projects (Ph.D.)
     permalink: /projects/2_project/
   - title: divider
-  - title: Project-3
+  - title: Projects (M.Sc.)
     permalink: /projects/3_project/
   - title: divider
-  - title: Project-4
+  - title: Projects (B.Sc.)
     permalink: /projects/4_project/
   - title: divider
 ---
