@@ -13,11 +13,11 @@
             {% assign date = null %}
           {% endif %}
 
-      {% if entry.preview %}
-        {% if entry.preview contains '://' %}
-          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+      {% if content.preview %}
+        {% if content.preview contains '://' %}
+          <img class="preview z-depth-1 rounded" src="{{ content.preview }}">
         {% else %}
-          {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
+          {% assign entry_path = content.preview | prepend: '/assets/img/publication_preview/' %}
           {%
             include figure.liquid
             loading="eager"
