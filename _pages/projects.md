@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Research (DLR), phd, ms, bs]
+display_categories: [Research (DLR), Ph.D. (Georgia Tech), M.Sc. (METU), B.Sc. (METU)]
 horizontal: false
 dropdown: true
 children:
