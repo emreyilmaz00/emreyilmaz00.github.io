@@ -59,8 +59,8 @@ ninja.data = [{
                 window.location.href = "/projects/4_project/";
               },
             },{id: "nav-cv",
-          title: "CV",
-          description: "",
+          title: "cv",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
