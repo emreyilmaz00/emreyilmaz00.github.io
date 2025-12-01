@@ -6,87 +6,87 @@
 #    - name: Languages
 #      value: English, German, Turkish
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD, Aerospace Engineering
-      institution: Georgia Institute of Technology, Atlanta, GA, USA
-      year: 2023
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD, Aerospace Engineering
+#       institution: Georgia Institute of Technology, Atlanta, GA, USA
+#       year: 2023
 #      description: 
 #        - Aerospace Engineering
 #        - title: 
 #          contents:
 #            - 
 #            - 
-    - title: MSc, Aerospace Engineering
-      institution: METU, Ankara, Turkey
-      year: 2014
-#      description: Aerospace Engineering
-#        - Aerospace Engineering
-    - title: BSc, Aerospace Engineering
-      institution: METU, Ankara, Turkey
-      year: 2011
+#     - title: MSc, Aerospace Engineering
+#       institution: METU, Ankara, Turkey
+#       year: 2014
+# #      description: Aerospace Engineering
+# #        - Aerospace Engineering
+#     - title: BSc, Aerospace Engineering
+#       institution: METU, Ankara, Turkey
+#       year: 2011
 #      description: Aerospace Engineering 
 #        - 
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Scientist
-      institution: German Aerospace Center (DLR), Institute of Aerodynamics and Flow Technology
-      year: 2023 - now
-#      description:
-#       - 
-#        - title: 
-#          contents:
-#            - 
-    - title: Graduate Research Assistant
-      institution: Georgia Institute of Technology, Atlanta, GA, USA
-      year: 2016-2023
-#      description:
-#        - 
-
-    - title: Graduate Teaching Assistant
-      institution: Georgia Institute of Technology, Atlanta, GA, USA
-      year: 2014-2016
-
-    - title: Graduate Research Asssistant
-      institution: METU, Ankara, Turkey
-      year: 2011-2014
-#      description:
-
-    - title: Intern
-      institution: Turkish Aerospace, Ankara, Turkey
-      year: 2009
-
-# - title: Web Projects
-#  type: time_table
-#  contents:
-#    - title: <a href="https://emreyilmaz00.github.io">personal website</a>
-#      year: 2015
-#      description: 
-
-# - title: Honors and Awards
+# - title: Experience
 #   type: time_table
 #   contents:
-#     - year: 
-#       items:
-#         -
-#     - year: 
-#       items:
-#         - 
+#     - title: Research Scientist
+#       institution: German Aerospace Center (DLR), Institute of Aerodynamics and Flow Technology
+#       year: 2023 - now
+# #      description:
+# #       - 
+# #        - title: 
+# #          contents:
+# #            - 
+#     - title: Graduate Research Assistant
+#       institution: Georgia Institute of Technology, Atlanta, GA, USA
+#       year: 2016-2023
+# #      description:
+# #        - 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Data-Driven Aerodynamics.
-#      items:
-#        - Description 1.
-    - title: Flight Mechanics and Control.
-#      items:
-#        - Description 1.
+#     - title: Graduate Teaching Assistant
+#       institution: Georgia Institute of Technology, Atlanta, GA, USA
+#       year: 2014-2016
 
-# - title: Other Interests
-#   type: list
+#     - title: Graduate Research Asssistant
+#       institution: METU, Ankara, Turkey
+#       year: 2011-2014
+# #      description:
+
+#     - title: Intern
+#       institution: Turkish Aerospace, Ankara, Turkey
+#       year: 2009
+
+# # - title: Web Projects
+# #  type: time_table
+# #  contents:
+# #    - title: <a href="https://emreyilmaz00.github.io">personal website</a>
+# #      year: 2015
+# #      description: 
+
+# # - title: Honors and Awards
+# #   type: time_table
+# #   contents:
+# #     - year: 
+# #       items:
+# #         -
+# #     - year: 
+# #       items:
+# #         - 
+
+# - title: Academic Interests
+#   type: nested_list
 #   contents:
-#     - <u>Hobbies:</u> 
+#     - title: Data-Driven Aerodynamics.
+# #      items:
+# #        - Description 1.
+#     - title: Flight Mechanics and Control.
+# #      items:
+# #        - Description 1.
+
+# # - title: Other Interests
+# #   type: list
+# #   contents:
+# #     - <u>Hobbies:</u> 
