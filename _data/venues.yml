@@ -18,6 +18,16 @@
   url: https://www.sciencedirect.com/journal/aerospace-science-and-technology
   color: "#48D1CC"
 
-#"AIAAJ":
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
+
+"Vision":
+  color: "#009f36"
+  
+# "AIAAJ":
 #  url: https://arc.aiaa.org/journal/aiaaj
 #  color: "#000082"
