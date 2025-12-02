@@ -56,6 +56,7 @@ layout: default
 #                <div>
 --->
               {% case data[0] %}
+
                 {% when 'education' %}
       <a class="anchor" id="{{ data[0] }}"></a>
       <div class="card mt-3 p-3">
@@ -64,6 +65,7 @@ layout: default
                   {% include resume/education.liquid %}
       </div>
       </div>
+
                 {% when 'work' %}
       <a class="anchor" id="{{ data[0] }}"></a>
       <div class="card mt-3 p-3">
@@ -72,6 +74,7 @@ layout: default
                   {% include resume/work.liquid %}
       </div>
       </div>
+
                 {% when 'interests' %}
       <a class="anchor" id="{{ data[0] }}"></a>
       <div class="card mt-3 p-3">
