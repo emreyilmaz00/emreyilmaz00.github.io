@@ -103,9 +103,9 @@ ninja.data = [{
           description: "Control Allocation, Hybrid-Automata, Path Planning, Contingency Planning, Flight Dynamics Modeling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-data-driven-aerodynamics",
+          title: 'Data-Driven Aerodynamics',
+          description: "Deep Learning Applications to Airfoil Performance Prediction and Inverse Design, Deep ConvNets, cGANs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
