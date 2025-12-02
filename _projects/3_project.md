@@ -10,6 +10,7 @@ related_publications: true
 toc:
   sidebar: left
 ---
+
 **A Convolutional Neural Network Approach for Training Predictors for Airfoil Performance**
  - Medium-fidelity predictors were trained for predicting airfoil performance using deep convolutional neural networks. The framework was implemented in Tensorflow. 
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a> {% cite yilmaz17 %}.
