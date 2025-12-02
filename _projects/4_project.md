@@ -1,80 +1,80 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Advanced Air Mobility
+description: Multi Agent Path Planning, MPC, Deep RL, MuZero, Pseudospectral Methods 
 img:
 importance: 3
 category: Ph.D. (Georgia Tech)
+related_publications: true
+toc:
+  sidebar: left
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+AAM/UAM air traffic management problems were formulated and solved via various optimization approaches. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Model Predictive Control Approach
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+We solved high-capacity urban air traffic optimization problems using model predictive control with constraint aggregation techniques. In a multi-agent environment, agent trajectories were optimized based on origin-destination pairs for the following optimization paradigms: 
+  - Centralized optimization at each time step 
+  - Sequential optimization at each time step
+  - Sequential optimization for the entire flight trajectory
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/mpc_aam.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+   AAM/UAM Air Traffic Optimization Using Model Predictive Control (MPC) and Constraint Aggregation
+</div>
+
+<div class="caption">
+    The multi-agent path planning problem is being solved at each time instant using centralized MPC framework)  
+</div> 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mpc1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mpc2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mpc3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+    Optimal Paths at Various Time Steps (The planning problem is initialized in a symmetric manner and solved using centralized MPC framework)  
+</div> 
+ 
+ 
+## Deep Reinforcement Learning Approach
+
+  Inspired by the success of DeepMind’s deep reinforcement learning algorithm, <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules">MuZero</a>, in mastering games without any knowledge about the rules and the environment, we investigated the feasibility of using MuZero for AAM research by casting the dynamic obstacle avoidance problem as a game.
+ 
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2377">AIAA AVIATION'21</a> {% cite yilmaz21 %}
+  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/muzero0.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Dynamic Obstacle Avoidance Achieved by Path Planning Networks Trained Using the MuZero Algorithm  
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Mixed Integer Linear Programming 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+In this project led by Kotwicz Herniczek, corridor design problems were formulated as minimum cost multi-commodity flow problems. The goal is to generate a corridor network that is globally optimum in terms of trip length, airspace complexity, and corridor network size using linear programming (LP) and mixed integer linear programming (MILP). 
+    
+ - Co-authored a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2021-2376">[AIAA'21b]</a> {% cite kotwicz21 %}
+ - Co-authored a journal paper: <a href="https://arc.aiaa.org/journal/jat">[AIAA JAT]</a> {% cite kotwicz22 %}
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Pseudospectral Methods
 
-{% endraw %}
+Pseudospectral methods were explored to achieve minimum time multi agent paths using using OpenMDAO, Dymos, and SNOPT.
+ 
+Contributed to <a href="https://olasanni1.github.io/ETOL/index.html">Extensible Trajectory Optimization Library (ETOL)</a> for Dymos integration
+
