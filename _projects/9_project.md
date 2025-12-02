@@ -23,6 +23,3 @@ category: B.Sc. (METU)
 <div class="caption">
     RC-UAV aircraft built for the competitions are shown in the photos. (Left: Anatolian-Craft DBF'10-11, Middle: Anatolian-Craft DBF'10-11, Right: Anatolian-Craft ACC'11)
 </div>
-```
-
-{% endraw %}
