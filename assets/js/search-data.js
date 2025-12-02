@@ -135,7 +135,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-rc-uav-projects",
           title: 'RC-UAV Projects',
-          description: "aRC-UAV Design, Building, and Flight Tests, Aerodynamic, Flight Dynamic and Propulsion System Optimization",
+          description: "RC-UAV Design, Building, and Flight Tests, Aerodynamic, Flight Dynamic and Propulsion System Optimization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
