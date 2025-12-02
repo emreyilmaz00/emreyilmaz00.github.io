@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transfer Learning Approach for Aerodynamics Applications
+title: Transfer Learning for Aerodynamics Applications
 description: Transfer Learning, Deep Learning, Wind Tunnel Tests 
 img: assets/img/cfd2wt.png
 importance: 1
