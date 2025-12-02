@@ -88,9 +88,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-10",
-          title: 'project 10',
-          description: "A project with an introduction section",
+          section: "News",},{id: "projects-other-projects",
+          title: 'Other projects',
+          description: "Gaussian Process, Model-Free Learning, and Semi-Parametric GP Regression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-transfer-learning-approach-for-aerodynamics-applications",
@@ -128,14 +128,14 @@ ninja.data = [{
           description: "Non-linear, Adaptive, and Robust Control Applications for Attitude Controller Design of a Quadrotor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-wind-tunnel-experiments-quadrotor",
+          title: 'Wind Tunnel Experiments (Quadrotor)',
+          description: "Data Measurement System Design and Tests",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-rc-uav-projects",
+          title: 'RC-UAV Projects',
+          description: "aRC-UAV Design, Building, and Flight Tests, Aerodynamic, Flight Dynamic and Propulsion System Optimization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
