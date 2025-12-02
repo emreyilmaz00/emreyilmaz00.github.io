@@ -2,7 +2,7 @@
 layout: page
 title: RC-UAV Projects
 description: aRC-UAV Design, Building, and Flight Tests, Aerodynamic, Flight Dynamic and Propulsion System Optimization 
-img: assets/img/6.jpg
+img: /assets/img/dbf1.jpg
 importance: 4
 category: B.Sc. (METU)
 ---
