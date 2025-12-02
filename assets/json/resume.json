@@ -132,5 +132,13 @@
         "Wind Tunnel Tests"
       ]
     }
-  ]
+  ],
+  "review": [
+    {
+      "name": "IEEE Transactions on Cybernetics",
+      "date": "",
+      "issuer": "IEEE",
+      "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036",
+      "icon": "fa-solid fa-hashtag",
+    },
 }
