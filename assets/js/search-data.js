@@ -93,8 +93,8 @@ ninja.data = [{
           description: "Gaussian Process, Model-Free Learning, and Semi-Parametric GP Regression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-transfer-learning-approach-for-aerodynamics-applications",
-          title: 'Transfer Learning Approach for Aerodynamics Applications',
+            },},{id: "projects-transfer-learning-for-aerodynamics-applications",
+          title: 'Transfer Learning for Aerodynamics Applications',
           description: "Transfer Learning, Deep Learning, Wind Tunnel Tests",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
