@@ -2,7 +2,7 @@
 layout: page
 title: Advanced Air Mobility
 description: Multi Agent Path Planning, MPC, Deep RL, MuZero, Pseudospectral Methods 
-img:
+img: assets/img/traj2.png
 importance: 3
 category: Ph.D. (Georgia Tech)
 related_publications: true
