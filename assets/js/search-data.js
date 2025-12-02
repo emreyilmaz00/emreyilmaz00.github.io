@@ -123,9 +123,9 @@ ninja.data = [{
           description: "Landing Approach Surfaces Performance, Constraint, and Accuracy Analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-quadrotor-project",
+          title: 'Quadrotor Project',
+          description: "Non-linear, Adaptive, and Robust Control Applications for Attitude Controller Design of a Quadrotor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
