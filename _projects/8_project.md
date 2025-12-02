@@ -2,7 +2,7 @@
 layout: page
 title: Wind Tunnel Experiments (Quadrotor)
 description: Data Measurement System Design and Tests 
-img: assets/img/9.jpg
+img: /assets/img/quad0.jpg
 importance: 2
 category: M.Sc. (METU)
 giscus_comments: false
