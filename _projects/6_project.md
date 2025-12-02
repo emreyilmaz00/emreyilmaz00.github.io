@@ -2,7 +2,7 @@
 layout: page
 title: UAM Landing
 description: Landing Approach Surfaces Performance, Constraint, and Accuracy Analysis  
-img:
+img: /assets/img/land1.jpg
 importance: 4
 category: Ph.D. (Georgia Tech)
 related_publications: true
@@ -52,4 +52,3 @@ related_publications: true
 <div class="caption">
    The Obstacle Constraint on the Speed-Approach Angle figures and the Influence of Turbulence on Operations
 </div>
-
