@@ -108,9 +108,9 @@ ninja.data = [{
           description: "Deep Learning Applications to Airfoil Performance Prediction and Inverse Design, Deep ConvNets, cGANs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-advanced-air-mobility",
+          title: 'Advanced Air Mobility',
+          description: "Multi Agent Path Planning, MPC, Deep RL, MuZero, Pseudospectral Methods",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
