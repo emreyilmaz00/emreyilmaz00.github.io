@@ -100,7 +100,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-evtol-aircraft",
           title: 'eVTOL Aircraft',
-          description: "",
+          description: "Control Allocation, Hybrid-Automata, Path Planning, Contingency Planning, Flight Dynamics Modeling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
