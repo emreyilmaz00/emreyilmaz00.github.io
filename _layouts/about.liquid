@@ -50,51 +50,35 @@ layout: default
             {% endunless %}
           {% endif %}
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
-<!---         <a class="anchor" id="{{ data[0] }}"></a>
-#                <div class="card mt-3 p-3">
-#                  <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-#                <div>
---->
               {% case data[0] %}
-
-                {% when 'work' %}
-      <a class="anchor" id="{{ data[0] }}"></a>
-      <div class="card mt-3 p-3">
-      <div>
-        <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+              {% when 'work' %}
+               <a class="anchor" id="{{ data[0] }}"></a>
+                <div class="card mt-3 p-3">
+                 <div>
+                  <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                   {% include resume/work.liquid %}
-      </div>
-      </div>
-                {% else %}
-
-              {% endcase %}
-
-               {% case data[0] %}
-
-                {% when 'education' %}
-      <a class="anchor" id="{{ data[0] }}"></a>
-      <div class="card mt-3 p-3">
-      <div>
-        <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                 </div>
+                </div>
+                
+              {% when 'education' %}
+               <a class="anchor" id="{{ data[0] }}"></a>
+                <div class="card mt-3 p-3">
+                 <div>
+                  <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                   {% include resume/education.liquid %}
-      </div>
-      </div>
-                {% else %}
-
-              {% endcase %}
-
-               {% case data[0] %}
-
-                {% when 'interests' %}
-      <a class="anchor" id="{{ data[0] }}"></a>
-      <div class="card mt-3 p-3">
-      <div>
-        <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+                 </div>
+                </div>
+          
+              {% when 'interests' %}
+               <a class="anchor" id="{{ data[0] }}"></a>
+                <div class="card mt-3 p-3">
+                 <div>
+                  <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
                   {% include resume/interests.liquid %}
-      </div>
-      </div>
+                 </div>
+                </div>
 
-                {% else %}
+              {% else %}
 
               {% endcase %}
             </div>
