@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RC-UAV Projects
-description: aRC-UAV Design, Building, and Flight Tests, Aerodynamic, Flight Dynamic and Propulsion System Optimization 
+description: RC-UAV Design, Building, and Flight Tests, Aerodynamic, Flight Dynamic and Propulsion System Optimization 
 img: /assets/img/dbf1.jpg
 importance: 4
 category: B.Sc. (METU)
@@ -21,5 +21,5 @@ category: B.Sc. (METU)
     </div>
 </div>
 <div class="caption">
-    RC-UAV aircraft built for the competitions are shown in the photos. (Left: Anatolian-Craft DBF'10-11, Middle: Anatolian-Craft DBF'10-11, Right: Anatolian-Craft ACC'11)
+    RC-UAV aircraft built for the competitions (Left: Anatolian-Craft DBF'10-11, Middle: Anatolian-Craft DBF'10-11, Right: Anatolian-Craft ACC'11)
 </div>
