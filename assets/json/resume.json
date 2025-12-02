@@ -127,63 +127,14 @@
       "courses": ""      
     }
   ],
-  "languages": [
-    {
-      "language": "Turkish",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Data-Driven Aerodynamics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Scientific Mechine Learning",
-        "Flight Mechanics"
+        "Deep Learning",
+        "Wind Tunnel Tests"
       ]
     }
-  ],
-  "review": [
-    {
-      "name": "IEEE Transactions on Cybernetics",
-      "date": "",
-      "issuer": "IEEE",
-      "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Aerospace Science and Technology",
-      "date": "",
-      "issuer": "Elsevier",
-      "url": "https://www.sciencedirect.com/journal/aerospace-science-and-technology",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Journal of Turbomachinery",
-      "date": "",
-      "issuer": "ASME",
-      "url": "https://www.asme.org/publications-submissions/journals/find-journal/journal-turbomachinery",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "AIAA Journal",
-      "date": "",
-      "issuer": "AIAA",
-      "url": "https://arc.aiaa.org/loi/aiaaj",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Transportation Research Part C",
-      "date": "",
-      "issuer": "Elsevier",
-      "url": "https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies",
-      "icon": "fa-solid fa-hashtag"
-    }
-  ],
+  ]
 }
