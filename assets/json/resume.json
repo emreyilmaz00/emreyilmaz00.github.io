@@ -265,5 +265,47 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  ]
+  ],
+  "review": [
+    {
+      "name": "IEEE Transactions on Cybernetics",
+      "date": "",
+      "issuer": "IEEE",
+      "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036",
+      "icon": "fa-solid fa-hashtag",
+      "preview": "ieee_toc.png"
+    },
+    {
+      "name": "Aerospace Science and Technology",
+      "date": "",
+      "issuer": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/aerospace-science-and-technology",
+      "icon": "fa-solid fa-hashtag",
+      "preview": "ast.png"
+    },
+    {
+      "name": "Journal of Turbomachinery",
+      "date": "",
+      "issuer": "ASME",
+      "url": "https://www.asme.org/publications-submissions/journals/find-journal/journal-turbomachinery",
+      "icon": "fa-solid fa-hashtag",
+      "preview": "asme_jot.png"
+    },
+    {
+      "name": "AIAA Journal",
+      "date": "",
+      "issuer": "AIAA",
+      "url": "https://arc.aiaa.org/loi/aiaaj",
+      "icon": "fa-solid fa-hashtag",
+      "preview": "aiaa_j.png"
+    },
+    {
+      "name": "Transportation Research Part C",
+      "date": "",
+      "issuer": "Elsevier",
+      "url": "https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies",
+      "icon": "fa-solid fa-hashtag",
+      "preview": "els_trpc.png"
+    }
+  ],
 }
