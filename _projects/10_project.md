@@ -2,7 +2,7 @@
 layout: page
 title: Other projects
 description:  Gaussian Process, Model-Free Learning, and Semi-Parametric GP Regression   
-img: assets/img/engdec0.jpg
+img: assets/img/engdec0.png
 importance: 5
 category: Ph.D. (Georgia Tech)
 project_intro: false
