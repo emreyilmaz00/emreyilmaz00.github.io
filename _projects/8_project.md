@@ -3,7 +3,7 @@ layout: page
 title: Wind Tunnel Experiments
 description: Data Measurement System Design and Tests 
 img: /assets/img/quad0.jpg
-importance: 2
+importance: 8
 category: M.Sc. (METU)
 giscus_comments: false
 ---
