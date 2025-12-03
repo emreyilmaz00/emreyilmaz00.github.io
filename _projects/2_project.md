@@ -3,7 +3,7 @@ layout: page
 title: eVTOL Aircraft
 description: Control Allocation, Hybrid-Automata, Path Planning, Contingency Planning, Flight Dynamics Modeling
 img: assets/img/evtol0.png
-importance: 2
+importance: 3
 category: Ph.D. (Georgia Tech)
 giscus_comments: false
 related_publications: true
