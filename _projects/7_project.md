@@ -3,7 +3,7 @@ layout: page
 title: Quadrotor Project
 description: Non-linear, Adaptive, and Robust Control Applications for Attitude Controller Design of a Quadrotor  
 img: assets/img/quad4.jpg
-importance: 1
+importance: 7
 category: M.Sc. (METU)
 related_publications: true
 bibliography: papers.bib
