@@ -3,7 +3,7 @@ layout: page
 title: RC-UAV Projects
 description: RC-UAV Design, Building, and Flight Tests, Aerodynamic, Flight Dynamic and Propulsion System Optimization 
 img: /assets/img/dbf1.jpg
-importance: 4
+importance: 9
 category: B.Sc. (METU)
 ---
 
