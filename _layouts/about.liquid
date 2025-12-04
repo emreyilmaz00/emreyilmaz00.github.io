@@ -72,7 +72,7 @@ layout: default
       <div class="cv">
         {% for entry in site.data.cv %}
 
-              {% case data[0] %}
+              {% case entry.title %}
                 {% when 'education' %}
                   <a class="anchor" id="{{ entry.title }}"></a>
                   <div class="card mt-3 p-3">
