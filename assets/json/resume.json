@@ -129,8 +129,18 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Deep Learning",
+        "Surrogate Modeling",
         "Wind Tunnel Tests"
       ]
-    }
+    },
+    {
+      "name": "Multi-Disciplinary Optimization",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "eVTOL Aircraft",
+        "Advanced Air Mobility",
+        "Contingency Planning"
+      ]
+    }    
   ]
 }
