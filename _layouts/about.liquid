@@ -71,20 +71,23 @@ layout: default
     <article>
       <div class="cv">
         {% for entry in site.data.cv %}
-            <a class="anchor" id="{{ entry.title }}"></a>
+            
               {% case entry.title %}
                 {% when 'education' %}
-                  <div class="card mt-3 p-3">
+                   <a class="anchor" id="{{ entry.title }}"></a>
+                   <div class="card mt-3 p-3">
                    <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-                  <div>
+                   <div>
                 {% when 'work' %}
-                  <div class="card mt-3 p-3">
-                  <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-                  <div>
-                {% when 'interests' %}            
-                  <div class="card mt-3 p-3">
-                  <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-                  <div>
+                   <a class="anchor" id="{{ entry.title }}"></a>
+                   <div class="card mt-3 p-3">
+                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                   <div>
+                {% when 'interests' %}
+                   <a class="anchor" id="{{ entry.title }}"></a>
+                   <div class="card mt-3 p-3">
+                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                   <div>
                 {% else %}
 
               {% endcase %}
