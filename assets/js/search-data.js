@@ -56,24 +56,24 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/5_project/";
+                window.location.href = "/projects/6_project/";
               },
             },{id: "dropdown-reliability-projects-ph-d",
               title: "Reliability Projects (Ph.D.)",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/6_project/";
+                window.location.href = "/projects/5_project/";
               },
-            },{id: "dropdown-projects-m-sc",
-              title: "Projects (M.Sc.)",
+            },{id: "dropdown-quadrotor-projects-m-sc",
+              title: "Quadrotor Projects (M.Sc.)",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/projects/8_project/";
               },
-            },{id: "dropdown-projects-b-sc",
-              title: "Projects (B.Sc.)",
+            },{id: "dropdown-rc-uav-projects-b-sc",
+              title: "RC UAV Projects (B.Sc.)",
               description: "",
               section: "Dropdown",
               handler: () => {
