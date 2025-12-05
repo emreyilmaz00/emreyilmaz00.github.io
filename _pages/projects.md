@@ -9,7 +9,7 @@ display_categories: [Research (DLR), Ph.D. (Georgia Tech), M.Sc. (METU), B.Sc. (
 horizontal: false
 dropdown: true
 children:
-  - title: Projects (List)
+  - title: Projects (All)
     permalink: /projects/
   - title: divider
   - title: Projects (DLR)
@@ -31,7 +31,6 @@ children:
   - title: divider
   - title: RC UAV Projects (B.Sc.)
     permalink: /projects/10_project/
-  - title: divider
 ---
 
 <!-- pages/projects.md -->
