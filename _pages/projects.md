@@ -22,14 +22,14 @@ children:
   - title: AAM Projects (Ph.D.)
     permalink: /projects/4_project/
   - title: UAM Landing Projects (Ph.D.)
-    permalink: /projects/5_project/
+    permalink: /projects/6_project/
   - title: Reliability Projects (Ph.D.)
-    permalink: /projects/6_project/      
+    permalink: /projects/5_project/      
   - title: divider
-  - title: Projects (M.Sc.)
+  - title: Quadrotor Projects (M.Sc.)
     permalink: /projects/8_project/
   - title: divider
-  - title: Projects (B.Sc.)
+  - title: RC UAV Projects (B.Sc.)
     permalink: /projects/10_project/
   - title: divider
 ---
