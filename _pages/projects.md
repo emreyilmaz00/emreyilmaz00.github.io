@@ -15,14 +15,22 @@ children:
   - title: Projects (DLR)
     permalink: /projects/1_project/
   - title: divider
-  - title: Projects (Ph.D.)
+  - title: AI Projects (Ph.D.)
     permalink: /projects/2_project/
+  - title: eVTOL Projects (Ph.D.)
+    permalink: /projects/3_project/
+  - title: AAM Projects (Ph.D.)
+    permalink: /projects/4_project/
+  - title: UAM Landing Projects (Ph.D.)
+    permalink: /projects/5_project/
+  - title: Reliability Projects (Ph.D.)
+    permalink: /projects/6_project/      
   - title: divider
   - title: Projects (M.Sc.)
-    permalink: /projects/3_project/
+    permalink: /projects/8_project/
   - title: divider
   - title: Projects (B.Sc.)
-    permalink: /projects/4_project/
+    permalink: /projects/10_project/
   - title: divider
 ---
 
