@@ -30,26 +30,54 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projects/1_project/";
               },
-            },{id: "dropdown-projects-ph-d",
-              title: "Projects (Ph.D.)",
+            },{id: "dropdown-ai-projects-ph-d",
+              title: "AI Projects (Ph.D.)",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/projects/2_project/";
+              },
+            },{id: "dropdown-evtol-projects-ph-d",
+              title: "eVTOL Projects (Ph.D.)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/3_project/";
+              },
+            },{id: "dropdown-aam-projects-ph-d",
+              title: "AAM Projects (Ph.D.)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/4_project/";
+              },
+            },{id: "dropdown-uam-landing-projects-ph-d",
+              title: "UAM Landing Projects (Ph.D.)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/5_project/";
+              },
+            },{id: "dropdown-reliability-projects-ph-d",
+              title: "Reliability Projects (Ph.D.)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/6_project/";
               },
             },{id: "dropdown-projects-m-sc",
               title: "Projects (M.Sc.)",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/3_project/";
+                window.location.href = "/projects/8_project/";
               },
             },{id: "dropdown-projects-b-sc",
               title: "Projects (B.Sc.)",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/4_project/";
+                window.location.href = "/projects/10_project/";
               },
             },{id: "nav-services",
           title: "Services",
