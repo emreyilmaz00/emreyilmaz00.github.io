@@ -71,26 +71,11 @@ layout: default
     <article>
       <div class="cv">
         {% for entry in site.data.cv %}
-            
-              {% case entry.title %}
-                {% when 'education' %}
                    <a class="anchor" id="{{ entry.title }}"></a>
                    <div class="card mt-3 p-3">
                    <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
                    <div>
-                {% when 'work' %}
-                   <a class="anchor" id="{{ entry.title }}"></a>
-                   <div class="card mt-3 p-3">
-                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-                   <div>
-                {% when 'interests' %}
-                   <a class="anchor" id="{{ entry.title }}"></a>
-                   <div class="card mt-3 p-3">
-                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-                   <div>
-                {% else %}
 
-              {% endcase %}
 
                 {% if entry.type == 'list' %}
                   {% include cv/list.liquid %}
