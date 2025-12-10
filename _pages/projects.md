@@ -15,10 +15,10 @@ children:
   - title: Projects (DLR)
     permalink: /projects/1_project/
   - title: divider
-  - title: AI Projects (Ph.D.)
-    permalink: /projects/2_project/
-  - title: eVTOL Projects (Ph.D.)
+  - title: ML Projects (Ph.D.)
     permalink: /projects/3_project/
+  - title: eVTOL Projects (Ph.D.)
+    permalink: /projects/2_project/
   - title: AAM Projects (Ph.D.)
     permalink: /projects/4_project/
   - title: UAM Landing Projects (Ph.D.)
