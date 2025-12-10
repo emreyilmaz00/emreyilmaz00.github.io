@@ -9,9 +9,9 @@ nav_order: 6
 
 <article>
   <div class="cv">
-  {% for data in site.data.resume %}
-    {% if site.jsonresume and site.jsonresume.size > 0 %}
-      {% unless site.jsonresume contains data[0] %}
+  {% for data in site.data.resume2 %}
+    {% if site.jsonresume2 and site.jsonresume2.size > 0 %}
+      {% unless site.jsonresume2 contains data[0] %}
         {% continue %}
       {% endunless %}
     {% endif %}
