@@ -30,7 +30,7 @@ children:
     permalink: /projects/8_project/
   - title: divider
   - title: RC UAV Projects (B.Sc.)
-    permalink: /projects/10_project/
+    permalink: /projects/9_project/
 ---
 
 <!-- pages/projects.md -->
