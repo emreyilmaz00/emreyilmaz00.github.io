@@ -117,15 +117,19 @@ layout: default
           {% case data[0] %}
           {% when 'education' %}
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-            {% include resume/education.liquid %}
+<div>     
+{% include resume/education.liquid %}
           {% when 'work' %}
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-            {% include resume/work.liquid %}
-          {% when 'interests' %}
+<div>
+{% include resume/work.liquid %}
+        
+{% when 'interests' %}
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>  
-            {% include resume/interests.liquid %}
+<div>            
+{% include resume/interests.liquid %}
              
-                <div>                   
+                                   
               {% endcase %}
             </div>
           </div>
