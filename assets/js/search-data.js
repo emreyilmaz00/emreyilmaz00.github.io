@@ -30,19 +30,19 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projects/1_project/";
               },
-            },{id: "dropdown-ai-projects-ph-d",
-              title: "AI Projects (Ph.D.)",
+            },{id: "dropdown-ml-projects-ph-d",
+              title: "ML Projects (Ph.D.)",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/2_project/";
+                window.location.href = "/projects/3_project/";
               },
             },{id: "dropdown-evtol-projects-ph-d",
               title: "eVTOL Projects (Ph.D.)",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/3_project/";
+                window.location.href = "/projects/2_project/";
               },
             },{id: "dropdown-aam-projects-ph-d",
               title: "AAM Projects (Ph.D.)",
