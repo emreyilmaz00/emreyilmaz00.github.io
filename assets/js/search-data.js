@@ -149,9 +149,9 @@ ninja.data = [{
           description: "Non-linear, Adaptive, and Robust Control Applications for Attitude Controller Design of a Quadrotor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-wind-tunnel-experiments",
-          title: 'Wind Tunnel Experiments',
-          description: "Data Measurement System Design and Tests",
+            },},{id: "projects-quadrotor-projects",
+          title: 'Quadrotor Projects',
+          description: "Controller Design, Nonlinear Adaptive Control, Data Measurement System Design and Tests",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-rc-uav-projects",
