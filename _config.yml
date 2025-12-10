@@ -648,7 +648,7 @@ jekyll_get_json:
   - data: resume2
     json: assets/json/resume2.json # it can also be an url
 
-jsonresume:
+jsonresume2:
 #  - basics
 #  - work
 #  - education
