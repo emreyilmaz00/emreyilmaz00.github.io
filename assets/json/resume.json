@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "Multi-Disciplinary Optimization",
+      "name": "Multi-Disciplinary Design and Optimization (MDO)",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "eVTOL Aircraft",
@@ -117,6 +117,15 @@
         "Flight Dynamics Modeling",
         "Control and Estimation",
         "Trajectory Optimization"
+      ]
+    },
+    {
+      "name": "Reliability Engineering and System Safety",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Uncertainty Propagation",
+        "Resource Allocation",
+        "Fault Trees"
       ]
     }    
   ]
