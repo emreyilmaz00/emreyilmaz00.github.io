@@ -109,6 +109,15 @@
         "Advanced Air Mobility",
         "Contingency Planning"
       ]
+    },
+    {
+      "name": "Flight Dynamics and Control",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Flight Dynamics Modeling",
+        "Control and Estimation",
+        "Trajectory Optimization"
+      ]
     }    
   ]
 }
