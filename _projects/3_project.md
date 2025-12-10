@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-## ConNet Approach for Training Predictors for Airfoil Performance
+## ConvNets for Training Predictors for Airfoil Performance
  - Medium-fidelity predictors were trained for predicting airfoil performance using deep convolutional neural networks. The framework was implemented in Tensorflow. 
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2017-3660">AIAA Aviation'17</a> {% cite yilmaz17 %}.
   
@@ -25,7 +25,7 @@ toc:
 </div>
 
 
-## Deep Learning Approach to an Airfoil Inverse Desing Problem
+## ConvNets for Airfoil Inverse Design
  - Airfoil inverse problem was reformulated and solved using a framework constructed with deep convolutional neural networks.
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2018-3420">AIAA Aviation'18</a> {% cite yilmaz18 %}.
    
@@ -42,7 +42,7 @@ toc:
 </div>
 
 
-## Conditional Generative Adversarial Networks for Airfoil Inverse Design
+## CGANs for Airfoil Inverse Design
  - A game theoretic framework was investigated by training conditional generative adversarial networks (CGANs) to generate airfoil shapes given the desired airfoil performance criteria. 
  - Published a conference paper: <a href="https://arc.aiaa.org/doi/10.2514/6.2020-3185">AIAA Aviation'20</a> {% cite yilmaz20 %}.
  - **Funding Proposal Experience** <br/>
