@@ -5,6 +5,8 @@ title: Teaching
 description:
 nav: true
 nav_order: 6
+toc:
+  sidebar: left
 ---
 
 ## Teaching Assistant (Georgia Tech) [Fall 2014 - Fall 2015, Fall 2022] <br/> 
