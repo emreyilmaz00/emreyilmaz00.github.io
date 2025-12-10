@@ -643,22 +643,3 @@ jsonresume:
   - interests
 #  - references
 #  - review
-
-jekyll_get_json:
-  - data: resume2
-    json: assets/json/resume2.json # it can also be an url
-
-jsonresume2:
-#  - basics
-#  - work
-#  - education
-#  - publications
-#  - projects
-  - volunteer
-#  - awards
-#  - certificates
-#  - skills
-#  - languages
-#  - interests
-#  - references
-#  - review
