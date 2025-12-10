@@ -17,15 +17,14 @@ nav_order: 6
     {% endif %}
     {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
     {% case data[0] %}
-<!---    {% when 'review' %}
-        <a class="anchor" id="{{ data[0] }}"></a>
-        <div class="card mt-3 p-3">
-        <div>
-          <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-          {% include resume/review.liquid %}
-        </div>
-        </div>
---->
+    {% when 'review' %}
+      <a class="anchor" id="{{ data[0] }}"></a>
+      <div class="card mt-3 p-3">
+      <div>
+        <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+        {% include resume/review.liquid %}
+      </div>
+      </div>
     {% when 'volunteer' %}
       <a class="anchor" id="{{ data[0] }}"></a>
       <div class="card mt-3 p-3">
