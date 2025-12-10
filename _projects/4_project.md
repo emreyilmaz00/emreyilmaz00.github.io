@@ -12,7 +12,7 @@ toc:
 
 AAM/UAM air traffic management problems were formulated and solved via various optimization approaches. 
 
-## Model Predictive Control Approach
+## Model Predictive Control
 
 We solved high-capacity urban air traffic optimization problems using model predictive control with constraint aggregation techniques. In a multi-agent environment, agent trajectories were optimized based on origin-destination pairs for the following optimization paradigms: 
   - Centralized optimization at each time step 
@@ -48,7 +48,7 @@ We solved high-capacity urban air traffic optimization problems using model pred
 </div> 
  
  
-## Deep Reinforcement Learning Approach
+## Deep Reinforcement Learning
 
   Inspired by the success of DeepMind’s deep reinforcement learning algorithm, <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules">MuZero</a>, in mastering games without any knowledge about the rules and the environment, we investigated the feasibility of using MuZero for AAM research by casting the dynamic obstacle avoidance problem as a game.
  
