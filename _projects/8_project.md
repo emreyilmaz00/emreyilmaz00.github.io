@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wind Tunnel Experiments
-description: Data Measurement System Design and Tests 
+title: Quadrotor Projects
+description: Controller Design, Nonlinear Adaptive Control, Data Measurement System Design and Tests 
 img: /assets/img/quad0.jpg
 importance: 8
 category: M.Sc. (METU)
@@ -12,11 +12,12 @@ toc:
   sidebar: left
 ---
 
-## Attitude Controller Design for a Quadrotor via Non-linear, Adaptive and Robust Control Techniques
+## Attitude Controller Design Using Non-linear, Adaptive and Robust Control Techniques
 
 We investigated adaptive, non-linear and robust control techniques to design an attitude controller for a quadrotor. The design and simulation of attitude controllers were carried out using non-linear dynamic inversion, model reference adaptive control (MRAC), MRAC with robustness modifications, and integral backstepping. Experiments were performed with an AscTech Hummingbird quadrotor. 
  
   -Published two conference papers: <a href="https://arc.aiaa.org/doi/10.2514/6.2014-2671"> [AIAA'14]</a> {% cite yilmaz14 %}, <d-cite key="yilmaz14"></d-cite>,  [AIAC'13] {% cite yilmaz13 %}.
+
 
 
 ## Wind Tunnel Data Measurement System Design and Tests
