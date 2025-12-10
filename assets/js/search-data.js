@@ -77,7 +77,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/10_project/";
+                window.location.href = "/projects/9_project/";
               },
             },{id: "nav-services",
           title: "Services",
