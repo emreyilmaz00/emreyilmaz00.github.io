@@ -9,8 +9,12 @@ related_publications: true
 ---
 
 
-**A Transfer Learning Approach to Predicting Onflow Parameters for Domain and Task Adaptation**
+## A Transfer Learning Approach to Predicting Onflow Parameters for Domain and Task Adaptation
+
+
 {% cite yilmaz26 %}
 
-**A Transfer Learning Approach to Predicting Onflow Parameters During Wind Tunnel Tests**
+
+
+## A Transfer Learning Approach to Predicting Onflow Parameters During Wind Tunnel Tests
 {% cite yilmaz25 %}
