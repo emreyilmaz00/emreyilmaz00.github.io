@@ -8,6 +8,8 @@ category: M.Sc. (METU)
 giscus_comments: false
 related_publications: true
 bibliography: papers.bib
+toc:
+  sidebar: left
 ---
 
 ## Attitude Controller Design for a Quadrotor via Non-linear, Adaptive and Robust Control Techniques
