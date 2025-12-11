@@ -12,7 +12,7 @@ children:
   - title: Projects (All)
     permalink: /projects/
   - title: divider
-  - title: Projects (DLR)
+  - title: ML Projects (DLR)
     permalink: /projects/1_project/
   - title: divider
   - title: ML Projects (Ph.D.)
