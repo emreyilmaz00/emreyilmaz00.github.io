@@ -22,9 +22,4 @@ related_publications: true
  - With the goal of bringing the knowledge learned from computational fluid dynamics (CFD) data to the wind tunnel testing phase with streaming data, a transfer learning approach is proposed and demonstrated for a wind turbine blade tip.
  - This approach requires first training a neural network offline by using only CFD data, then freezing the weights of the selected layers, and retraining the remaining weights using only wind tunnel data.
  - The feasibility of knowledge transfer from CFD runs to wind tunnel tests as well as real-time prediction and online learning during the experiments are successfully demonstrated.
- - Published a conference paper: <a href="https://www.sciencedirect.com/science/article/pii/S1270963825012246">AIAA Aviation'25</a> {% cite yilmaz25 %}.
-
-
-
-
-https://arc.aiaa.org/doi/abs/10.2514/6.2025-3588
+ - Published a conference paper: <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2025-3588">AIAA Aviation'25</a> {% cite yilmaz25 %}.
