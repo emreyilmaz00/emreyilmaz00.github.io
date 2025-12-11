@@ -7,6 +7,8 @@ importance: 3
 category: Ph.D. (Georgia Tech)
 giscus_comments: false
 related_publications: true
+toc:
+  sidebar: left
 ---
 
 **Introduction**
