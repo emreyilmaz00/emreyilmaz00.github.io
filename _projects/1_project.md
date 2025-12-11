@@ -10,8 +10,14 @@ toc:
     sidebar: left
 ---
 
-
 ### Predicting Onflow Parameters for Domain and Task Adaptation
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cfd2wt.png" title="TL Framework" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 
  - A convolutional neural network (ConvNet) model is used to predict angle of attack and onflow speed based on sparse surface pressure data.
  - A transfer learning framework utilizing the ConvNet model is proposed for domain and task adaptation.
