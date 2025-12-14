@@ -48,6 +48,6 @@ Specifically, I focused on the following subjects for tandem tiltwing eVTOL airc
    VSPAERO Trailing Vortex Solutions
 </div>
 
-<video loop controls='true' width='100%' height='100%'>      
+<!--- video loop controls='true' width='100%' height='100%'>      
    <% include video.liquid path="assets/video/la8_ff.mp4" type='video/mp4'>
-</video>
+</video --->
