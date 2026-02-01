@@ -8,7 +8,7 @@ category: Ph.D. (Georgia Tech)
 related_publications: true
 
 ---
-
+ - Motivates efforts to analyze and understand the influence of UAM concept on regulations, procedures, and design
  - Landing approach surfaces design and performance analysis in terms of energy, power, and time 
  - Constraint analysis considering inflow modeling, vortex ring state (VRS), acceleration limits, h-V (dead man's) diagram, speed limits, obstacles, and FAA regulations
  - Landing simulations under turbulence using retrofitted tilt-wing flight dynamic models and landing accuracy analysis via circular error probables
