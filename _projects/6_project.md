@@ -2,7 +2,7 @@
 layout: page
 title: UAM Landing
 description: Landing Approach Surfaces Performance, Constraint, and Accuracy Analysis  
-img: /assets/img/land1.jpg
+img: /assets/img/land10.jpg
 importance: 6
 category: Ph.D. (Georgia Tech)
 related_publications: true
