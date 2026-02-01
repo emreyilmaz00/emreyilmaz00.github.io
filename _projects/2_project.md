@@ -2,7 +2,7 @@
 layout: page
 title: eVTOL Aircraft
 description: Control Allocation, Hybrid-Automata, Path Planning, Contingency Planning, Flight Dynamics Modeling
-img: assets/img/evtol0.png
+img: assets/img/evtol2.png
 importance: 3
 category: Ph.D. (Georgia Tech)
 giscus_comments: false
@@ -26,17 +26,17 @@ Specifically, I focused on the following subjects for tandem tiltwing eVTOL airc
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vsp0.png" title="Bare Airframe" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/evtol2.png" title="Hover" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vsp1.png" title="Props On" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/evtol3.png" title="Forward Flight" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    VSPAERO Trailing Vortex Solution at Forward Flight Condition
+    VSPAERO Solutions
 </div>
  
-<div class="row mt-3">
+<!--- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/la8_ff.mp4" title="Forward Flight Condition" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
@@ -48,6 +48,6 @@ Specifically, I focused on the following subjects for tandem tiltwing eVTOL airc
    VSPAERO Trailing Vortex Solutions
 </div>
 
-<!--- video loop controls='true' width='100%' height='100%'>      
+video loop controls='true' width='100%' height='100%'>      
    <% include video.liquid path="assets/video/la8_ff.mp4" type='video/mp4'>
 </video --->
