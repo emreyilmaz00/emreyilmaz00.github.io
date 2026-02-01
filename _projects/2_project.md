@@ -15,7 +15,7 @@ toc:
 
 With the introduction of novel eVTOL aircraft and drones into air space, the complexity in aircraft design and air space management will drastically increase. Safety and efficiency concerns must be solved before successful commercial flight operations can begin. In my research related to eVTOL aircraft, the objective is to respond to these concerns by formulating and solving optimization problems that can help enabling these technologies.  
 
-Specifically, I focused on the following subjects for tandem tiltwing eVTOL aircraft with distirubted propulsion in my PhD thesis {% cite yilmaz23phd %}:
+In my PhD thesis, I specifically focused on the following subjects for a tandem tiltwing eVTOL aircraft with distributed electric propulsion and redundant flight control systems {% cite yilmaz23phd %}:
 
   - Surrogate Modeling for Aeropropulsive Forces and Moments 
   - Control Allocation Optimization for Over-Actuated eVTOL Aircraft {% cite yilmaz24 %}
